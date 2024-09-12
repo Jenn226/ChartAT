@@ -1,0 +1,10 @@
+bar chart
+Do you own a game console, like an Xbox or Play Station?
+0% 70% gray dark blue
+Millennials (18-34) 63%
+Gen X (35-46) 63%
+Younger Boomers (47-56) 38%
+Older Boomers (57-65) 19%
+Silent Gen. (66-74) 8%
+G.I. Gen. (75+) 3%
+All adults (18+) 42%

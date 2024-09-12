@@ -1,0 +1,9 @@
+line chart
+Immigrant share of U.S. population nears historic high 
+% of U.S. population that is foreign born
+0% 15% 1850 2018 yellow
+1850 9.7%
+1890 14.8%
+1970 4.7%
+2018 13.7%
+1965: Immigration and Nationality Act was passed

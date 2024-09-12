@@ -1,0 +1,14 @@
+Bar chart
+Since 2005, EU countries have received billions of investment dollars from China
+Chinese investment by country 2005-2018 (billions,US$)
+green
+UK $85.3 
+Germany $41.7 
+France $25.5 
+Italy $25.0 
+Netherlands $14.1 
+Sweden $12.0 
+Greece $9.9 
+Spain $7.1 
+Hungary $4.0 
+Poland $1.9 

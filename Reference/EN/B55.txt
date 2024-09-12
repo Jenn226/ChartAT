@@ -1,0 +1,10 @@
+Bar chart
+Technologies that would be very hard to give up 
+% of all adults who say these technologies would be very hard or impossible to give up
+0% 60% blue
+Internet 46%
+Cell phone 44%
+Television 35%
+Email 34%
+Landline telephone 17%
+Social media 10%

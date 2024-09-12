@@ -1,0 +1,8 @@
+Bar chart
+Majority of parents say their child 11 or younger watches videos on YouTube 
+% of U.S. parents of a child age 11 or younger who say their child ever watches videos on YouTube
+Dark blue
+Total 80%
+Age of child 0-2 57%
+3-4 81%
+5-11 89%

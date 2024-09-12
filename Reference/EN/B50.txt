@@ -1,0 +1,10 @@
+Bar chart
+Gadget Ownership, 2010 
+% of American adults who own each device dark blue 0% 100%
+Cell phone 85%
+Desktop computer 59%
+Laptop computer 52%
+mp3 player 47%
+Game console 42%
+e-Book reader 5%
+Tablet computer 4%

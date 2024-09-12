@@ -1,0 +1,9 @@
+bar chart
+Figure 3: Spending for online content in a given month by percentage of internet users
+dark blue 0% 50% % of internet users
+$1-$10 43%
+$11-$30 25%
+$31-$50 14%
+$51-$100 11%
+$100< 7%
+Money spent for online content in a given month

@@ -1,0 +1,18 @@
+bar chart
+Figure 1. Number of online content types purchased by internet users
+Number of online content types dark blue
+1 25%
+2 21%
+3 15%
+4 11%
+5 12%
+6 7%
+7 4%
+8 1.5%
+9 1.4%
+10 0.5%
+11 0.9%
+12 0.6%
+14 0.4%
+Pew Research Center's Internet & American Life Project, October 28-November 1,
+2010 Tracking Survey. N=755 adults and the margin of error is +/- 3.9 percentage points.

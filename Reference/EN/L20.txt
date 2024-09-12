@@ -1,0 +1,7 @@
+World population growth is projected to flatten in coming decades
+World population, in billions
+green
+1950 2100
+1950 2.5
+2000 7.8
+2100 10.9

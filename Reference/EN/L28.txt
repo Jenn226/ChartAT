@@ -1,0 +1,7 @@
+line chart
+U.S. imprisonment rate has been on the decline since the late 2000s
+Prisoners per 100,000 adults ages 18 and older
+1988 2018 yellow
+1988 331
+2007 670
+2018 555

@@ -1,0 +1,8 @@
+Bar chart
+Latinos are roughly half of immigrant eligible voters in Florida and Texas
+% of immigrant eligible voters who are Latino yellow
+Florida 54%
+Texas 52%
+California 37%
+New Jersey 32%
+New York 25%

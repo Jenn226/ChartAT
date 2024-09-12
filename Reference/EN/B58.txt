@@ -1,0 +1,7 @@
+Bar chart
+Most Democrats with high science knowledge say human activity contributes a great deal to climate change, but there is no parallel among GOP 
+% of Republicans or Democrats who say human activity contributes a great deal to global climate change
+Republican Among those who have science knowledge red
+Low 25% Medium 25% High 17%
+Democrat Among those who have science knowledge blue
+Low 41% Medium 74% High 89%

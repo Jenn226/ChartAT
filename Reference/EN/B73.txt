@@ -1,0 +1,7 @@
+Bar chart
+Those who place greater importance on following the news are more accurate in identifying original reporting
+Among U.S. adults who say following the news is to being a good citizen, % who correctly identified whether three or more of six sources do original news reporting
+Dark red brown
+Very important 55%
+Somewhat important 44%
+Not too/at all important 32%

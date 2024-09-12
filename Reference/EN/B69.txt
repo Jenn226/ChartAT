@@ -1,0 +1,13 @@
+Bar chart
+Top states for U.S. refugee resettlement in fiscal 2019
+Number of refugees resettled by state green
+Texas 2,500
+Washington 1,900
+New York 1,800
+California 1,800
+Kentucky 1,400
+Ohio 1,400
+North Carolina 1,300
+Arizona 1,200
+Georgia 1,200
+Michigan 1,100

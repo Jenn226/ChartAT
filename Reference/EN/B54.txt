@@ -1,0 +1,10 @@
+Bar chart
+Do you own an iPod or other mp3 player?
+0% 100% dark blue gray
+Millennials (18-34) 74%
+Gen X (35-46) 56%
+Younger Boomers (47-56) 42%
+Older Boomers (57-65) 26%
+Silent Gen. (66-74) 16%
+G.I. Gen. (75+) 3%
+All adults (18+) 47%

@@ -1,0 +1,10 @@
+bar chart
+Using cell phones as a TV "distraction device"
+% of cell owners in each age group who have used their phone in the last 30 days to keep themselves occupied during breaks or commercials while watching television
+0% 80% dark blue
+18-24 73%
+25-34 56%
+35-44 45%
+45-54 27%
+55-64 16%
+65+ 9%

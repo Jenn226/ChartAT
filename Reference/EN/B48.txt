@@ -1,0 +1,7 @@
+Bar chart
+How often users click on advertisements
+% of respondents 0 60 dark blue
+Never 45
+Hardly Ever 35
+Sometimes 18
+Often 3

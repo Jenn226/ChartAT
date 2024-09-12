@@ -1,0 +1,11 @@
+line chart
+After brief plateau, telephone survey response rates have fallen again
+Response rate by year (%)
+1997 2018 yellow
+1997 36%
+2001 28%
+2005 21%
+2009 15%
+2013 9%
+2016 9%
+2018 6%

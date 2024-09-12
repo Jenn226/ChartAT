@@ -1,0 +1,7 @@
+line chart
+The U.S. military has downsized considerably in the post-Cold War era
+Total size of U.S. active duty force
+0 2.5 million 1990 2017 green
+1990 2,065,597
+2000 1,404,215 9/11 terrorist attack
+2017 1,335,120

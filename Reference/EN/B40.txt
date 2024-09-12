@@ -1,0 +1,8 @@
+bar chart
+More devices, more likely to tweet
+The more internet-connected devices someone owns, the more likely she is to use Twitter or another service to update her status.
+Number of devices 10% 50% dark blue % of internet users
+One 10%
+Two 19%
+Three 28%
+Four or more 39%

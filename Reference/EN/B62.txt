@@ -1,0 +1,10 @@
+Bar chart
+Trump's major foreign policies are unpopular globally 
+% who _ of each policy of U.S. President Donald Trump
+Green Approve blue disapprove
+U.S. increasing tariffs or fees on imported goods from other countries 18% 68%
+U.S. withdrawal from international climate change agreements 14% 66%
+Building a wall on the border between the U.S. and Mexico 24% 60%
+Allowing fewer immigrants into the U.S. 34% 55%
+U.S. withdrawal from the Iran nuclear weapons agreement 29% 52%
+U.S. negotiations with North Korean leader Kim Jong Un about the country's nuclear weapons 41% 36%

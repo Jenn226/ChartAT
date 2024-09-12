@@ -1,0 +1,10 @@
+bar chart
+U.S. Hispanic population growth has slowed
+Average annual growth rate in U.S. Hispanic population
+yellow orange %
+1990-1995 4.5%
+1995-2000 4.8%
+2000-2005 3.8%
+2005-2010 3.4%
+2010-2015 2.1%
+2015-2019 1.9%

@@ -1,0 +1,6 @@
+bar chart
+Number of online activities done on typical day Home broadand users, December 2005
+purple
+rural 2.7
+urban 2.8
+suburban 2.8

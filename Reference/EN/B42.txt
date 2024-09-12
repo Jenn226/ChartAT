@@ -1,0 +1,9 @@
+bar chart
+Breadwinner Husband-Homemaker Wife Marriages, by Age of Wife
+% of married couples
+green
+All 24%
+18-29 32%
+30-49 27%
+50-64 22%
+65+ 14%

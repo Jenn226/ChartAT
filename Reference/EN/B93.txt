@@ -1,0 +1,7 @@
+Bar chart
+Republicans more likely than Democrats to say local journalists should not express views on local issues 
+% of U.S. adults who think local journalists should not express their views on local issues
+gray red blue
+Total 61%
+Rep/lean Rep 71%
+Dem/lean Dem 54%

@@ -1,0 +1,11 @@
+Bar chart
+Both e-reader and tablet  far behind other devices
+% of adults who own each gadget
+0% 100% dark blue
+Cell Phone 83% 
+Desktop 57% 
+Laptop 56% 
+DVR 52% 
+MP3 44% 
+e-reader 12% 
+Tablet 8% 

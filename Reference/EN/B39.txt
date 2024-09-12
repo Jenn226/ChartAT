@@ -1,0 +1,7 @@
+bar chart
+Number of online activities done on typical day
+(All users, December 2005)
+purple
+rural 1.9
+urban 2.2
+suburban 2.2

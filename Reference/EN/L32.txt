@@ -1,0 +1,10 @@
+line chart
+Puerto Rico's population is at its lowest point since 1979
+Total population, in millions
+0 4 million 1950 2018 brown
+1950 2.2
+1980 3.2
+2004 3.8
+2017 3.3
+2018 3.2
+Hurricanes Maria and Irma struck Puerto Rico in September 2017

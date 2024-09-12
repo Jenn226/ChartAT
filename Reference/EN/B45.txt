@@ -1,0 +1,7 @@
+Bar chart
+Figure 2. Number of types of payment methods
+% of internet users dark blue 0.0% 70.0%
+1 66%
+2 24%
+3 11%
+Number of types of payment methods

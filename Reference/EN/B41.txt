@@ -1,0 +1,9 @@
+bar chart
+Dual-Income Marriages, by Age of Wife
+% of married couples
+green
+All 47%
+18-29 57%
+30-49 62%
+50-64 46%
+65+ 6%

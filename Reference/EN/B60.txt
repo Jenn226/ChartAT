@@ -1,0 +1,7 @@
+Bar chart
+Share of newsroom employees ages 35 to 54 dropped from about half in 2008 to about a third in 2018 
+% of full-time U.S. newsroom employees who are
+Pink dark red yellow
+Ages 55+ 2008 15% 2018 25%
+35-54 2008 48% 2018 36%
+18-34 2008 37% 2018 39%

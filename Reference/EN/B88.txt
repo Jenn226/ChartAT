@@ -1,0 +1,8 @@
+Bar chart
+Those living close to a coastline are more likely to say climate change is affecting their local community 
+% of U.S. adults who say global climate change is currently affecting their local community a great deal or some
+U.S. adults 59%
+Distance to coastline dark blue
+Less than 25 miles 67%
+25-299 miles 59%
+300+ miles 50%

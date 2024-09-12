@@ -1,0 +1,6 @@
+Bar chart
+Majority of black Americans prefer to get news from television
+% of U.S. adults who say they prefer television for getting news
+Black 60% dark red
+White 43% pink
+Hispanic 45% light red

@@ -1,0 +1,6 @@
+bar chart
+Number of PCs with One or More P2P Applications Installed
+100 220 millions dark blue
+June 2006 183 million PCs
+June 2007 192 million PCs
+June 2008 202 million PCs

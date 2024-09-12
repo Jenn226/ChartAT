@@ -1,0 +1,7 @@
+Bar chart
+Most Say It Was Hard to Tell Parents
+% saying light green dark green 
+Telling mother was Not difficult 40%
+Difficult 59%
+Telling father was Not difficult 34%
+Difficult 65%

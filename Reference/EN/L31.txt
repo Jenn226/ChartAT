@@ -1,0 +1,6 @@
+Line chart
+Removals of unauthorized immigrants rose 17% from 2017 to 2018, but remain below recent highs Removals of unauthorized immigrants, by fiscal year
+2000 2018 yellow
+2000 188,467
+2013 432,281
+2018 337,287

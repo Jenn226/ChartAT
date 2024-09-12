@@ -1,0 +1,12 @@
+Bar chart
+Among the college educated, whites score higher than blacks and Hispanics on science knowledge
+Mean number of correct answers out of 11
+Dark blue
+Among those with a college degree or more
+White 9.3
+Black 5.6
+Hispanic 7.6
+Among those with some college education or less
+White 6.7
+Black 3.2
+Hispanic 4.7

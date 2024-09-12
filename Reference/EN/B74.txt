@@ -1,0 +1,9 @@
+Bar chart
+Confidence in public health organizations to keep records safe is related to comfortable or likely engagement with the full contact tracing process
+% of U.S. adults who say they would be very or somewhat comfortable or likely to engage with all three key steps of the process (speak, share, quarantine)*
+Among those who say they are that public health organizations will keep their personal records safe from hackers or unauthorized users
+Very confident 70%
+Somewhat confident 56%
+Not too confident 36%
+Not at all confident 21%
+Dark blue

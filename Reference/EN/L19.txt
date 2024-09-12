@@ -1,0 +1,11 @@
+line chart
+U.S. unauthorized immigrant total rises, then falls
+In millions
+brown
+1990 3.5
+1995 5.7
+2000 8.6
+2005 11.1
+2010 11.4
+2015 10.7
+2017 10.5

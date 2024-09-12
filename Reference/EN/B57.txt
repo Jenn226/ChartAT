@@ -1,0 +1,5 @@
+Bar chart
+Layoffs continue at the largest U.S. digital-native news outlets
+% of digital-native news outlets that experienced layoffs
+2017 20% dark red 
+2018 14% yellow

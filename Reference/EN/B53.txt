@@ -1,0 +1,10 @@
+Bar chart
+Do you have a cell phone, or a Blackberry or iPhone or other device that is also a cell phone?
+Dark blue gray 0% 100%
+Millennials(18-34) 95%
+Gen X(35-46) 92%
+Younger Boomers(47-56) 86%
+Older Boomers(57-65) 84%
+Silent Gen.(66-74) 68%
+G.I. Gen.(75+) 48%
+All adults(18+) 85%

@@ -1,0 +1,10 @@
+line chart
+Latino share of U.S. electorate projected to reach new high in 2020 
+% of U.S. eligible voters who are Latino
+2000 2020 yellow
+2000 7.4%
+2008 9.2%
+2012 10.7%
+2016 11.9%
+2018 12.8%
+2020 13.3%
