@@ -1,0 +1,10 @@
+This chart shows the percentage of adults who currently have outstanding student loan debt for their own education, broken down by age groups. The data is presented as a horizontal bar graph.
+The key findings are:
+1. All adults: 15%
+2. Ages 18-29: 34%
+3. Ages 30-44: 22%
+4. Ages 45-59: 7%
+5. Ages 60+: 1%
+The title of the chart states "About one-third of those ages 18 to 29 currently have student loan debt," which is supported by the 34% figure for that age group.
+The source of the data is cited as "Pew Research Center analysis of Federal Reserve Board's 2018 Survey of Household Economics and Decisionmaking."
+The chart effectively illustrates how student loan debt is most prevalent among younger adults and decreases significantly with age.

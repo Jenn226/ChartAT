@@ -1,0 +1,12 @@
+This chart shows the age distribution of full-time U.S. newsroom employees in 2008 and 2018. It breaks down the employees into three age groups: 18-34, 35-54, and 55+.
+In 2008:
+- 37% were ages 18-34
+- 48% were ages 35-54
+- 15% were ages 55+
+In 2018:
+- 39% were ages 18-34
+- 36% were ages 35-54
+- 25% were ages 55+
+The chart highlights that the share of employees ages 35 to 54 dropped from about half (48%) in 2008 to about a third (36%) in 2018. Meanwhile, the proportion of employees aged 55 and older increased significantly from 15% to 25%.
+The data is based on newsroom employees ages 18 and older employed in the civilian labor force working 35 or more hours a week, excluding self-employed individuals and those working without pay.
+The source of this data is cited as a Pew Research Center analysis of U.S. Census Bureau 2008 and 2018 American Community Survey 1-Year Public Microdata Sample files.

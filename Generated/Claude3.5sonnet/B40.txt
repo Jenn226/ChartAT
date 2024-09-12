@@ -1,0 +1,11 @@
+This chart displays the relationship between the number of internet-connected devices a person owns and their likelihood of using Twitter or another service to update their status.
+The chart shows:
+1. One device: 10% of users tweet
+2. Two devices: 19% of users tweet
+3. Three devices: 28% of users tweet
+4. Four or more devices: 39% of users tweet
+The vertical axis represents the percentage of internet users, while the horizontal axis shows the number of devices owned.
+The data is presented in a bar chart format, with dark blue bars representing the percentage for each category.
+The title of the chart is "More devices, more likely to tweet", which summarizes the main finding of the data.
+At the bottom, there's a note about the source of the data: It's from a Pew Internet & American Life Project survey conducted from August 18-September 14, 2009. The sample size was 1,698 internet users, and there's a mention of a margin of error of +/-5% based on subgroup.
+The chart is branded with the Pew Internet logo at the bottom right corner.

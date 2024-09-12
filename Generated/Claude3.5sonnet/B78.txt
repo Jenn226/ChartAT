@@ -1,0 +1,7 @@
+This chart shows the percentage of adult web users who use various social networking sites. The data is presented as horizontal bars for each platform:
+1. Facebook is the most used, with 77% of users.
+2. YouTube comes second with 63% usage.
+3. LinkedIn is used by 25% of adult web users.
+4. Google Plus has a 24% usage rate.
+5. Twitter is used by 21% of the users surveyed.
+The title of the chart indicates that about 6 in 10 Internet users use YouTube. The source of this data is cited as the Pew Research Center, based on an American Trends Panel survey conducted in March-April 2015. The chart provides a clear comparison of the popularity of these social networking sites among adult web users.

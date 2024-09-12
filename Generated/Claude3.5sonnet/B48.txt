@@ -1,0 +1,8 @@
+This chart shows how often users click on advertisements online. It's a bar graph with four categories:
+1. "Never": About 45% of respondents
+2. "Hardly Ever": About 35% of respondents
+3. "Sometimes": About 18% of respondents
+4. "Often": Less than 5% of respondents
+The y-axis represents the percentage of respondents, going up to 60%. The x-axis lists the frequency categories from "Never" to "Often".
+The chart is titled "How often users click on advertisements" and is sourced from Pew Internet & American Life Project, as indicated by the logo at the bottom.
+The data suggests that a large majority of users rarely or never click on advertisements, with very few doing so often.

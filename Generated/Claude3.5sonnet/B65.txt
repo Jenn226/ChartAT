@@ -1,0 +1,9 @@
+This chart shows statistics on the prevalence of depression among American teens aged 12-17 in 2017. It presents the percentage of teens who have experienced at least one major depressive episode in the past year, broken down by gender.
+The data shows:
+- Overall, 13% of teens experienced a major depressive episode.
+- For girls, the rate was 20%.
+- For boys, the rate was 7%.
+The title highlights that teen girls are three times as likely as boys to experience depression, which is supported by the data (20% vs 7%).
+The chart also includes a note explaining that "major depressive episode" is defined according to the Diagnostic and Statistical Manual of Mental Disorders, and is used as a proxy measure for depression.
+The source of the data is cited as the 2017 National Survey on Drug Use and Health, conducted by the Substance Abuse and Mental Health Services Administration (Department of Health and Human Services).
+The chart is credited to the Pew Research Center.

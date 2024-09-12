@@ -1,0 +1,8 @@
+This chart presents data on legislators' Twitter usage across five countries: the United States, United Kingdom, Canada, Australia, and New Zealand. The data was collected from January 1 to June 30, 2019.
+The chart shows two key statistics:
+1. 77% of legislators have a Twitter account.
+2. 73% of legislators tweeted during the study period.
+The study included 2,180 legislators with Twitter accounts, of which 2,056 tweeted at least once during the six-month period.
+The title of the chart states "Most legislators in five countries are on Twitter," which is supported by the data showing that over three-quarters of legislators have Twitter accounts.
+The source of this information is cited as "For Global Legislators on Twitter, an Engaged Minority Creates Outsize Share of Content" from the Pew Research Center.
+This chart illustrates the significant adoption of Twitter as a communication platform among legislators in these English-speaking countries, with a high percentage both having accounts and actively using them during the study period.

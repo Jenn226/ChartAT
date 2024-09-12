@@ -1,0 +1,5 @@
+The chart shows the percentage of access to high-speed internet at home or work for different residential areas during September-December 2005. It compares three types of areas:
+1. Rural: 35% access
+2. Urban: 49% access
+3. Suburban: 49% access
+The data is presented in a bar graph format, with the y-axis showing percentages from 0 to 60 in increments of 5. The x-axis categorizes the three residential types. The bars for urban and suburban areas are of equal height, both reaching 49%, while the rural bar is noticeably shorter at 35%. This chart illustrates the disparity in high-speed internet access between rural areas and more densely populated urban and suburban regions during that time period.

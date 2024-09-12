@@ -1,0 +1,8 @@
+The chart shows the percentage of digital-native news outlets that experienced layoffs in 2017 and 2018. 
+Specifically:
+1. In 2017, 20% of the largest U.S. digital-native news outlets experienced layoffs.
+2. In 2018, this percentage decreased to 14%.
+The chart uses a bar graph to visualize this data, with a burgundy bar for 2017 and a gold bar for 2018.
+The title of the chart is "Layoffs continue at the largest U.S. digital-native news outlets".
+At the bottom, there's a note about the source of the data, which is the Pew Research Center. It specifies that the analysis is based on digital news stories about layoffs at digital-native news outlets with a monthly average of at least 10 million unique visitors, from January 1, 2017 to December 31, 2018.
+The chart provides a clear visual representation of the decline in layoffs at major digital news outlets over this two-year period.

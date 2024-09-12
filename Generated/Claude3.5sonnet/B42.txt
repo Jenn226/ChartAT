@@ -1,0 +1,10 @@
+This chart shows the percentage of married couples where the husband is the breadwinner and the wife is a homemaker, broken down by the age of the wife. The data is presented as a bar graph with five categories:
+1. "All" couples: 24%
+2. Wife aged 18-29: 32%
+3. Wife aged 30-49: 27%
+4. Wife aged 50-64: 22%
+5. Wife aged 65+: 14%
+The y-axis represents the percentage of married couples, while the x-axis shows the different age groups. The bars are colored in shades of teal, with the "All" category being the darkest.
+The chart is titled "Breadwinner Husband-Homemaker Wife Marriages, by Age of Wife" and includes a note explaining that it's based on the employment status of couples, measured as of the previous week.
+The source of the data is cited as "Pew Research Center analysis of 2011 American Time Use Survey data, IPUMS."
+This visualization illustrates how the traditional breadwinner-homemaker model varies across different age groups of married women.

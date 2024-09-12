@@ -1,0 +1,7 @@
+This chart displays information about consumer attitudes and awareness of VoIP (Voice over Internet Protocol) technology. It consists of a bar graph with three categories:
+1. "Aware of VoIP": This bar shows that 34 million consumers are aware of VoIP technology.
+2. "Made Internet phone call": This bar indicates that 14 million consumers have made an Internet phone call.
+3. "Have considered VoIP for home service": This bar shows that 4 million consumers have considered using VoIP for their home phone service.
+The y-axis represents "Millions of consumers" and goes from 0 to 40 in increments of 5. The bars are colored differently, with the first bar being blue, the second red, and the third green.
+The title of the chart is "Consumer attitudes & awareness of VoIP".
+This chart effectively illustrates the decreasing number of consumers as we move from general awareness of VoIP to actually considering it for home use.

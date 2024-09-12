@@ -1,0 +1,10 @@
+This chart shows the percentage of different generational groups who own an iPod or other mp3 player. Here's a breakdown of the data:
+1. Millennials (18-34): 74%
+2. Gen X (35-46): 56%
+3. Younger Boomers (47-56): 42%
+4. Older Boomers (57-65): 26%
+5. Silent Gen. (66-74): 16%
+6. G.I. Gen. (75+): 3%
+7. All adults (18+): 47%
+The data is from a Pew Research Center's Internet & American Life Project survey conducted in August-September 2010. The survey included 3,001 adults aged 18 and older, with 1,000 reached via cell phone. Interviews were conducted in English and Spanish.
+The chart clearly shows a declining trend in mp3 player ownership as age increases, with Millennials having the highest ownership rate and the G.I. Generation having the lowest.

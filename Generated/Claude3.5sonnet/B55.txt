@@ -1,0 +1,10 @@
+The chart displays survey results about technologies that adults would find very difficult or impossible to give up. It's presented as a bar graph with percentages for different technologies:
+1. Internet: 46%
+2. Cell phone: 44%
+3. Television: 35%
+4. Email: 34%
+5. Landline telephone: 17%
+6. Social media: 10%
+The y-axis shows percentages from 0 to 60%, while the x-axis lists the technologies. Each bar represents the percentage of adults who said that particular technology would be very hard or impossible to give up.
+The data comes from a Pew Research Center Internet Project Survey conducted in January 2014, with a sample size of 1,006 adults.
+The chart illustrates that Internet and cell phones are the technologies people would find hardest to give up, while social media and landline telephones are comparatively easier for people to forgo.

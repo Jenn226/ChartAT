@@ -1,0 +1,7 @@
+This chart displays the results of a survey conducted by the Pew Research Center from October 15 to November 8, 2018. The survey asked U.S. adults whether they think local journalists should not express their views on local issues.
+The chart shows three categories:
+1. Total: 61% of all U.S. adults surveyed think local journalists should not express their views on local issues.
+2. Rep/lean Rep (Republicans or those leaning Republican): 71% believe local journalists should not express their views on local issues.
+3. Dem/lean Dem (Democrats or those leaning Democratic): 54% believe local journalists should not express their views on local issues.
+The title of the chart emphasizes that Republicans are more likely than Democrats to say local journalists should not express views on local issues. The data clearly supports this claim, with a 17 percentage point difference between the two political groups.
+The chart uses a horizontal bar graph to represent the data, with different colors for each category (grey for total, red for Republicans, and blue for Democrats).

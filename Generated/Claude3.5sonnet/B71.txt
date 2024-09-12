@@ -1,0 +1,9 @@
+This chart shows the partisan gaps across different demographic and social factors in terms of political values. It presents the average percentage point gap across 30 political values items for various categories:
+1. Party: Shows the largest gap at 39 points
+2. Race: Has a 17-point gap
+3. Religious attendance: Shows a 14-point difference
+4. Education: Has a 10-point gap
+5. Age: Also shows a 10-point gap
+6. Gender: Has the smallest gap at 6 points
+The chart is titled "Partisan gaps dwarf race, education, other differences in political values" and is based on a survey of U.S. adults conducted from September 3-15, 2019 by the Pew Research Center.
+The notes explain that the gaps indicate the average difference between the share of two groups taking the same position across 30 values items. It also provides specifics on how each category is defined, such as Party being the difference between Republicans/Lean Republican and Democrats/Lean Democrat, and Race comparing white non-Hispanic vs. black non-Hispanic respondents.

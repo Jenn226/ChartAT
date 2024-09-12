@@ -1,0 +1,9 @@
+This chart displays data on dual-income marriages in relation to the age of the wife. The title of the chart is "Dual-Income Marriages, by Age of Wife" and it shows the percentage of married couples where both partners are employed, broken down by the wife's age group.
+The data is presented as a bar graph with five categories:
+1. "All" - 47% of all married couples are dual-income
+2. "18-29" - 57% of couples with wives in this age group are dual-income
+3. "30-49" - 62% of couples with wives in this age group are dual-income
+4. "50-64" - 46% of couples with wives in this age group are dual-income
+5. "65+" - Only 6% of couples with wives in this age group are dual-income
+The highest percentage of dual-income marriages is in the 30-49 age group, while the lowest is in the 65+ age group.
+The chart also includes a note explaining that the data is based on the employment status of couples, measured as of the previous week. The source of the data is cited as "Pew Research Center analysis of 2011 American Community Survey data, IPUMS."

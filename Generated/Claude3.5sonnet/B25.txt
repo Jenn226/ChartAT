@@ -1,0 +1,9 @@
+This chart presents data on the online social climate, specifically addressing how internet users perceive the kindness of people they encounter online. The data is from a Pew Research Center Internet Project Survey conducted in January 2014.
+The chart shows three categories of responses:
+1. "Mostly kind" - 76% of respondents
+2. "Mostly unkind" - 13% of respondents
+3. "Both equally" - 6% of respondents
+The y-axis represents the percentage of internet users, ranging from 0 to 100%, while the x-axis shows the response categories.
+The data is presented as a bar graph, with the "Mostly kind" category having the tallest bar at 76%, followed by "Mostly unkind" at 13%, and "Both equally" at 6%.
+The title of the chart is "The online social climate: Mostly kind" which reflects the dominant finding that a large majority of respondents find people online to be mostly kind.
+At the bottom, the chart cites the source of the data and indicates that the sample size was 857 internet users.

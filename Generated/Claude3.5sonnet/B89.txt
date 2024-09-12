@@ -1,0 +1,8 @@
+This chart shows survey results from South Koreans in 2019 regarding their views on their country's political system. The data is presented as percentages for four different statements:
+1. 68% were pessimistic about the way their political system works.
+2. 62% disagreed that most elected officials care what people like them think.
+3. 49% disagreed that the state is run for the benefit of the people.
+4. 44% were dissatisfied with Korean democracy.
+The chart is titled "In 2019, many South Koreans were pessimistic about the state of their political system" and presents the data in horizontal bar format, with green bars representing the percentages.
+The source of this data is cited as "Spring 2019 Global Attitudes Survey" by the Pew Research Center.
+Overall, the chart indicates a significant level of dissatisfaction and pessimism among South Koreans regarding various aspects of their political system and democracy in 2019.

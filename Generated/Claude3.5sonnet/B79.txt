@@ -1,0 +1,8 @@
+This chart shows the percentage of summer job income as a share of total annual income for U.S. public school teachers in 2015-2016, broken down by years of teaching experience. The data is presented as a horizontal bar graph with the following key points:
+1. All teachers on average earn 7% of their total income from summer jobs.
+2. Teachers with 1 year or less experience earn the highest percentage (12%) from summer jobs.
+3. Teachers with 2 to 4 years of experience earn 8% from summer jobs.
+4. Most other experience brackets (5-9 years, 15-19 years, and 30+ years) show 7% of income from summer jobs.
+5. Teachers with 10-14 years, 20-24 years, and 25-29 years of experience all show 6% of income from summer jobs.
+The chart illustrates that less experienced teachers, particularly those in their first year, rely more heavily on summer job income compared to their more experienced colleagues. The percentage generally decreases as years of experience increase, with some fluctuations.
+The source of this data is cited as a Pew Research Center analysis of National Center for Education Statistics data.

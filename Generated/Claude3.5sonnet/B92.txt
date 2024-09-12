@@ -1,0 +1,7 @@
+This chart presents survey results about perceptions of racist and sexist language in the United States. It shows three key findings:
+1. 48% of respondents say "It's hard to know what others might find offensive."
+2. 61% say people in this country do not generally agree on what is considered to be racist language.
+3. 65% say people in this country do not generally agree on what is considered to be sexist language.
+The chart's title summarizes the main point: "Majorities say people do not agree on what is seen as racist, sexist language."
+The data is from a survey of U.S. adults conducted by the Pew Research Center from April 29 to May 13, 2019.
+The results are presented as percentages in horizontal bar format, with gold-colored bars representing the proportion of respondents for each statement.

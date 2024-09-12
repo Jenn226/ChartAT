@@ -1,0 +1,10 @@
+This chart shows survey results about public opinion on the impact of "heated" political rhetoric on the risk of violence. The key findings are:
+1. The title states that a "Large majority says 'heated' rhetoric by politicians raises risk of violence".
+2. The question asked was about whether elected officials using heated or aggressive language to talk about certain people or groups makes violence against those groups more likely.
+3. Overall, 78% of total respondents agreed with this statement.
+4. There's a significant partisan divide in the responses:
+   - 91% of Democrats/Lean Democrats agreed
+   - 61% of Republicans/Lean Republicans agreed
+5. The survey was conducted by Pew Research Center from April 29 to May 13, 2019, among U.S. adults.
+6. The data is presented as horizontal bar charts, with percentages shown for each category.
+This chart illustrates a widespread concern about the potential consequences of inflammatory political rhetoric, with a notable difference in perception between respondents of different political leanings.

@@ -1,0 +1,12 @@
+This chart displays survey results regarding Venezuelans' trust in their national government. Here are the key points:
+1. The title states "Few Venezuelans say they trust their government"
+2. The data shows percentages of people who trust the government "a lot/somewhat to do what is right for Venezuela" across different demographics:
+   - Overall total: 33%
+   - Age groups: 18-29 (27%), 30-49 (32%), 50+ (41%)
+   - Education level: Less than secondary (38%), Secondary or higher (29%)
+   - Political affiliation: Identify with PSUV (71%), Do not identify with PSUV (20%)
+   - Economic perception: Current situation is bad (24%), Current situation is good (79%)
+3. The chart notes that PSUV (United Socialist Party of Venezuela) is the party of Nicolás Maduro.
+4. The survey was conducted from Sept. 12-Dec. 7, 2018 by the Pew Research Center.
+5. The data is presented in horizontal bar format, with percentages listed next to each bar.
+This chart illustrates varying levels of trust in the Venezuelan government across different demographic and ideological groups within the country.

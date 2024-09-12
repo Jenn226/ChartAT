@@ -1,0 +1,6 @@
+This chart shows the number of millions of Americans who have made a donation online over three time periods:
+1. October 2001: 11 million Americans
+2. January 2005: 17 million Americans
+3. September 2005: 26 million Americans
+The data is presented as a bar graph with light blue bars. The vertical axis shows the number of Americans in millions, ranging from 0 to 30 million. The horizontal axis shows the three time periods mentioned above.
+The chart clearly illustrates an increasing trend in online donations by Americans over the given time frame, with the number more than doubling from 11 million in October 2001 to 26 million in September 2005.

@@ -1,0 +1,10 @@
+This chart displays cell phone ownership rates across different generational groups in the United States. The data is from a Pew Research Center survey conducted in 2010. Here's a breakdown of the percentages for each group:
+1. Millennials (18-34): 95%
+2. Gen X (35-46): 92%
+3. Younger Boomers (47-56): 86%
+4. Older Boomers (57-65): 84%
+5. Silent Gen. (66-74): 68%
+6. G.I. Gen. (75+): 48%
+The chart also shows an overall figure for all adults (18+) at 85%.
+The percentages represent the proportion of each age group that owns a cell phone, Blackberry, iPhone, or other device that also functions as a cell phone.
+The data shows a clear trend of decreasing cell phone ownership as age increases, with the highest adoption rate among Millennials and the lowest among the G.I. Generation (75+).

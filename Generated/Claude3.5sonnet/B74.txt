@@ -1,0 +1,10 @@
+This chart shows the relationship between people's confidence in public health organizations to keep their personal records safe and their likelihood to engage with contact tracing processes during the COVID-19 pandemic.
+The chart displays four levels of confidence:
+1. Very confident: 70%
+2. Somewhat confident: 56%
+3. Not too confident: 36%
+4. Not at all confident: 21%
+These percentages represent the proportion of U.S. adults who say they would be very or somewhat comfortable or likely to engage with all three key steps of the contact tracing process (speak, share, quarantine).
+The chart's title suggests that higher confidence in public health organizations' ability to keep records safe correlates with a higher likelihood of engagement in contact tracing.
+The data is from a survey of U.S. adults conducted from July 13-19, 2020, as part of a study on "The Challenges of Contact Tracing as U.S. Battles COVID-19" by the Pew Research Center.
+The footnote provides additional context about how the data was collected and analyzed, mentioning that the calculations are based on a random half sample of respondents and their willingness to participate in various aspects of contact tracing.

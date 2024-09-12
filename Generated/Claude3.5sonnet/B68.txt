@@ -1,0 +1,8 @@
+This chart displays the median amount of outstanding student loan debt in 2016 for different levels of educational attainment. The data is presented as a horizontal bar graph with four categories:
+1. Postgraduate degree: $45,000
+2. Bachelor's degree: $25,000
+3. Less than bachelor's: $10,000
+4. All borrowers: $17,000
+The bars are colored in green and extend to represent the debt amount. The chart clearly shows that higher levels of education correspond to higher median student loan debt, with postgraduate degree holders having the highest median debt at $45,000, which is significantly higher than the other categories.
+The title of the chart states "Median amount of outstanding student debt varies widely by education level," which is supported by the data presented. The source of the data is cited as "Pew Research Center analysis of Federal Reserve Board's 2016 Survey of Household Economics and Decisionmaking."
+This visualization effectively illustrates the relationship between educational attainment and student loan debt, highlighting the financial implications of pursuing higher education.

@@ -1,0 +1,10 @@
+This chart shows the percentage of adults who own various electronic devices. The data is presented as a bar graph, with devices listed on the x-axis and ownership percentages on the y-axis. The devices included are:
+1. Cell Phone: 83% ownership
+2. Desktop: 57% ownership
+3. Laptop: 56% ownership
+4. DVR: 52% ownership
+5. MP3: 44% ownership
+6. e-reader: 12% ownership
+7. Tablet: 8% ownership
+The chart title emphasizes that both e-reader and tablet ownership are far behind other devices in terms of adoption rates. Cell phones have the highest ownership rate at 83%, while tablets have the lowest at 8%.
+The source of this data is listed as The Pew Research Center's Internet & American Life Project, from a tracking survey conducted from April 26-May 22, 2011. The survey included 2,277 adults ages 18 and older, and was conducted in English and Spanish. The margin of error is noted as +/- 2 percentage points.

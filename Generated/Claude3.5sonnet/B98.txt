@@ -1,0 +1,8 @@
+This chart shows the results of a survey conducted by the Pew Research Center from June 3-17, 2019. It illustrates the percentage of U.S. adults who believe Americans should have the right to have certain types of information permanently deleted by the people or organizations holding that information.
+The chart lists four categories of information:
+1. Potentially embarrassing photos or videos: 87% of respondents believe Americans should have the right to have these deleted.
+2. Financial data collected by tax preparer: 79% support the right to delete this information.
+3. Medical data collected by health care provider: 69% believe this should be able to be deleted.
+4. Data collected by law enforcement, like criminal records, mugshots: 36% think Americans should have the right to delete this information.
+The data is presented in horizontal bar format, with blue bars representing the percentage for each category. The percentages decrease from top to bottom, showing that more people support the right to delete potentially embarrassing photos or videos than law enforcement data.
+The chart also notes that those who did not give an answer are not shown in the results.

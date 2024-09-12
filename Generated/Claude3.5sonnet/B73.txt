@@ -1,0 +1,12 @@
+This chart shows the relationship between how important people consider following the news and their accuracy in identifying original reporting.
+The chart is divided into three categories based on how important respondents consider following the news:
+1. "Very important"
+2. "Somewhat important"
+3. "Not too/at all important"
+For each category, there's a horizontal bar indicating a percentage:
+- "Very important": 55%
+- "Somewhat important": 44%
+- "Not too/at all important": 32%
+The title suggests that those who place greater importance on following the news are more accurate in identifying original reporting. This is reflected in the decreasing percentages as the perceived importance decreases.
+The chart also includes a note explaining that out of the news sources asked about, ABC News, The Wall Street Journal, and HuffPost conduct their own news reporting, while Google News, Apple News, and Facebook do not.
+The source of this data is cited as a survey by Pew Research Center, conducted June 2-11, 2020, among U.S. adults.

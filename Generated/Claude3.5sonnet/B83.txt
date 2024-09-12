@@ -1,0 +1,14 @@
+This chart displays the average percentage point gap in comfort across six different activities during the coronavirus pandemic, categorized by various demographic factors. The factors are ranked from highest to lowest impact:
+1. Partisanship: 26 percentage points
+2. Race: 15 percentage points
+3. Geography: 11 percentage points
+4. Gender: 5 percentage points
+5. Age: 3 percentage points
+The chart is titled "Partisanship biggest factor in comfort with activities during coronavirus" and uses horizontal bars to represent the percentage point gaps. The data is from a survey of U.S. adults conducted June 16-22, 2020, by the Pew Research Center.
+The notes at the bottom provide additional context for each category:
+- Partisanship refers to the difference between Republicans/Lean Republican and Democrats/Lean Democrat.
+- Race compares non-Hispanic white and non-white.
+- Geography looks at the difference between urban and rural.
+- Gender compares men and women.
+- Age contrasts 18-49 year-olds with those 50 and older.
+The chart clearly shows that partisanship has the largest impact on comfort levels with activities during the coronavirus pandemic, with a gap more than twice as large as the next highest factor, race.

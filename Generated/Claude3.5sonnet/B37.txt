@@ -1,0 +1,6 @@
+This image shows a bar chart titled "Personal Freedoms" with a question above it asking "Does the government of Iran respect the personal freedoms of its people?"
+The chart has two bars:
+1. A small green bar labeled "Yes" with a value of 11
+2. A much larger olive-colored bar labeled "No" with a value of 61
+Below the chart, there's a note indicating "Median % based on all 39 countries" and a reference to "PEW RESEARCH CENTER Q127a."
+This visualization clearly indicates that a significant majority responded "No" to the question about Iran respecting personal freedoms, with the "No" responses more than five times higher than the "Yes" responses.

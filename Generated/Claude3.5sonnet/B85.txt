@@ -1,0 +1,8 @@
+This chart shows the percentage of voters for different German political parties who support increasing Germany's defense spending, based on a 2019 survey. The data is from voters in the 2017 Bundestag elections.
+The chart displays results for three parties:
+1. CDU/CSU: 51% of their voters support increased defense spending
+2. SPD: 41% of their voters support increased defense spending
+3. Greens: 28% of their voters support increased defense spending
+The title suggests that supporters of CDU/CSU are more likely to favor increased defense spending compared to other parties, which is confirmed by the data.
+The source of this information is cited as a Körber-Stiftung survey conducted in Germany from September 9-28, 2019. The chart is produced by the Pew Research Center as part of a study titled "Americans and Germans Differ in Their Views of Each Other and the World".
+The chart uses horizontal bars in a green color to represent the percentages, with the length of each bar corresponding to the percentage value.

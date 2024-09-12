@@ -1,0 +1,13 @@
+This chart presents data on science knowledge scores among different racial/ethnic groups and education levels in the United States. The data is presented as the mean number of correct answers out of 11 questions.
+The chart is divided into two main sections:
+1. Among those with a college degree or more:
+- White: 9.3
+- Black: 5.6
+- Hispanic: 7.6
+2. Among those with some college education or less:
+- White: 6.7
+- Black: 3.2
+- Hispanic: 4.7
+The data shows that across both education levels, White respondents scored higher than Black and Hispanic respondents. Additionally, those with a college degree or more scored higher within each racial/ethnic group compared to those with some college education or less.
+The chart includes notes specifying that Whites and Blacks include only non-Hispanics, while Hispanics can be of any race. It also mentions that all questions were multiple choice.
+The source of this data is cited as a survey conducted from January 7-21, 2019, titled "What Americans Know About Science" by the Pew Research Center.

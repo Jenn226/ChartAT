@@ -1,0 +1,11 @@
+This chart shows the percentage of different groups who say that information and communication technology helps "a lot" in making them more productive. The data is presented as a bar graph with percentages on the y-axis and different categories on the x-axis.
+The categories and their corresponding percentages are:
+1. All: 33%
+2. Omnivores: 72%
+3. Connectors: 68%
+4. Productivity Enhancers: 83%
+5. Connected but Hassled: 9%
+6. Light But Satisfied: 1%
+7. Indifferents: 5%
+The graph shows that "Productivity Enhancers" have the highest percentage at 83%, followed by "Omnivores" at 72% and "Connectors" at 68%. The "All" category, which likely represents the overall population, stands at 33%. The lowest percentages are seen in the "Light But Satisfied" (1%), "Indifferents" (5%), and "Connected but Hassled" (9%) categories.
+This chart effectively illustrates the varying perceptions of technology's impact on productivity across different user groups or segments of the population.

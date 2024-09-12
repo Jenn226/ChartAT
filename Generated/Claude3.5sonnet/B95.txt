@@ -1,0 +1,14 @@
+This chart displays the results of a survey on support for various democratic principles across 34 countries. The title of the chart is "Support for democratic principles" and it shows the percentage of respondents who say it is "very important" to have certain democratic features in their country.
+The chart lists 9 democratic principles, ranked from highest to lowest support:
+1. Fair judiciary (82%)
+2. Gender equality (74%)
+3. Free religion (68%)
+4. Regular elections (65%)
+5. Free speech (64%)
+6. Press freedom (64%)
+7. Freedom on the internet (59%)
+8. Human rights groups can operate freely (55%)
+9. Opposition parties can operate freely (54%)
+The data is presented in horizontal bar chart format, with green bars representing the percentage for each principle. 
+The source of the data is cited as the Spring 2019 Global Attitudes Survey by Pew Research Center, specifically questions Q55a-f and Q57a-c. The note at the bottom states that the percentages shown are medians based on the 34 countries surveyed.
+This visualization provides insight into which democratic principles are considered most important globally, with fair judiciary and gender equality receiving the highest levels of support among those surveyed.

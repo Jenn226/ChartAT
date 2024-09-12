@@ -1,0 +1,14 @@
+This chart compares the percentages of Republicans and Democrats who believe human activity contributes significantly to global climate change, based on their level of science knowledge.
+The data is presented in a bar graph format, with six bars total - three for Republicans and three for Democrats, each corresponding to low, medium, and high levels of science knowledge.
+For Republicans:
+- Low science knowledge: 25%
+- Medium science knowledge: 25%
+- High science knowledge: 17%
+For Democrats:
+- Low science knowledge: 41%
+- Medium science knowledge: 74%
+- High science knowledge: 89%
+The chart clearly shows that among Democrats, the percentage who believe human activity contributes greatly to climate change increases significantly with higher levels of science knowledge, rising from 41% for those with low knowledge to 89% for those with high knowledge.
+In contrast, for Republicans, the percentages remain relatively low across all levels of science knowledge, and actually decrease slightly for those with high science knowledge (from 25% to 17%).
+The title emphasizes that there's a stark difference between the two parties, particularly among those with high science knowledge.
+The chart also includes notes about the methodology, including that the survey was conducted in October 2019, and that science knowledge levels were based on an 11-item index from a survey in January 2019.

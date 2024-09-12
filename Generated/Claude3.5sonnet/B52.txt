@@ -1,0 +1,7 @@
+This chart shows how concerns about infectious diseases increased as COVID-19 spread in the United States. It presents data on the percentage of people who consider the spread of infectious diseases a major threat to the US.
+The chart displays two data points:
+1. March 3-12: 73% of respondents viewed infectious diseases as a major threat
+2. March 13-29: This percentage increased to 84%
+The data comes from a survey of US adults conducted from March 3-29, 2020. The title of the study is mentioned as "Americans See Spread of Disease as Top International Threat, Along With Terrorism, Nuclear Weapons, Cyberattacks".
+The chart is created by the Pew Research Center, as indicated at the bottom.
+This visualization effectively shows how public perception of the threat posed by infectious diseases increased significantly over a short period in March 2020, coinciding with the early spread of COVID-19 in the United States.

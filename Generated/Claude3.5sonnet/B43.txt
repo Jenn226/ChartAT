@@ -1,0 +1,8 @@
+This chart displays the number of online activities done on a typical day by home broadband users in December 2005, categorized by rural, urban, and suburban areas.
+The data is presented as a bar graph with three vertical bars:
+1. Rural users performed an average of 2.7 online activities per day.
+2. Urban users engaged in 2.8 online activities per day.
+3. Suburban users also averaged 2.8 online activities per day.
+The y-axis ranges from 0 to 3 in increments of 0.2, while the x-axis categorizes the three location types.
+The bars for urban and suburban areas are slightly taller than the rural bar, indicating a small difference in online activity between rural areas and more populated regions. However, the difference is minimal, with all three categories showing between 2.7 and 2.8 activities per day.
+The chart's title and data suggest this information is specific to home broadband users in December 2005, providing a snapshot of internet usage patterns across different settlement types at that time.

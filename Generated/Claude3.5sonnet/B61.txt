@@ -1,0 +1,9 @@
+This chart shows the percentage of women in enlisted and commissioned officer roles in the U.S. active duty military forces from 1975 to 2017. The data is presented in a bar graph format with years on the x-axis and percentages on the y-axis.
+Key points from the chart:
+1. In 1975, both enlisted and officer roles had 5% women.
+2. There's a steady increase in female representation for both categories over time.
+3. By 2017, 16% of enlisted personnel were women, while 18% of commissioned officers were women.
+4. The percentage of women in officer roles has consistently been slightly higher than in enlisted roles since 1985.
+5. The largest jump appears to be between 1975 and 1985 for both categories.
+The title emphasizes that in 2017, nearly one-in-five commissioned officers in the U.S. military were women.
+The note at the bottom clarifies that this data only includes the four military branches of the Department of Defense, and that "Officers" refers only to commissioned officers. The source is cited as the U.S. Department of Defense 2017 Population Representation in the Military Services published data, compiled by Pew Research Center.

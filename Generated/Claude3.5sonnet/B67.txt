@@ -1,0 +1,8 @@
+This chart displays results from a survey conducted by Pew Research Center in Spring 2012 about what Indians perceive to be their country's greatest national threat. The data is presented as percentages of respondents for each option:
+1. Pakistan: 41%
+2. Lashkar-e-Taiba: 19%
+3. Naxalites: 16%
+4. China: 5%
+5. All/None of the above: 3%
+6. Don't know/Refused: 17%
+The chart uses horizontal bars to represent these percentages visually, with Pakistan having the longest bar corresponding to its highest percentage. The source of the data is cited at the bottom of the image as "Spring 2012 Global Attitudes Survey, Q128b PEW RESEARCH CENTER".

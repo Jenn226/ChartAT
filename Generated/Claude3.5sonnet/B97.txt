@@ -1,0 +1,8 @@
+The chart shows the results of a survey conducted among Indian adults regarding their concerns about Pakistan, Kashmir, and terrorism. The data is presented as the share of Indians who agree with five different statements:
+1. 76% say "Pakistan is a very serious threat to our country"
+2. 65% believe "Terrorism is a very big problem"
+3. 58% think "Indian government should use more military force in Kashmir"
+4. 55% say "The situation in Kashmir is a very big problem"
+5. 53% believe "The situation in Kashmir has gotten worse over the past five years"
+The survey was conducted by the Pew Research Center from May 23 to July 23, 2018, as part of their Spring 2018 Global Attitudes Survey. The title of the chart indicates that these opinions were expressed before recent tensions, suggesting that the sentiment might have changed since the survey was conducted.
+The data is presented in a horizontal bar chart format, with green bars representing the percentage of agreement for each statement. The percentages range from 53% to 76%, showing a significant level of concern among the Indian population about these issues.

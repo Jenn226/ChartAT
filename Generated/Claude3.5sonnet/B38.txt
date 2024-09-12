@@ -1,0 +1,8 @@
+This chart shows the number of online content types purchased by internet users. The data is presented as a bar graph, with the x-axis representing the number of online content types (ranging from 1 to 14) and the y-axis showing the percentage of internet users.
+Key points from the chart:
+1. The highest percentage (25%) of users purchased one type of online content.
+2. 21% of users purchased two types of content.
+3. There's a general downward trend as the number of content types increases.
+4. 15% of users purchased three types of content.
+5. Very few users (less than 1%) purchased 10 or more types of online content.
+The source of this data is cited as the Pew Research Center's Internet & American Life Project, from a tracking survey conducted between October 28 and November 1, 2010. The survey included 755 adult participants, with a margin of error of +/- 3.9 percentage points.

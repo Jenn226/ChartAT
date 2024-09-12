@@ -1,0 +1,11 @@
+This chart shows the percentage change in employment from 1980 to 2018 across different job categories based on the most important skills required for those jobs. The data is presented as follows:
+1. All jobs: 58% increase
+For jobs where specific skills are MOST important:
+2. Social skills: 111% increase
+3. Fundamental skills: 104% increase
+4. Analytical skills: 92% increase
+5. Managerial skills: 77% increase
+6. Mechanical skills: 4% increase
+The chart illustrates that jobs requiring social and fundamental skills have seen the highest growth rates, more than doubling over the 38-year period. Analytical and managerial skills also saw significant growth. In contrast, jobs primarily requiring mechanical skills saw very little growth.
+The chart's title emphasizes that employment is rising most rapidly in occupations where social and fundamental skills are most important.
+The note at the bottom provides additional context about how occupations were ranked and categorized, mentioning that the data includes full-time and part-time workers ages 16 and older. It also cites the Pew Research Center as the source, analyzing data from O*NET and Population Surveys.

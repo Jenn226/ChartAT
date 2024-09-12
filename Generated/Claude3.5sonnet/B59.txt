@@ -1,0 +1,10 @@
+This chart, titled "Many of Trump's major policies are unpopular globally," shows approval and disapproval ratings for six major policies of U.S. President Donald Trump based on a global survey. The policies are:
+1. U.S. increasing tariffs or fees on imported goods from other countries
+2. U.S. withdrawal from international climate change agreements
+3. Building a wall on the border between the U.S. and Mexico
+4. Allowing fewer immigrants into the U.S.
+5. U.S. withdrawal from the Iran nuclear weapons agreement
+6. U.S. negotiations with North Korean leader Kim Jong Un about the country's nuclear weapons program
+For each policy, the chart displays the percentage of people who approve (in green) and disapprove (in blue). The data shows that all policies have higher disapproval than approval rates, with disapproval rates ranging from 36% to 68%.
+The policy with the highest disapproval rate (68%) is increasing tariffs on imported goods. The policy with the lowest disapproval rate (36%) is negotiations with North Korea about its nuclear weapons program, which also has the highest approval rate (41%) among the listed policies.
+The chart notes that percentages are medians based on surveys from 33 countries, and "Don't know" responses are not shown. The source is cited as the Spring 2019 Global Attitudes Survey by Pew Research Center.

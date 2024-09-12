@@ -1,0 +1,14 @@
+The chart displays the number of reported anti-Semitic acts in France by year from 2011 to 2018. The data is presented as a bar graph with each bar representing a year and its corresponding number of reported acts.
+The specific data points shown are:
+2011: 389 acts
+2012: 615 acts
+2013: 423 acts
+2014: 851 acts
+2015: 808 acts
+2016: 335 acts
+2017: 311 acts
+2018: 541 acts
+The 2018 bar is colored orange, while the rest are in a light beige color.
+The chart notes that the figures include acts against both people and property. The source of the data is cited as the Commission Nationale Consultative des Droits de l'Homme (CNCDH) and the Ministère de l'Intérieur, France.
+The graph shows fluctuations in the number of reported anti-Semitic acts over the years, with peaks in 2014 and 2015, followed by a decline in 2016 and 2017, and then an increase again in 2018.
+The chart is credited to the Pew Research Center at the bottom.

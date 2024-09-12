@@ -1,0 +1,10 @@
+This chart shows the top medical reasons why parents aged 18 to 49 don't expect to have more children. The data is presented as percentages for each reason cited:
+1. Medical reasons: 41%
+2. Age: 25%
+3. Already have kids: 9%
+4. Financial reasons: 6%
+5. No willing partner: 3%
+6. Some other reason: 6%
+The chart is a horizontal bar graph with green bars representing each percentage. Medical reasons are the most commonly cited at 41%, followed by age at 25%. The other reasons are cited less frequently.
+The chart notes that this data is from respondents who say there's a reason other than just not wanting more children, and that respondents were allowed to mention up to three reasons. It also mentions that the share of respondents who didn't offer an answer is not shown.
+The source of this data is a survey of U.S. adults conducted from July 30 to August 12, 2018, by the Pew Research Center.

@@ -1,0 +1,14 @@
+This chart shows Chinese investment by country in billions of US dollars from 2005 to 2018 for various European Union countries. The data is presented as a horizontal bar graph, with countries listed on the left and investment amounts on the right. The chart includes the following information:
+1. UK: $85.3 billion
+2. Germany: $41.7 billion
+3. France: $25.5 billion
+4. Italy: $25.0 billion
+5. Netherlands: $14.1 billion
+6. Sweden: $12.0 billion
+7. Greece: $9.9 billion
+8. Spain: $7.1 billion
+9. Hungary: $4.0 billion
+10. Poland: $1.9 billion
+The UK has received the highest amount of Chinese investment at $85.3 billion, significantly more than the second-highest recipient, Germany. The investments decrease in amount as you move down the list, with Poland receiving the least at $1.9 billion.
+The source of this data is cited as the American Enterprise Institute and Heritage Foundation, China Global Investment Tracker, January 2019 update, accessed on March 1, 2019. The chart also notes that these investment figures are only shown for the 10 European countries surveyed in the Spring 2018 Global Attitudes Survey.
+The chart is titled "Since 2005, EU countries have received billions of investment dollars from China" and is produced by the Pew Research Center.
