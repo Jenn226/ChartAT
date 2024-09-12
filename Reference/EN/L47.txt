@@ -1,0 +1,21 @@
+line chart
+Negative views of China continue to grow in U.S. 
+% who say they have a opinion of China
+0% 100% 2005 2020
+green Favorable blue Unfavorable
+2005 35 43
+2006 29 52
+2007 39 42
+2008 42 39
+2009 38 50
+2010 36 49
+2011 36 51
+2012 40 40
+2013 52 37
+2014 55 35
+2015 54 38
+2016 55 37
+2017 47 44
+2018 47 38
+2019 60 26
+2020 66 26

@@ -1,0 +1,8 @@
+pie chart
+A majority of Facebook users have 10 or more categories listed on their ad preferences page
+the percentage of U.S. adult Facebook users with various numbers of categories listed on their 'ad preferences' page
+Not assigned to a category 11% dark gray
+Did not give an answer 2% light gray
+21+ categories 33% light blue
+10 to 20 categories 27% blue
+Fewer than 10 categories 27% dark blue

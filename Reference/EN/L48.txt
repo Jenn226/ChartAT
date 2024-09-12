@@ -1,0 +1,19 @@
+line chart
+British views of the EU reached a historic high 
+% of Britons who have a opinion of the EU
+June 2016 EU membership referendum
+green Favorable blue Unfavorable
+2004 36 54
+2007 37 52
+2009 39 50
+2010 42 49
+2011 41 51
+2012 46 45
+2013 48 43
+2014 41 52
+2015 41 51
+2016 48 44
+2017 40 54
+2018 45 48
+2019 44 54
+2020 37 60

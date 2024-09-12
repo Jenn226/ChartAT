@@ -1,0 +1,12 @@
+pie chart
+% of immigrants ages 5 and older who speak at home
+Spanish 42% orange
+English only 17% brown
+All other 17% gray
+Chinese 6% pink
+Hindi 5% light yellow
+Filipino/Tagalog 4% 
+French 3% dark brown
+Vietnamese 3% gold
+Dravidian 2%
+Arabic 2% green

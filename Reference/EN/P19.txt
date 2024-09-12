@@ -1,0 +1,24 @@
+pie chart
+Six origin groups make up 85% of all Asian Americans
+% of Asian Americans in each origin group
+green
+Chinese: 23%
+Indian: 19%
+Filipino: 18%
+Vietnamese: 9%
+Korean: 9%
+Japanese: 7%
+All others 15%
+Pakistani 2%
+Cambodian 2%
+Hmong 1%
+Thai 1%
+Laotian 1%
+Bangladeshi <1%
+Burmese <1%
+Nepalese <1%
+Indonesian <1%
+Sri Lankan <1%
+Malaysian <1%
+Bhutanese <1%
+Mongolian <1% 

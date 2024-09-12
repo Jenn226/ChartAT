@@ -1,0 +1,6 @@
+pie chart
+Most Americans have never spoken with a local journalist
+% of U.S. adults who have ever spoken with or been interviewed by a local journalist
+No 78% yellow
+Yes 21% maroon purple
+No answer 1% gray

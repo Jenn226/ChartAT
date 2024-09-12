@@ -1,0 +1,6 @@
+pie chart
+Suicides accounted for six-in-ten U.S. gun deaths in 2017
+% of U.S. gun deaths, by type
+Suicide 60% dark green
+Murder 37% yellow
+Other 3% gray

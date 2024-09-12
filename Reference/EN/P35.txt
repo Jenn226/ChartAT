@@ -1,0 +1,8 @@
+pie chart
+About seven-in-ten say the census will produce an accurate population count 
+% who say the 2020 census will be in accurately counting the number of people living in the U.S.
+Somewhat successful 60% dark green
+Not too successful 26% light yellow
+Very successful 8% green blue
+Not at all successful 5% gold
+No answer 1% gray

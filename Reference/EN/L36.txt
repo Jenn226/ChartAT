@@ -1,0 +1,8 @@
+Line chart
+This decade will likely be the first in at least 160 years in which American households have more people
+Average number of people per household
+1790 2018 green
+1790 5.79
+1850 5.55
+2000 2.58
+2018 2.63

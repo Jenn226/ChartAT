@@ -1,0 +1,7 @@
+line chart
+As in past midterms, women turned out at slightly higher rates than men 
+% of eligible voters who say they voted, by midterm election year
+yellow Men brown Women 1998 2018
+1998 45.7 44.9
+2014 40.8 43.0
+2018 51.8 55.0

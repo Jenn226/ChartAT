@@ -1,0 +1,11 @@
+line chart
+Increased support for prioritizing policies on the environment, climate change since 2011
+% U.S. adults who say should be a top priority for the president and Congress
+2008 2020
+green dark blue
+2008 30 41
+2014 29 49
+2015 34 38
+2018 46 62
+2019 44 56
+2020 52 64

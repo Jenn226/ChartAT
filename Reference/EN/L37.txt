@@ -1,0 +1,9 @@
+line chart
+Half of immigrants in U.S. are English proficient as of 2018
+% of foreign-born population ages 5 and older who are English proficient
+1980 2018 yellow
+1980 57%
+1990 53%
+2000 49%
+2010 48%
+2018 53%

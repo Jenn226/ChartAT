@@ -1,0 +1,5 @@
+pie chart
+Internet access among the uninsured
+Among adults without health insurance, the % who do and do not use the internet
+Internet users 79% light blue
+Not internet users 21% dark blue

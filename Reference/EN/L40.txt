@@ -1,0 +1,10 @@
+line chart
+U.S. Hispanic population reached nearly 61 million in 2019
+In millions
+1970 2019 red
+1970 9.6
+1980 14.5
+1990 22.6
+2000 35.7
+2010 50.7
+2019 60.6

@@ -1,0 +1,11 @@
+pie chart
+How often Twitter users check for material posted by others
+% of Twitter users
+grey light grey dark grey blue light blue dark blue
+Several times a day: 24%
+Once a day  12%
+1-2 days per week 12%
+3-5 days per week 5%
+Every few weeks 7%
+Less often 20%
+Never 21%

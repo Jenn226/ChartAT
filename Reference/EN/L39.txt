@@ -1,0 +1,12 @@
+line chart
+The typical unauthorized immigrant adult has lived in the U.S. for 15 years 
+Median years of U.S. residence for adult unauthorized immigrants
+1995 2017 yellow
+1995 7.1
+2000 7.2
+2005 8.0
+2007 8.6
+2010 10.6
+2015 13.9
+2016 14.8
+2017 15.1

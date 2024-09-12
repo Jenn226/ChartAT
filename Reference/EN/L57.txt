@@ -1,0 +1,8 @@
+line chart
+Europe's unauthorized immigrant total peaked in 2016 before leveling off 
+Range for the estimated number of unauthorized immigrants in millions living in Europe, 2014-2017
+High estimate Low estimate million blue
+2014 3.0 million 3.7
+2015 3.3 4.9
+2016 4.1 5.3
+2017 3.9 4.8

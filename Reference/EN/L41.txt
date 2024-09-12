@@ -1,0 +1,5 @@
+line chart
+Percent of Americans with Home Broadband Connections
+2000 2007 0% 50% blue
+2003 24%
+2017 47%

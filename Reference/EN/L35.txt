@@ -1,0 +1,9 @@
+line chart
+U.S. teen birth rate has fallen dramatically over time
+Births per 1,000 females ages 15-19
+0 100 1940 2018 green Baby boom years green
+1940 54.1
+1955 96.3
+1990 61.8
+2006 41.5
+2018 17.4

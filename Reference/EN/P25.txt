@@ -1,0 +1,6 @@
+pie chart
+First wave of employment loss in COVID-19 crisis was mostly from jobs that may not be done remotely
+% of loss in U.S. employment from February to March 2020 from jobs that potentially
+could not be teleworked  90% brown
+could potentially be teleworked 10% gray
+Total employment loss: 2.9 million

@@ -1,0 +1,10 @@
+line chart
+Positive views of U.S. economy nearly double among Republicans in 2017
+The current economic situation in our country is good
+0% 100% 2007 2017 blue Democrats red Republicans
+2007 43 70
+2009 20 10
+2011 27 14
+2013 46 22
+2015 55 25
+2017 60 61

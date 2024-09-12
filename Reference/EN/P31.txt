@@ -1,0 +1,6 @@
+pie chart
+Most Indians are satisfied with the way democracy is working
+Percent who are with the way democracy is working in India
+Satisfied 54% green
+Not satisfied 33% blue
+Don't know 13% grey beige

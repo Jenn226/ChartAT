@@ -1,0 +1,16 @@
+line chart
+Democrats still have more favorable views toward NATO than Republicans do 
+% of Americans who have a favorable opinion of NATO, by party affiliation
+2009 2020 0% 100% red Rep/Lean Rep blue Dem/Lean Dem
+2009 49 60
+2010 49 60
+2011 53 57
+2012 50 58
+2013 43 58
+2014 44 56
+2016 51 57
+2017 48 74
+2018 52 76
+2019 45 61
+2020 46 65
+2021 46 70

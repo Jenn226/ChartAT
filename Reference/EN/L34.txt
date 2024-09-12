@@ -1,0 +1,9 @@
+line chart
+Despite recent uptick, U.S.-Mexico border apprehensions still far below late 1990s levels
+Number of apprehensions at southwest border, by fiscal year
+1998 2018 yellow
+1998 1,516,680
+2000 1,643,679
+2003 905,065
+2011 327,577
+2018 396,579

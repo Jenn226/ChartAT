@@ -1,0 +1,9 @@
+line chart
+Who is World's Leading Economic Power?
+orange U.S. blue China
+2008 2012 0 60
+2008 22 45
+2009 27 46
+2010 36 40
+2011 35 41
+2012 42 36

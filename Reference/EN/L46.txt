@@ -1,0 +1,11 @@
+line chart
+More voters say it 'really matters' who wins the presidency than at any point in the last 20 years
+% of registered voters who say
+brown It really matters who wins the presidential election
+yellow Things will be pretty much the same regardless of who is elected
+2000 44 50
+2004 29 67
+2008 32 63
+2012 34 63
+2016 22 74
+2020 16 83

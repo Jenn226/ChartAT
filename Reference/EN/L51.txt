@@ -1,0 +1,9 @@
+line chart
+Around the world, more have favorable view of the U.S. than express confidence in Trump
+% who have
+0% 100% 2016 2019
+green Favorable views of the U.S. blue Confidence in U.S. President Trump
+2016 64% 74%
+2017 49% 23%
+2018 51% 28%
+2019 53% 31%

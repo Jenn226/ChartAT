@@ -1,0 +1,10 @@
+line chart
+More Say They Graze for News
+red Checks on news from time to time
+blue Gets news at regular times
+30% 70%
+2002 48 49
+2004 46 52
+2006 48 50
+2008 51 45
+2010 57 38
