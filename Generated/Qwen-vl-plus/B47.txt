@@ -1,0 +1,5 @@
+The bar graph represents "Millions of Americans who have made an online donation." It has three vertical bars, each representing one point in time and indicating how many millions of people donated at that particular moment.
+- The first bar is labeled as Oct 01 (October 2001) with its value being around 11 million.
+- The second bar stands for Jan 05 (January 2005), showing approximately 17 million donors.
+- Lastly, there's a third bar representing Sept 05 (September 2005). This bar shows a significant increase to about 26 million donations.
+Overall, this chart suggests a steady growth trend over these years, from roughly 11 million donors in October 2001 up to nearly 26 million by September 2005

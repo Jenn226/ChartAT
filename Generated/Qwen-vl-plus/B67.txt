@@ -1,0 +1,9 @@
+The image presents a bar graph titled "India's Greatest National Threat" and is accompanied by a subtitle "% of Indians who say". The x-axis represents different threats, while the y-axis indicates their corresponding percentages.
+There are six bars in total, each representing one threat:
+- Pakistan occupies the largest portion with its bar stretching from about 40% to almost 50%. This suggests that it is considered as India's greatest national threat.
+- Lashkar-e-Taiba follows closely behind with its bar spanning roughly from 20% to just over 30%.
+- Naxalites have less influence on public opinion, represented by a smaller bar situated around 16%.
+- China has the least perceived impact among these four threats, indicated by an even shorter bar at approximately 5%.
+- All/None of the above option receives support from only three percent of respondents, suggesting this category might be seen as insignificant or not applicable for some people.
+Lastly, there's another group labeled 'Don't know/Refused' which accounts for nearly 20%, indicating uncertainty or refusal to answer regarding the question posed.
+Overall, the data presented here provides insights into how Indian citizens perceive various security concerns affecting their nation.

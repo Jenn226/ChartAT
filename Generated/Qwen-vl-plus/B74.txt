@@ -1,0 +1,7 @@
+The graph is a bar chart that shows how confident U.S. adults feel about public health organizations keeping their personal records safe from hackers or unauthorized users, and its relationship with comfortable or likely engagement in full contact tracing process.
+There are four bars representing different levels of confidence:
+- "Very confident" (70%)
+- "Somewhat confident" (56%)
+- "Not too confident" (36%)
+- "Not at all confident" (21%)
+Among those who say they have varying degrees of confidence, there's an inverse correlation between comfort engaging with the full contact tracing process and level of confidence. The higher the degree of confidence, the more willing people are to engage with this process. For instance, among individuals who express 'very' high confidence, around 48 percent would be very or somewhat comfortable or likely to participate fully in the contact tracing process; while for those expressing low confidence ('not at all'), only approximately one-fifth show similar willingness. This suggests that trust plays a significant role in determining participation rates during such crucial times as COVID-19 pandemic response efforts.

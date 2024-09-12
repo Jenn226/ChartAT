@@ -1,0 +1,8 @@
+The image presents a bar graph titled "Pakistan's Greatest National Threat". The x-axis represents different threats, while the y-axis indicates the percentage of Pakistanis who believe each threat to be their country's greatest national challenge.
+There are five bars in this graph:
+- The first bar is labeled as "India", and it spans from about 50% on the left side up to almost 60% at its peak.
+- The second bar stands for "The Taliban" with values ranging between approximately 20% and 30%.
+- The third bar represents "al Qaeda", showing percentages that fluctuate around 4%.
+- A fourth bar named "All/None of the above" has an average value near 8%, indicating roughly half of those surveyed chose either 'all' or 'none'.
+- Lastly, there's another bar representing people who responded with "Don't know/refused", which also averages out to nearly 8%.
+These data points were collected during Spring 2012 Global Attitudes Survey (Q126) by Pew Research Center.

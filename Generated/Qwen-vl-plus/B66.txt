@@ -1,0 +1,11 @@
+The image presents a bar graph titled "Buddhists older than world's overall population". The x-axis represents different religions, while the y-axis indicates their median age in years.
+There is an orange bar labeled as Buddhists with its length corresponding to a median age of 36 years old. This suggests that on average, Buddhist individuals worldwide were aged around this number during the year 2015 when these data was collected by Pew Research Center demographic projections.
+Other bars represent other religious groups and their respective ages:
+- Jews have a median age of 37.
+- Unaffiliated people also had a median age of 36.
+- Other religions' median age was recorded at 34.
+- Folk religions shared the same median age of 34.
+- Christians had a slightly lower median age compared to Buddhism, standing at 30.
+- Hindus came next with a median age of 27.
+- Muslims rounded out the list with a median age of 24.
+This comparison highlights how Buddhists tend to be among those who are relatively more experienced or mature within various global faith communities based on the provided data from 2015.

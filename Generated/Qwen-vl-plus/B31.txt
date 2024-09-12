@@ -1,0 +1,10 @@
+The bar graph presents data on game console ownership among different age groups and all adults, categorized into six categories based on their generation or cohort (Millennials, Gen X, Younger Boomers, Older Boomers, Silent Generation, G.I. Generation). The y-axis represents percentages while the x-axis shows each category.
+Here's an overview:
+- Millennials (ages 18 to 34): 63% own a game console.
+- Gen X (ages 35 to 46): Same as Millennials at 63% owning a game console.
+- Younger Boomers (ages 47 to 56): 38% have a game console.
+- Older Boomers (ages 57 to 65): Only 19% possess one.
+- Silent Generation (age range not specified in this image but generally refers to those born between 1928 and 1945): Just 8% use a game console.
+- G.I. Generation (born before World War II; ages typically around 70+ years old): A mere 3% owns a gaming device.
+- All Adults (all individuals aged 18 and older): Interestingly, only about half - specifically, 42%- of these people report having a game console.
+This information is sourced from Pew Research Center's Internet & American Life Project conducted during August 9-September 13, 2010 Tracking Survey with N=3,001 adults aged 18 and over including 1,000 reached via cell phone interviews.

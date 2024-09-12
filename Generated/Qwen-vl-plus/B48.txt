@@ -1,0 +1,6 @@
+The bar graph titled "How often users click on advertisements" shows four categories, each representing different frequencies at which people engage with ads online:
+- Never (represented by a tall blue bar): This category includes individuals who never click on any advertisement.
+- Hardly Ever (a medium-sized blue bar): These respondents rarely interact with ads while browsing or using their devices.
+- Sometimes (shorter blue bars): People in this group occasionally click on advertisements when they come across them during their internet usage.
+- Often (the shortest blue bar): A smaller percentage of participants frequently clicks on ads.
+At the bottom left corner of the image is the Pew Internet & American Life Project logo. The y-axis represents percentages of respondents and ranges from zero to sixty percent. The x-axis lists the frequency options for engaging with advertisements.

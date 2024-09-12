@@ -1,0 +1,8 @@
+The bar graph is titled "Dual-Income Marriages, by Age of Wife" and shows data on married couples based on their employment status. The x-axis represents different age groups for women (All, 18-29, 30-49, 50-64, and 65+), while the y-axis indicates the percentage of married couples in each category.
+There are two sets of bars representing the percentages of dual-income marriages within these categories:
+1) All ages - This set includes all married couples regardless of age.
+2) Dual-income marriages only - This set focuses specifically on those couples where both partners work outside the home.
+Each group has its own color:
+- Green represents dual-income marriages across all age ranges.
+- Light green represents dual-income marriages among younger aged-women (18-29).
+Note that there's an additional text at the bottom explaining how this study was conducted using data from the Pew Research Center analysis of American Community Survey data provided by IPUMS.

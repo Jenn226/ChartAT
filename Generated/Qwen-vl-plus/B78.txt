@@ -1,0 +1,8 @@
+The image presents a bar graph titled "About 6-in-10 Internet Users Use YouTube". The x-axis represents different social networking sites, while the y-axis indicates the percentage of adult web users who have ever used these platforms.
+There is one blue bar for each site on the left side of the graph. Starting from the top and moving downwards:
+- Facebook has the highest usage rate at 77%.
+- YouTube follows with an average user base of about 63%.
+- LinkedIn comes in third place with around 25% of internet users using it.
+- Google Plus ranks fourth with approximately 24% of people having experience with this platform.
+- Twitter rounds out the list with only 21% of respondents indicating they've utilized its services.
+At the bottom right corner of the graphic, there's a source citation that reads "PEW RESEARCH CENTER" followed by additional information regarding data collection methods (wave 1) conducted between March 19-April 29, 2014. Q16 refers to question number sixteen within the survey which likely pertained to the use of various online platforms among adults.

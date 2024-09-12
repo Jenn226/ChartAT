@@ -1,0 +1,9 @@
+The image presents a vertical bar graph that compares the percentage distribution of newsroom employees in three age groups between two different years, specifically from 2008 to 2018.
+On the y-axis, we can see percentages ranging from zero to fifty percent with increments of ten percent. The x-axis displays the categories for each year and their corresponding ages - "Ages 55+", "35-54", and "18-34".
+In 2008, there were approximately equal numbers of newsroom workers across all age groups. Specifically:
+- For those aged 55 or older (the top category), about 15% of full-time U.S. newsroom employees fell into this group.
+- In contrast, around 48% of these workers were within the 35 to 54-year-old range.
+- Lastly, roughly 37% of them were under the age of 34.
+By comparing these figures to data collected in 2018, it's evident that the share of younger newsroom staff has increased significantly over time while the proportion among middle-aged professionals decreased correspondingly.
+For instance, only 25% of the workforce was made up by individuals aged 55+ in 2018 compared to 15% in 2008. On the other hand, the portion of people working in newsrooms who fall into the 35 to 54-years bracket dropped from 48% down to just 36%. Meanwhile, the number of young journalists rose slightly from 39% in 2008 to 39% in 2018.
+This graphical representation provides an insightful snapshot of how the demographics of newsroom personnel have changed during the past decade. It highlights significant shifts towards a more youthful composition, possibly reflecting changes in industry trends or generational preferences.

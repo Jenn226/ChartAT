@@ -1,0 +1,7 @@
+The image presents a bar graph that compares the percentage change in employment from 1980 to 2018 across different types of jobs, categorized by their most important skills. The x-axis lists five skill categories - Social, Fundamental, Analytical, Managerial and Mechanical - while the y-axis represents the corresponding percentage increase or decrease in job numbers.
+Accordingly, there's an additional text at the top left corner indicating "Employment is rising most rapidly in occupations where social and fundamental skills are most important".
+In terms of data points, for all jobs combined (denoted as All Jobs), we see a growth rate of approximately 58%. However, when it comes to jobs requiring certain key skills, some show significant increases compared with others:
+- For those demanding 'Social' skills, the number has increased by over three times more than average.
+- Similarly, jobs needing 'Fundamental' abilities have seen nearly double the overall growth rate.
+- On the other hand, positions reliant on 'Analytical', 'Managerial', and 'Mechanical' competencies experienced less pronounced gains relative to total employment figures.
+This comparison suggests that employers might be prioritizing roles which require strong interpersonal and foundational proficiencies during this period.

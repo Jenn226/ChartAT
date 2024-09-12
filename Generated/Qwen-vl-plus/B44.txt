@@ -1,0 +1,8 @@
+The bar graph presents data on spending for online content in a given month by percentage of internet users, categorized into five different ranges based on money spent per month ($0-$10; $11-$30; $31-$50; $51-$100 and $100+). The x-axis represents these categories while the y-axis indicates the corresponding percentages of internet users within each range.
+According to the information provided:
+- Approximately 43% of internet users spend between $0 - $10 monthly.
+- Around 25% fall under the category of those who spend from $11 - $30 every month.
+- A smaller group (14%) spends between $31 - $50 per month.
+- Another segment (11%) has an expenditure ranging from $51 - $100.
+- Lastly, only about 7% of internet users allocate more than $100 towards their online content expenses during any given month.
+This data is sourced from Pew Research Center's Internet & American Life Project conducted on October 28-November 1, 2010 among 755 adults with a margin of error +/- 3.9 percentage points.

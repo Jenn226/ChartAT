@@ -1,0 +1,6 @@
+The image presents a bar graph that compares the percentage of American teens aged between 12 and 17 who have experienced at least one major depressive episode in the past year, based on gender data from the 2017 National Survey on Drug Use and Health (Substance Abuse and Mental Health Services Administration). The x-axis represents different categories while the y-axis indicates percentages.
+There are three bars in this graph:
+- A gold-colored bar labeled "Total" which stands for all teenagers regardless of their gender.
+- An orange bar representing girls' experience with depression.
+- And another orange bar symbolizing boys' experiences with depression.
+According to these statistics, out of every hundred teenagers surveyed, approximately 13% had experienced a major depressive episode within the last twelve months. This figure is higher among teenage girls than it is among boys - specifically, around 20% of girls reported having such an episode compared to only about 7% of boys. These findings highlight significant differences in mental health outcomes by gender during adolescence.

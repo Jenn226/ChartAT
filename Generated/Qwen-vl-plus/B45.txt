@@ -1,0 +1,5 @@
+The bar graph titled "Number of types of payment methods" presents data on internet users' usage patterns for different numbers of payment methods, with three categories represented by vertical bars in varying shades of blue.
+Category 1 (66%): This category represents internet users who utilize only one type of payment method.
+Category 2 (24%): The second group consists of individuals using two distinct payment methods.
+Category 3 (11%): Lastly, there is a smaller percentage of people who employ multiple payment options or have access to at least three unique ways to pay online.
+A note below the graph indicates that this information was sourced from Pew Research Center's Internet & American Life Project Tracking Survey conducted between October 28 and November 1, 2010. A total sample size of N=755 adults participated in the survey, and it should be noted that the margin of error is +/- 3.9 percentage points.

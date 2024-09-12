@@ -1,0 +1,8 @@
+The image presents a bar graph titled "Video watching outranks many online activities". The x-axis represents different types of internet usage, while the y-axis indicates the percentage of internet users who have engaged in each activity.
+There are four bars on this graph:
+- A tall blue bar labeled as "Watch video on sharing site (April 09)", representing that 62% of internet users had watched videos on such sites.
+- Another medium-sized blue bar labeled as "Use social networking site (April 09)" with 46%, indicating that around half of all internet users used these platforms during April 2009.
+- A shorter blue bar labeled as "Download a podcast (May 08)" shows only 19%. This suggests that downloading podcasts was not very popular among internet users at that time.
+- Lastly, there's another short blue bar for "Use Twitter / share updates (April 09)". It stands out to be just above 10%.
+At the bottom right corner of the graphic is the source information which reads "Pew Internet & American Life Project survey conducted from March 26-April 29, 2009."
+This data provides an insight into how people were using their internet connections back then and highlights the popularity of video streaming compared to other forms of digital engagement.

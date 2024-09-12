@@ -1,0 +1,10 @@
+The bar graph presents data on how much information and communication technology (ICT) is perceived to contribute towards increased productivity by different groups, using percentages as values for each category.
+There are seven categories represented in this graph:
+- All: This represents all respondents.
+- Omnivores: These individuals consume both traditional media and digital media.
+- Connectors: They actively share their knowledge with others through social networks or other channels.
+- Productivity Enhancers: People who believe that ICT has significantly improved their work efficiency.
+- Connected but Hassled: Those who feel overwhelmed by constant connectivity.
+- Light But Satisfied: Individuals satisfied with their current level of connectedness without feeling overburdened.
+- Indifferents: Respondents who don't have strong opinions about whether ICT helps them be more productive.
+Each group's perception regarding the impact of ICT on productivity is depicted via vertical bars within the graph. The y-axis indicates these perceptions while the x-axis shows the various respondent segments.

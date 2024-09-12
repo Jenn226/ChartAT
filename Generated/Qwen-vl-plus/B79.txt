@@ -1,0 +1,5 @@
+The image presents a bar graph that compares the percentage of summer job income to total earned income for U.S. public school teachers based on their years of experience in teaching.
+There is one main category, "All Teachers," which represents all levels and experiences of teachers combined with an average value of 7%. The other categories represent different ranges of teacher's work experience:
+- For those who have taught between 0 and less than 2 years (1 year or less), this group has the highest share at 12%.
+- Those who have been teaching from 5 to 9 years contribute around 7%, while those with more than 30 years also make up about 7%.
+In general, as the number of years increases within each range, there seems to be a slight decrease in the proportion of summer earnings compared to overall annual income. This pattern suggests that experienced teachers may rely less on additional sources of income during summers when schools are closed. However, it should be noted that these figures might vary depending on individual circumstances such as location, subject area, and personal choices regarding employment outside of regular teaching hours.

@@ -1,0 +1,7 @@
+The bar graph presents data on internet users who have posted political commentary online, categorized by different platforms such as social networking sites and blogs. The y-axis represents percentages of internet users while the x-axis lists various types of online locations where people post their opinions.
+According to the information provided in the image:
+- On average, about 9% of internet users share political comments on websites that allow discussion.
+- Around 8% use blogs (either theirs or someone else's) for this purpose.
+- A slightly higher percentage, approximately 10%, engage in discussions through forums like online conversations, list serves, etc., but still less than those using other channels.
+- Interestingly, almost half - around 46% - choose "any" combination of these places when posting political views online. This suggests widespread participation across multiple digital spaces.
+It is important to note that all figures represent estimates based on interviews with over one thousand individuals during November and December 2008. Therefore, they may not be entirely accurate due to sampling error inherent within surveys. However, they provide valuable insights into how internet users express themselves politically via diverse online mediums.

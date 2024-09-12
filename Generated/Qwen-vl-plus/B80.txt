@@ -1,0 +1,7 @@
+This is a horizontal bar chart showing the general perception of Nigerians towards China.This is a horizontal bar chart showing the general perception of Nigerians towards China. The horizontal axis represents different viewpoints or issues, including "positive evaluation of China", "believing that China's economic growth is a good thing", "good things from Chinese investment", and "confidence in Chinese President Xi Jinping.The vertical axis represents the percentage of these viewpoints.
+From left to right:
+-have a favorable view of China.: 70%
+-Believing that China's growing economic is a good thing for Nigeria: 83%
+-Think that investment from China is a good thing: 82%
+-have confidence in Chinese President Xi Jinping:61%
+This graph shows that among all the surveyed options, the highest proportion (83%) believes that China's economic growth is beneficial to Nigeria, followed by "benefits from Chinese investment" (82%) and "positive evaluation of China" (70%).  

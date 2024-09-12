@@ -1,0 +1,5 @@
+The bar graph represents consumer attitudes and awareness towards VoIP technology in millions of Americans, with three different categories represented by red bars.
+- The first category is "Aware of VoIP," which has a tall vertical bar indicating that there are approximately 34 million people who have heard about or know what VoIP is.
+- The second category is "Made Internet phone call." This indicates those individuals who have actually used VoIP to make an internet-based telephone call. There's another medium-sized bar for this group, suggesting around 14 million users fall into this category.
+- Lastly, the third category is "Have considered VoIP for home service." It shows how many consumers might be interested but haven't yet made up their minds on whether they want to use VoIP services at home. A smaller bar suggests roughly four million potential customers fit within this segment.
+Overall, it seems like while more than half (50%) of the population knows about VoIP, only one-fifth (20%) have tried using it personally, and less than ten percent (8%) seem genuinely considering adopting it as part of their home communication setup.
