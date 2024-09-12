@@ -1,0 +1,4 @@
+This line chart tracks how people got news from 2002 to 2010, specifically looking at two approaches:
+* **Checks on news from time to time:** This method shows an overall upward trend, from 48% in 2002 to 57% in 2010.  Despite slight dips in 2004 and 2008, more people were getting news sporadically by 2010.
+* **Gets news at regular times:**  This approach shows a decreasing trend, starting at 49% in 2002 and dropping to 38% in 2010. Though it saw a peak in 2004, it steadily declined afterwards.
+**Conclusion:** The chart demonstrates a shift in news consumption habits, with more people opting for less structured, "grazing" behaviour to get their news rather than sticking to a regular schedule. 

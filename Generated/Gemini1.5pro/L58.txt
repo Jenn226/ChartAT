@@ -1,0 +1,11 @@
+This is a line chart illustrating the opinions of Republicans and Democrats in the United States towards Iran across several years.
+**Key Findings:**
+* **Consistently Negative Views:** Both Republicans and Democrats display consistently unfavorable views of Iran from 2009 to 2020. 
+* **Higher Unfavorable Opinions among Republicans:** Throughout the period, a larger percentage of Republicans/Republican-leaning individuals hold unfavorable views of Iran compared to Democrats/Democrat-leaning individuals.
+* **Slight Fluctuations:** While generally consistent, there are minor fluctuations in opinions within both groups over time.
+**Data Points:**
+The chart presents data for the years 2009, 2011, 2013, 2015, and 2020. It shows the percentage of individuals within each political grouping who reported having an "unfavorable" view of Iran. For example:
+* In 2009, approximately 85% of Republicans and 73% of Democrats held unfavorable views.
+* By 2020, around 83% of Republicans and 70% of Democrats reported negative sentiments.
+**Source:**
+The data displayed originates from the Pew Research Center's Summer 2020 Global Attitudes Survey. 

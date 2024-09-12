@@ -1,0 +1,6 @@
+The line graph shows the increase in the Arab-American population in the U.S. from 2000 to 2012. It highlights a consistent upward trend over this period.  Key details include:
+* **Title:** Arab-American Population in U.S.
+* **X-axis:** Time (Years), specifically 2000, 2002, 2004,... 2012
+* **Y-axis:** Arab-American population (in millions) ranging from 1 million to 2 million. 
+* **Data points:** The graph marks the population figure for each even-numbered year  with a dot and the corresponding value.  
+**Overall Trend:** The graph clearly depicts a steady growth in the Arab-American population within the United States during these 12 years. 

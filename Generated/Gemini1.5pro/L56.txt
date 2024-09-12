@@ -1,0 +1,10 @@
+This line chart from the Pew Research Center shows the percentage of Britons who viewed the European Union favorably and unfavorably from 2004 to 2020. 
+**Key Observations:**
+* **Favorable views increased significantly after the Brexit referendum:**  British favorable ratings of the EU saw a notable jump after the June 2016 referendum on EU membership (indicated by the vertical dashed line). 
+* **Unfavorable views decreased after the referendum, then rose slightly:** Opinions of the EU that were unfavorable showed an opposite trend, declining initially after the referendum and then seeing a small increase in the years following.
+* **2020 marked a historic high in favorable opinions:**  By 2020, favorable views of the EU among Britons reached their highest point (60%) within the period shown.
+**Other Details:**
+*  The chart uses two distinct lines to represent the percentage of Britons with favorable and unfavorable views. 
+*  Data points are plotted for each two-year interval, with exact percentages labeled for each point.
+* The source of the data is the Pew Research Center's Summer 2020 Global Attitudes Survey.
+* The chart highlights that a majority of Britons held favorable views of the EU throughout the period studied. 

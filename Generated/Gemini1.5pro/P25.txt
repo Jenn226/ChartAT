@@ -1,0 +1,4 @@
+The chart describes the percentage of US employment loss from February to March 2020, categorized by whether the jobs could potentially be teleworked.
+* **Jobs that could not be teleworked**: 90% 
+* **Jobs that could be teleworked**: 10%
+The chart emphasizes that the vast majority of employment loss during that period was concentrated in jobs that could not be done remotely. The total employment loss represented in the chart is 2.9 million.

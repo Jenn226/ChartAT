@@ -1,0 +1,5 @@
+This is a pie chart showing the breakdown of U.S. gun deaths by type in 2017:
+* **Suicide:** 60%
+* **Murder:** 37%
+* **Other:** 3%
+The chart notes that "Other" includes gun deaths that were unintentional, involved law enforcement, or had undetermined circumstances. 

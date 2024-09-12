@@ -1,0 +1,9 @@
+The line chart shows the response rates to telephone surveys conducted by Pew Research Center each year from 1997 to 2018. 
+**Key takeaways:**
+* **Overall declining trend:** Telephone survey response rates have fallen significantly from 36% in 1997 to just 6% in 2018.
+* **Brief plateau:** There was a brief plateau between 2013 and 2016, where response rates remained steady at 9%. However, this was followed by another sharp drop in 2018.
+**Other important information:**
+* The response rate refers to the percentage of successful contacts out of all eligible households sampled.
+* The surveys only included landline numbers between 1997 and 2006.
+* The rates shown are typical for surveys conducted in each respective year.
+This chart highlights the growing challenge of conducting telephone surveys in the face of changing communication habits and declining landline use. 

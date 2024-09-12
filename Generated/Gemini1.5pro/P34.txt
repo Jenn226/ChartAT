@@ -1,0 +1,10 @@
+The chart shows what percentage of US adults thought police spending in their area should be increased, decreased, or stay about the same in June 2020.  
+* A plurality, 42%, thought it should stay about the same. 
+* 31% thought it should be increased...
+* ...while 25% thought it should be decreased.  
+* Of those who thought it should be increased: 
+    * 11% thought it should be increased "a lot". 
+    * 20% thought it should be increased "a little". 
+* Of those who thought it should be decreased:
+    * 12% thought it should be decreased "a lot".
+    * 14% thought it should be decreased "a little". 

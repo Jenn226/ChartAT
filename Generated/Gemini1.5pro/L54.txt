@@ -1,0 +1,9 @@
+The line chart demonstrates the percentage of Americans from different political affiliations who held favorable views of NATO from 2009 to 2020. 
+**Key Observations:**
+* **Democrats consistently more favorable:** Throughout the period, Democrats (blue line) consistently held more favorable views of NATO compared to Republicans (red line).
+* **Peak favorability for Democrats:** Democratic favorability peaked in 2017 and 2018, reaching 74% and 76% respectively. 
+* **Low point for Republicans:** Republican favorability reached its lowest point in 2013 at 43%. 
+* **Converging trends in 2020:** Notably, both groups showed increasing favorability towards NATO from 2019 to 2020, with a significant jump for Democrats and a slight increase for Republicans.
+**Data Source and Context:**
+* The data is sourced from the Pew Research Center.
+*  2018 data was obtained from a Körber-Stiftung survey conducted in September 2018, while the rest is from the Summer 2020 Global Attitudes Survey. 

@@ -1,0 +1,8 @@
+The line chart illustrates the number of unauthorized immigrants removed from the United States from 2000 to 2018. 
+Here are some key takeaways:
+* **General trend:** While there have been fluctuations, unauthorized immigrant removals generally increased from 2000 to 2012, then decreased until 2016, before rising again in 2017 and 2018. 
+* **Specific figures:**
+    * Removals were at their lowest point in 2001 at approximately 188,467.
+    * They peaked in 2012 at roughly 432,281.
+    * In 2018, removals reached approximately 337,287.
+It is important to note that even though removals increased from 2017 to 2018, they remained below the recent highs.

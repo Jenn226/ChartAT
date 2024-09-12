@@ -1,0 +1,14 @@
+The pie chart shows the breakdown of Asian Americans by six origin groups in percentages. It shows that these six groups represent 85% of all Asian Americans. The six groups and their corresponding percentages are: Chinese (23%), Indian (19%), Filipino (18%), Vietnamese (9%), Korean (9%), and Japanese (7%). The remaining 15% are categorised as "All others." A more detailed breakdown of the "All others" category lists several origin groups with percentages lower than 1%. This detailed list is displayed in full below:
+Pakistani 2%
+Cambodian 2%
+Hmong 1%
+Thai 1%
+Laotian 1%
+Bangladeshi <1%
+Burmese <1%
+Nepalese <1%
+Indonesian <1%
+Sri Lankan <1%
+Malaysian <1%
+Bhutanese <1%
+Mongolian <1% 

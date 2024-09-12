@@ -1,0 +1,10 @@
+The chart shows the percentage of eligible U.S. voters who are Latino from 2000 to 2020. 
+**Key takeaways:**
+* The share of Latino eligible voters has been steadily increasing.
+* In 2000,  7.4% of eligible voters were Latino. 
+* By 2020, that share is projected to reach 13.3%. 
+**Other details:**
+* The chart uses data from the Pew Research Center.
+*  The 2020 data point is a projection based on U.S. Census Bureau data. 
+* The chart specifies that an "eligible voter" is a U.S. citizen aged 18 or older. 
+* It also clarifies that Latinos can be of any race. 

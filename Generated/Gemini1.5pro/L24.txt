@@ -1,0 +1,8 @@
+This line chart shows the percentage of voters in the US who cast their ballots by mail over a 20 year period. 
+In 1996, 7.8% of voters cast their ballot by mail. This steadily rose over the next two decades:
+* 10.1% in 2000
+* 12.9% in 2004
+* 16.4% in 2008
+* 18.5% in 2012 
+* 20.9% in 2016
+ The trend clearly shows an increasing popularity for postal voting in the United States. 

@@ -1,0 +1,4 @@
+This is a pie chart describing the results of a survey of Nigerian adults. The survey asked how satisfied people where with the way democracy is working in Nigeria. 
+* **60%** of respondents said they were **not satisfied**.
+* **39%** of respondents said they were **satisfied.**
+* **1%** of respondents said they **don't know.** 

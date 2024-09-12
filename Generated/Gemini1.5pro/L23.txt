@@ -1,0 +1,7 @@
+The line chart shows the percentage of the US population that was born outside the country, between 1850 and 2017.
+Key takeaways:
+* The share of immigrants in the US population peaked twice at close to 15% - first in 1890 and then in 1910. 
+* This was followed by a sharp decline to below 5% by 1970.
+* Since then, there has been a steady upward trend, and the proportion of immigrants was approaching the historic high of 15% in 2017.
+* The chart also highlights two key legislations passed in the US that impacted immigration to the country:  The National Origins Quota Act in 1924 and the Immigration and Nationality Act in 1965. 
+The chart is based on data from the US Census Bureau and Pew Research Center. 

@@ -1,0 +1,11 @@
+The chart is a line graph that shows the percentage of American adults aged 18+ who owned a tablet computer from May 2010 to May 2013.
+**Key Findings:**
+* **Sharp Increase in Ownership:** Tablet ownership increased dramatically between 2010 and 2013. 
+* **Steady Growth:** The growth was fairly steady, with more significant jumps occurring between February 2012 and April 2012, and again from August 2012 to May 2013.
+**Data Points:**
+* **May 2010:**  3%
+* **May 2013:** 34%
+**Other Details:**
+* **Source:** Pew Research Center's Internet & American Life Project
+* **Survey Dates:** May 2010 - May 2013
+* **Margin of Error:** +/- 2.3 percentage points 

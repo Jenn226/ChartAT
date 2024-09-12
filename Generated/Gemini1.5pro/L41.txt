@@ -1,0 +1,3 @@
+The line graph shows the percentage of Americans with home broadband connections from 2000 to 2007. 
+The graph shows a general upward trend over the period, starting at just over 0% in 2000, rising to 24% by the end of 2003 and then to 47% by the end of 2007. 
+The most significant jump occurred in late 2005, where there was a sharp increase from about 35% to approximately 41%. 

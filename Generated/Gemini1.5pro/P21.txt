@@ -1,0 +1,7 @@
+The pie chart depicts the results of a survey conducted by the Pew Research Center from June 16-22, 2020. 
+**Question:** "If you were to wear a mask in public places in your local area, generally, do you think most of the people around you would..."
+**Answers:**
+* **Approve:** 55%
+* **Not Care:** 40%
+* **Disapprove:** 4%
+The remaining percentage of responses, not shown on the chart, likely represents "Don't Know" or "No Answer" responses.

@@ -1,0 +1,10 @@
+The chart is a line graph comparing the perceived economic power of the U.S. and China from 2008 to 2012. 
+**Key observations:**
+* **The U.S. was perceived as the leading economic power throughout the period, but its perceived dominance declined.**
+* **China's perceived economic power consistently grew during this time.**
+* **In 2012, the gap between the U.S. and China narrowed significantly.**
+**Details:**
+* **The y-axis** represents the percentage of respondents who named either China or the U.S. as the world's leading economic power.
+* **The x-axis** represents the years from 2008 to 2012.
+* **The data is based on surveys conducted in 14 nations.** 
+**Overall, the chart suggests a shift in global perception regarding the economic balance of power, with China gaining ground on the U.S. between 2008 and 2012.** 

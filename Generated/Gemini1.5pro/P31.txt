@@ -1,0 +1,5 @@
+A pie chart depicting Indians' satisfaction with the way democracy is working in India shows that:
+* 54% are satisfied
+* 33% are not satisfied 
+* 13% don't know
+The source of the chart is a Spring 2018 Global Attitudes Survey conducted among Indian adults from May 23 - July 23, 2018. 

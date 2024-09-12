@@ -1,0 +1,5 @@
+The pie chart shows the familiarity and usage of the word "Latinx" among US Latino adults, based on a Pew Research Center survey conducted in December 2019.
+*   The vast majority (**76%**) of respondents had **not heard** of the term "Latinx."
+*   A smaller portion (**20%**) had **heard of the term but did not use it.**
+*   A very small minority (**3%**) **used** the term "Latinx."  
+The remaining responses are not shown on the chart but likely represent respondents who did not answer the survey question.

@@ -1,0 +1,6 @@
+This line chart shows the percentage of foreign-born people ages five and older in the U.S. who were proficient in English each year from 1980 to 2018. 
+Key takeaways:
+* **Downward trend:**  From 1980 (57%) to 2010 (48%), there's a clear downward trend in English proficiency among immigrants.
+* **Recent uptick:** After 2010, the percentage ticks slightly upward, reaching 53% in 2018.
+* **Definition:**  The chart specifies that "English proficient" includes those who speak *only* English at home, as well as those who speak another language at home but indicate they can speak English "very well."
+This data suggests that while the proportion of English proficient immigrants declined for a few decades, it has seen a slight increase in recent years. 

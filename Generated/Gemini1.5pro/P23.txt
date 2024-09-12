@@ -1,0 +1,4 @@
+The pie chart shows the results from a survey of 2,067 middle and high school teachers, about how today's digital technologies affect their ability to shape and improve student writing. The results are as follows:
+- Easier: 50%
+- No impact: 31% 
+- More difficult: 18% 

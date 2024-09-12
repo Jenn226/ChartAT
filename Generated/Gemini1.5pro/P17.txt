@@ -1,0 +1,8 @@
+This is a pie chart illustrating the results of a survey about the reasons for the rise in gas prices. 
+Here's a breakdown:
+* **Greed/Oil companies/Speculation:** 31% of respondents believe this is the main reason for increased gas prices.
+* **Wars/Mideast unrest:** 19% attribute the rise to wars and unrest in the Middle East.
+* **No opinion:** 14% of respondents have no opinion on the matter.
+* **Politics/Policy:** Another 14% believe politics and policy are the driving force behind rising gas prices.
+* **Economic forces:** 12% attribute the increase to economic factors.
+* **Other reasons:** The remaining 10% cite other reasons for the price hike. 

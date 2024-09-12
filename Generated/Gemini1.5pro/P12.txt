@@ -1,0 +1,9 @@
+The pie chart shows the composition of the foreign-born population in the United States in 2017. It highlights that unauthorized immigrants constitute a significant portion, making up 23% or 10.5 million of the total foreign-born population.
+Key points:
+* **Unauthorized immigrants:** 10.5 million (23%)
+* **Lawful immigrants:** 35.2 million (77%)
+    * **Naturalized citizens:** 20.7 million (45% of lawful immigrants)
+    * **Lawful permanent residents:** 12.3 million (27% of lawful immigrants)
+* **Temporary lawful residents:** 2.2 million (5%)
+The total U.S. foreign-born population is 45.6 million. 
+The chart also includes a note mentioning that the unauthorized immigrant count includes individuals with temporary protection from deportation under DACA or TPS, as well as those with pending asylum cases.

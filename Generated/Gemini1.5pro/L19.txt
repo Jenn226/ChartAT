@@ -1,0 +1,6 @@
+This line chart from Pew Research Center illustrates the estimated total number of unauthorized immigrants in the United States from 1990 to 2017.
+**Key Findings:**
+* **Increasing Trend:** The number consistently rose from 3.5 million in 1990 to a peak of 12.2 million in 2007.
+* **Peak and Decline:** After reaching its highest point in 2007, the total number of unauthorized immigrants decreased, settling at 10.5 million in 2017.
+* **Confidence Interval:** The chart uses shading to indicate the range of estimates within a 90% confidence interval. 
+**Data Source:** The data is based on Pew Research Center estimates derived from augmented U.S. Census Bureau data.

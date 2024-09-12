@@ -1,0 +1,8 @@
+The line chart illustrates the percentage of Republicans and Democrats who believed the economic situation in their country was good from 2007 to 2017. 
+**Key Observations:**
+* **Republican sentiment experienced a dramatic increase in 2017.**  Positive views of the U.S. economy nearly doubled among Republicans from 31% in 2015 to 60% in 2017. 
+* **Democrat sentiment remained relatively stable.**  While there was a slight upward trend in Democrats' positive views of the economy from 2011 onwards, the change was not as significant as the shift among Republicans.
+* **A consistent gap exists between the two parties.**  Throughout the entire period, Republicans consistently held more positive views of the economy compared to Democrats.
+**Additional Notes:**
+* The chart is based on data from the Spring 2017 Global Attitudes Survey conducted by the Pew Research Center.
+* The specific question asked in the survey was whether the current economic situation in the country was good. 

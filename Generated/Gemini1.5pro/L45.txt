@@ -1,0 +1,5 @@
+The line chart tracks relative search volume for generational terms on Google Trends from 2014 to 2018:
+* **Generation Z** (teal line): Starts low (3 in 2014), steadily increases to 20 in 2017, spikes sharply to 58 in 2018, then drops to 63 by the end of 2018.
+* **iGeneration** (light brown line):  Hovers around 1 consistently through all years.
+* **Post-Millennials** (dark brown line): Remains at 1 throughout the entire timeframe.
+Key takeaway: Public interest in searching for information about "Generation Z" saw a significant surge, particularly in 2018, compared to the relatively stagnant interest in "iGeneration" and "Post-Millennials". 

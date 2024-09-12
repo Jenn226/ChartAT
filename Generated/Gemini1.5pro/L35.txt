@@ -1,0 +1,10 @@
+The line chart depicts the trend of the U.S. teenage birthrate from 1940 to 2018. It shows the number of births per 1,000 females aged 15-19 each year.
+**Key Takeaways:**
+* **Sharp Decline:**  The most significant trend is the dramatic decrease in the teen birth rate over the period studied. 
+* **Peak and Decline:** The rate peaked in the mid-1950s during the "Baby Boom years," reaching 96.3 births per 1,000 females in 1957.
+* **Continued Downward Trend:** From the late 1950s onward, the rate consistently declined, with a brief plateau in the 1990s.
+* **2018 Low:** By 2018, the teen birth rate plummeted to 17.4 births per 1,000 females—a substantial drop from its peak.
+**Additional Information:**
+* The chart uses data from the National Center for Health Statistics.
+* Only live births are included (miscarriages, stillbirths, and abortions are excluded). 
+* Data for teens younger than 15 is not included. 

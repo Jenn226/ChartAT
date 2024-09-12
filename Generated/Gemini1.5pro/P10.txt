@@ -1,0 +1,5 @@
+The chart is a pie chart from the Pew Research Center and The Washington Post that presents the results of a poll asking Democrats and Democratic-leaning independents about their stance on other Democratic candidates challenging Barack Obama for the party's nomination for president in 2012. 
+The results are as follows:
+* **No, do not challenge:** 59%
+* **Yes, challenge Obama:** 32%
+* **Don't know:** 9% 

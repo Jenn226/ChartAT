@@ -1,0 +1,5 @@
+This is a pie chart depicting the results of a survey. The respondents were asked if they would continue to use their favorite site if a pay wall was implemented.
+The results of the survey are as follows:
+- 82%  would find somewhere else
+- 15% would continue to use it
+- 3% do not know 

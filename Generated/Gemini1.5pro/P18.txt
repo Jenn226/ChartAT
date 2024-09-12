@@ -1,0 +1,7 @@
+This is a pie chart illustrating the results of a survey conducted by the Pew Research Center in June 2020. The survey asked U.S. adults how much they think the actions of ordinary Americans affect the spread of the Coronavirus in the U.S. 
+Here is a breakdown of the results presented in the chart:
+* **A great deal:** 59% 
+* **A fair amount:** 28%
+* **Not too much:** 10%
+* **Not at all:** 2%
+The chart visually emphasizes that a majority of Americans (87%) believe individual actions significantly impact the spread of the virus. 

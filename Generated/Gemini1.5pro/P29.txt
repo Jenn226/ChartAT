@@ -1,0 +1,6 @@
+The chart describes how much US adults think journalists have had to change how they report the news due to the coronavirus outbreak. 
+* **Somewhat:** 43%
+* **A great deal:** 28%
+* **Not much:** 19%
+* **Not at all:** 9%
+* **No answer:** 1% 

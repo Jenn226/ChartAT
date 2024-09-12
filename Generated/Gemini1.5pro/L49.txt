@@ -1,0 +1,6 @@
+The line chart tracks the percentage of US adults who think the worst of the coronavirus outbreak is still to come, from April to November 2020. 
+Here's the breakdown:
+* **April 2020:** 73% believed the worst was yet to come, while 26% thought the worst was behind us. 
+* **June 2020:** The percentage believing the worst was still ahead dipped to 59%, while those believing the worst had passed increased to 40%.
+* **November 2020:** The trend reversed, with 71% believing the worst was still to come and 28% believing the worst was behind us.
+**Key takeaway:** The data indicates a resurgence in concern about the pandemic towards the end of 2020. 

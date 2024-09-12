@@ -1,0 +1,6 @@
+The chart, titled "Geosocial services over time", presents the percentage of smartphone owners and all adults in the US who used their cell phones to check in to certain locations or share their locations with friends over three points in time: May 2011, February 2012 and May 2013.
+**Key findings:**
+* **Smartphone owners are more likely to use geosocial services:** At all three points in time,  a larger percentage of smartphone owners used these services compared to the general adult population.
+* **Peak usage in early 2012:** Usage of geosocial services peaked in February 2012 for both groups, with 18% of smartphone owners and 10% of all adults using them. 
+* **Decline in usage by 2013:** By May 2013, the percentage of respondents using geosocial services had fallen to 12% for smartphone owners and 7% for all adults.
+**Overall, the chart shows that while the use of geosocial services was more prevalent among smartphone owners, it saw a decline in popularity between 2012 and 2013.** 

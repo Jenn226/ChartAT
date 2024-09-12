@@ -1,0 +1,8 @@
+The line chart shows the percentage of US adults who hold favorable and unfavorable views of China from 2005 to 2020.
+Key takeaways:
+* **Unfavorable views are increasing:** The percentage of US adults with unfavorable views of China has been trending upwards, reaching 66% in 2020. This marks a significant increase from 43% in 2005.
+* **Favorable views are decreasing:** Conversely, the percentage of US adults with favorable views of China has been declining, dropping to 26% in 2020, down from a high of 52% in 2008.
+* **The gap is widening:** The difference between unfavorable and favorable views has been widening over the years, indicating a growing negative sentiment towards China among the US population. 
+It's important to note:
+* The data is based on a survey conducted in March 2020, during the early stages of the COVID-19 pandemic. This event likely influenced public opinion.
+* The chart doesn't include "don't know" responses, so it only reflects those who have a clear opinion. 

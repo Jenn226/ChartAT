@@ -1,0 +1,6 @@
+The pie chart indicates the percentage of U.S. adults surveyed in June 2020 who believe the 2020 census will be successful in accurately counting the population:
+* **Somewhat successful:** 60%
+* **Not too successful:** 26%
+* **Very successful:** 8%
+* **Not at all successful:** 5%
+* **No answer:** 1% 

@@ -1,0 +1,6 @@
+The chart displays the results of a survey about US adult Facebook users and their ad preferences. The percentage of users who have a specific number range of ad preference categories listed on their Facebook profile is broken down as follows: 
+- Fewer than 10 categories: 27%
+- 10 to 20 categories: 27%
+- 21 or more categories: 33%
+- Did not provide an answer: 2%
+- Not assigned to a category: 11% 

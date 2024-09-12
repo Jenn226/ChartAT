@@ -1,0 +1,6 @@
+The line chart tracks the percentage of registered U.S. voters who say that it "really matters" who wins the presidential election, versus those who say that "things will be pretty much the same regardless of who is elected". The chart shows data from the years 2000, 2004, 2008, 2012, 2016 and 2020. 
+**Key Takeaways:**
+* The percentage of voters who believe it "really matters" who wins the presidential election has generally increased over the past 20 years, from 50% in 2000 to 83% in 2020. 
+* Conversely, the percentage of voters who believe things will be "pretty much the same" regardless of the election outcome has generally decreased over the same time period, from 44% in 2000 to 16% in 2020.  
+**Overall:**
+The chart demonstrates that a growing majority of American voters believe that presidential elections have significant consequences, with fewer voters feeling that the outcome won't significantly impact their lives.  

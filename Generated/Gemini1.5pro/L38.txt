@@ -1,0 +1,7 @@
+The chart shows the percentage of eligible men and women voters in the United States who said they voted in midterm elections from 1998 to 2018. In every election year shown, the percentage of women who said they voted is higher than the percentage of men who said they voted. 
+- 1998: 44.9% of men and 45.7% of women
+- 2002: roughly 46% of men and 47% of women
+- 2006: roughly 48% of men and over 49% of women
+- 2010: roughly 41% of men and over 43% of women
+- 2014: roughly 41% of men and 43% of women
+- 2018: 51.8% of men and 55% of women
