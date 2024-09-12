@@ -1,0 +1,5 @@
+The chart displays the average number of online activities performed by internet users in different residential areas (rural, urban, suburban) on a typical day in December 2005.
+- Rural users engage in an average of 1.9 online activities per day.
+- Urban users engage in an average of 2.2 online activities per day.
+- Suburban users also engage in an average of 2.2 online activities per day.
+The horizontal axis represents the residential areas (rural, urban, suburban), and the vertical axis represents the number of online activities, ranging from 1 to 2.8. The chart highlights that users in urban and suburban areas engage in more online activities compared to those in rural areas.

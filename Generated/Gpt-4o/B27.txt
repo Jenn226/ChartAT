@@ -1,0 +1,8 @@
+The chart shows the percentage of cell phone owners in different age groups who have used their phones in the last 30 days to keep themselves occupied during breaks or commercials while watching television. The data originates from the Pew Research Center's Internet & American Life Project, based on a survey conducted between March 15 and April 3, 2012. Here are the specifics:
+- 18-24 years: 73%
+- 25-34 years: 56%
+- 35-44 years: 45%
+- 45-54 years: 27%
+- 55-64 years: 16%
+- 65+ years: 9%
+This data is drawn from 2,254 adult cell phone owners, with 903 interviews conducted on respondents' cell phones. The margin of error is +/- 2.6 percentage points, based on the total sample of cell phone owners (1,954).

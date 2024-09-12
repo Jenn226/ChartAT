@@ -1,0 +1,6 @@
+The chart is titled "The online social climate: Mostly kind." It presents survey data on internet users' perceptions of people's behavior online, based on their experiences. The survey question asked: "Based on all of your experiences, would you say that people you have witnessed or encountered on the internet are mostly kind, or mostly unkind to each other?"
+The responses are presented as percentages:
+- 76% of respondents believe that people are "Mostly kind" online.
+- 13% of respondents believe that people are "Mostly unkind" online.
+- 6% of respondents believe that people are equally kind and unkind online.
+The data source is the Pew Research Center Internet Project Survey, conducted from January 9-12, 2014, with a sample size of 857 internet users.

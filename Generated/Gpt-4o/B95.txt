@@ -1,0 +1,11 @@
+The chart illustrates the percentage of people who consider various democratic principles to be "very important" in their country, based on a survey conducted by the Pew Research Center. The percentages are medians based on data from 34 countries. Here's a breakdown of the specific content:
+- **Fair judiciary**: 82% of respondents say it is very important to have a fair judiciary.
+- **Gender equality**: 74% of respondents believe gender equality is very important.
+- **Free religion**: 68% of respondents think that free religion is very important.
+- **Regular elections**: 65% of respondents consider having regular elections to be very important.
+- **Free speech**: 64% of respondents say free speech is very important.
+- **Press freedom**: 64% of respondents believe press freedom is very important.
+- **Freedom on the internet**: 59% of respondents regard freedom on the internet as very important.
+- **Human rights groups can operate freely**: 55% of respondents consider it very important for human rights groups to operate freely.
+- **Opposition parties can operate freely**: 54% of respondents think it is very important for opposition parties to operate freely.
+The data source is the Spring 2019 Global Attitudes Survey, specifically questions Q55a-f, Q57a-c.

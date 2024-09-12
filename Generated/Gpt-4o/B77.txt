@@ -1,0 +1,9 @@
+The chart from the Pew Research Center outlines the primary reasons why mobile sharers choose to share rather than own a mobile phone. The percentages represent eight-country medians, excluding Jordan, Lebanon, and Vietnam due to low sample sizes. The reasons, along with their respective percentages, are as follows:
+1. **They cannot afford a mobile phone**: 34%
+2. **Their mobile phone was lost, broken, or stolen**: 31%
+3. **They don't need to use a mobile phone regularly**: 15%
+4. **They think mobile phones are too complicated to use**: 6%
+5. **They do not like using mobile phones**: 5%
+6. **They are afraid that their mobile phone will be stolen**: 2%
+7. **They are not allowed to own a mobile phone**: 1%
+Each reason is represented by a horizontal bar, proportional to the percentage value associated with it.

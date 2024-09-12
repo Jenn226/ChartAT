@@ -1,0 +1,6 @@
+The chart displays the percentages of U.S. adults who believe Americans should have the right to have certain types of information permanently deleted by the entities that hold this information. The specific percentages and types of information are as follows:
+1. **Potentially embarrassing photos or videos**: 87%
+2. **Financial data collected by tax preparer**: 79%
+3. **Medical data collected by health care provider**: 69%
+4. **Data collected by law enforcement, like criminal records, mugshots**: 36%
+Additionally, there is a note indicating that those who did not give an answer are not shown. The source of this survey data is Pew Research Center, from a survey conducted June 3-17, 2019.

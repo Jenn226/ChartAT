@@ -1,0 +1,8 @@
+The chart titled "Figure 3: Spending for online content in a given month by percentage of internet users" presents a bar graph that shows the distribution of monthly spending on online content among internet users. The data represents the percentage of internet users who spend different amounts of money on online content each month.
+Here’s the detailed breakdown:
+- 43% of internet users spend between $1 and $10.
+- 25% of internet users spend between $11 and $30.
+- 14% of internet users spend between $31 and $50.
+- 11% of internet users spend between $51 and $100.
+- 7% of internet users spend more than $100.
+The chart is sourced from the Pew Research Center’s Internet & American Life Project, based on data collected from October 28 to November 1, 2010. The survey included 755 adults, and the margin of error is +/- 3.9 percentage points.

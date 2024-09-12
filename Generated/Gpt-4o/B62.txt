@@ -1,0 +1,20 @@
+The chart, titled "Trump's major foreign policies are unpopular globally," represents worldwide approval and disapproval ratings for several foreign policies of U.S. President Donald Trump. The percentages are shown as medians based on responses collected from 33 countries. The chart includes the following policies with corresponding approval and disapproval rates:
+1. **U.S. increasing tariffs or fees on imported goods from other countries**:
+- Approve: 18%
+- Disapprove: 68%
+2. **U.S. withdrawal from international climate change agreements**:
+- Approve: 14%
+- Disapprove: 66%
+3. **Building a wall on the border between the U.S. and Mexico**:
+- Approve: 24%
+- Disapprove: 60%
+4. **Allowing fewer immigrants into the U.S.**:
+- Approve: 34%
+- Disapprove: 55%
+5. **U.S. withdrawal from the Iran nuclear weapons agreement**:
+- Approve: 29%
+- Disapprove: 52%
+6. **U.S. negotiations with North Korean leader Kim Jong Un about the country’s nuclear weapons program**:
+- Approve: 41%
+- Disapprove: 36%
+The chart highlights that, globally, President Trump's foreign policies were generally unpopular, with a higher percentage of disapproval compared to approval across the listed policies. This data was sourced from the Spring 2019 Global Attitudes Survey (Q40a-f) by the Pew Research Center.

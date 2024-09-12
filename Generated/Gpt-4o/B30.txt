@@ -1,0 +1,13 @@
+The chart illustrates the number of PCs with one or more peer-to-peer (P2P) applications installed globally, measured over three different years: June 2006, June 2007, and June 2008. The specific content includes:
+1. **Bar Chart**:
+- **June 2006**: Approximately 180 million PCs had one or more P2P applications installed.
+- **June 2007**: Approximately 200 million PCs had one or more P2P applications installed.
+- **June 2008**: Approximately 210 million PCs had one or more P2P applications installed.
+2. **Axes**:
+- **Y-axis**: Represents the number of PCs in millions, ranging from 100 to 220 million.
+- **X-axis**: Represents the three time points (June 2006, June 2007, and June 2008).
+3. **Source**: The data is sourced from PC Pitstop and BigChampagne Media Measurement.
+4. **Title and Label**:
+- The title of the chart is "Number of PCs with One or More P2P Applications Installed."
+- The chart is labeled as representing global statistics.
+5. **Organization**: The chart is presented by Pew Internet & American Life Project.

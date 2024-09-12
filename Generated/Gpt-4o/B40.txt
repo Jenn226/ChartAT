@@ -1,0 +1,7 @@
+The chart displays the relationship between the number of internet-connected devices owned by individuals and their likelihood of using Twitter or another service to update their status. The data is presented as percentages of internet users who use Twitter, categorized by the number of devices they own. The specific content is as follows:
+- 10% of internet users with one device use Twitter.
+- 19% of internet users with two devices use Twitter.
+- 28% of internet users with three devices use Twitter.
+- 39% of internet users with four or more devices use Twitter.
+The chart visually represents that as the number of devices owned increases, the likelihood of using Twitter also increases.
+The source information indicates that the data comes from the Pew Internet & American Life Project survey conducted between August 18 and September 14, 2009. The survey included 1,698 internet users, with a margin of error of +/- 5% based on the subgroup.

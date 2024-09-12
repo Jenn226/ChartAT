@@ -1,0 +1,9 @@
+The chart is a bar graph titled "Do you own a game console, like an Xbox or Play Station?" It provides data on the percentage of various age groups that own a game console. Here are the details:
+- **Millennials (18-34)**: 63%
+- **Gen X (35-46)**: 63%
+- **Younger Boomers (47-56)**: 38%
+- **Older Boomers (57-65)**: 19%
+- **Silent Generation (66-74)**: 8%
+- **G.I. Generation (75+)**: 3%
+- **All adults (18+)**: 42%
+These percentages represent how many people within each age group own a game console. The data was collected from the Pew Research Center's Internet & American Life Project during the period from August 9 to September 13, 2010. The survey sample includes 3001 adults aged 18 and older, incorporating 1000 responses reached via cell phone. Interviews were conducted in English (N=2804) and Spanish (N=197).

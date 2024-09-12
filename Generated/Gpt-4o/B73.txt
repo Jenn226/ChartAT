@@ -1,0 +1,7 @@
+The chart presents information from a Pew Research Center study about the relationship between how much importance U.S. adults place on following the news and their accuracy in identifying original news reporting. Specifically, it shows the percentage of U.S. adults who correctly identified whether three or more of six sources do original news reporting, categorized by how important they say following the news is to being a good citizen.
+The chart has three categories with the following results:
+1. **Very important**: 55% of respondents who say following the news is very important correctly identified whether three or more of six sources do original news reporting.
+2. **Somewhat important**: 44% of respondents who say following the news is somewhat important correctly identified the sources.
+3. **Not too/at all important**: 32% of those who say following the news is not too or not at all important correctly identified the sources.
+The note at the bottom specifies the details about the news sources asked, which include ABC News, The Wall Street Journal, and HuffPost, among others. It also mentions the sources that do not fall under the original reporting category, which are Google News, Apple News, and Facebook.
+Additionally, the chart indicates that the data was collected via a survey conducted from June 2-11, 2020.

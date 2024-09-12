@@ -1,0 +1,7 @@
+The chart titled "About 6-in-10 Internet Users Use YouTube" displays the percentage of adult web users who ever use various social networking sites. The data, sourced from the American Trends Panel (wave 1) and conducted between March 19 and April 29, 2014 (Q16), presents the following information:
+- **Facebook:** 77% of adult web users use Facebook.
+- **YouTube:** 63% of adult web users use YouTube.
+- **LinkedIn:** 25% of adult web users use LinkedIn.
+- **Google Plus:** 24% of adult web users use Google Plus.
+- **Twitter:** 21% of adult web users use Twitter.
+The PEW Research Center conducted the survey and compiled the data.

@@ -1,0 +1,23 @@
+The chart titled "Partisanship biggest factor in comfort with activities during coronavirus" presents data on the average percentage point gap in comfort across six different activities, broken down by various factors. These factors include partisanship, race, geography, gender, and age. Here are the contents broken down:
+1. **Partisanship:**
+- The average percentage point gap is 26.
+- This indicates a significant difference in comfort levels between those who identify as Republicans (or lean Republican) and those who identify as Democrats (or lean Democrat).
+2. **Race:**
+- The average percentage point gap is 15.
+- This represents the comfort level difference between non-Hispanic white individuals and non-white individuals.
+3. **Geography:**
+- The average percentage point gap is 11.
+- This shows the comfort level difference between people living in urban areas versus rural areas.
+4. **Gender:**
+- The average percentage point gap is 5.
+- This highlights the comfort level difference between men and women.
+5. **Age:**
+- The average percentage point gap is 3.
+- This denotes the comfort level difference between individuals aged 18-49 and those aged 50 and above.
+The notes clarify the definitions used for each factor:
+- **Party:** Differentiates between those who identify as Republican or lean Republican and those who identify as Democrat or lean Democrat.
+- **Race:** Differentiates between non-Hispanic white individuals and non-white individuals.
+- **Geography:** Differentiates between individuals living in urban vs. rural areas.
+- **Gender:** Differentiates between men and women.
+- **Age:** Differentiates between age groups 18-49 and 50+.
+The data source is a survey of U.S. adults conducted by Pew Research Center from June 16-22, 2020.

@@ -1,0 +1,5 @@
+The chart provides data from a Pew Research Center survey conducted from April 29 to May 13, 2019. It illustrates the percentage of U.S. adults who believe that elected officials using heated or aggressive language to talk about certain people or groups makes violence against those groups more likely.
+The chart is divided into three categories with the following percentages:
+1. **Total**: 78% of all surveyed U.S. adults believe heated rhetoric by politicians raises the risk of violence against certain groups.
+2. **Rep/Lean Rep** (Republicans or those who lean Republican): 61% believe this statement to be true.
+3. **Dem/Lean Dem** (Democrats or those who lean Democrat): 91% believe this statement to be true.

@@ -1,0 +1,10 @@
+The chart presents data on the percentage of adults who own various gadgets, based on a survey from the Pew Research Center's Internet & American Life Project conducted between April 26 and May 22, 2011. The survey included 2,277 adults aged 18 and older and was conducted in English and Spanish, with a margin of error of +/- 2 percentage points.
+Here is the specific content of the chart:
+- **Cell Phone**: 83% ownership
+- **Desktop**: 57% ownership
+- **Laptop**: 56% ownership
+- **DVR**: 52% ownership
+- **MP3**: 44% ownership
+- **e-Reader**: 12% ownership
+- **Tablet**: 8% ownership
+The title of the chart indicates that e-reader and tablet ownership are significantly lower compared to other devices.

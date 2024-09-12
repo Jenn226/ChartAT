@@ -1,0 +1,12 @@
+The chart presents data comparing the mean number of correct science knowledge answers out of 11 between whites, blacks, and Hispanics in the United States, based on their level of education.
+1. **Among those with a college degree or more:**
+- Whites have a mean score of 9.3 correct answers.
+- Blacks have a mean score of 5.6 correct answers.
+- Hispanics have a mean score of 7.6 correct answers.
+2. **Among those with some college education or less:**
+- Whites have a mean score of 6.7 correct answers.
+- Blacks have a mean score of 3.2 correct answers.
+- Hispanics have a mean score of 4.7 correct answers.
+**Additional Notes:**
+- The data excludes Hispanics from both whites and blacks categories. Hispanics can be of any race.
+- The study was conducted by Pew Research Center from January 7-21, 2019, and is titled "What Americans Know About Science."

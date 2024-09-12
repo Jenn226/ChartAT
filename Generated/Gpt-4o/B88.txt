@@ -1,0 +1,6 @@
+The chart shows the percentage of U.S. adults who believe that global climate change is currently affecting their local community either a great deal or some. The data is categorized by the distance individuals live from a coastline.
+- Overall, 59% of U.S. adults say climate change is affecting their local community.
+- For those living less than 25 miles from a coastline, 67% believe climate change is affecting their community.
+- Among those living 25-299 miles from a coastline, the percentage is 59%.
+- For those living 300+ miles from the coastline, 50% say climate change is impacting their community.
+This data was gathered from a survey conducted between March 27 and April 9, 2018, by the Pew Research Center.

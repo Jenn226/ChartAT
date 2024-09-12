@@ -1,0 +1,10 @@
+The chart from Pew Research Center illustrates the percentage of U.S. adult social media users who changed their views on various political or social issues due to something they saw on social media. The data is based on a survey conducted from July 13–19, 2020. The chart lists the specific issues and their corresponding percentages, ordered by the proportion of respondents who mentioned changing their views on them:
+- Black Lives Matter (12%)
+- Police brutality/need for police reform (12%)
+- Political parties/ideologies/politicians (11%)
+- Race relations, in general (11%)
+- Social issues, in general (9%)
+- The coronavirus (8%)
+- President Donald Trump (7%)
+- Other (10%)
+Note: The chart also mentions that 34% of respondents did not give an answer and are not shown, and the figures add up to more than 100% because multiple responses were allowed. The responses were categorized based on verbatim answers.

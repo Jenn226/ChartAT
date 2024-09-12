@@ -1,0 +1,6 @@
+The chart displays the number of Americans, in millions, who have made a donation online at three different time points: October 2001, January 2005, and September 2005.
+Specific details include:
+- In October 2001, 11 million Americans had made a donation online.
+- In January 2005, this number increased to 17 million.
+- By September 2005, the number had further increased to 26 million.
+The chart visually represents the growth in the number of Americans making online donations over these time periods.

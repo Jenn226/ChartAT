@@ -1,0 +1,16 @@
+The chart compares the average percentage point gap across 30 political values items based on six demographic categories:
+1. **Party**: A gap of 39 percentage points.
+2. **Race**: A gap of 17 percentage points.
+3. **Religious Attendance**: A gap of 14 percentage points.
+4. **Education**: A gap of 10 percentage points.
+5. **Age**: A gap of 10 percentage points.
+6. **Gender**: A gap of 6 percentage points.
+The party category shows the largest gap, indicating a significant difference in political values between individuals identifying with different political parties (Republican/Lean Republican vs. Democrat/Lean Democrat). The other categories—race, religious attendance, education, age, and gender—show progressively smaller gaps in political values.
+The notes clarify the comparisons made:
+- **Party**: Republican/Lean Republican vs. Democrat/Lean Democrat.
+- **Race**: White non-Hispanic vs. Black non-Hispanic.
+- **Religious Attendance**: Attending religious services weekly or more vs. less often.
+- **Education**: College graduates vs. non-college graduates.
+- **Age**: Individuals aged 18-49 vs. those aged 50+.
+- **Gender**: The comparison is based on male vs. female.
+The data is sourced from a survey of U.S. adults conducted by Pew Research Center between September 3-15, 2019.

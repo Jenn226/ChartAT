@@ -1,0 +1,13 @@
+The chart illustrates the increasing frequency with which members of the U.S. Congress mentioned the COVID-19 outbreak or associated issues in their Twitter posts over a specific period of time. The data spans from January 22, 2020, to March 21, 2020.
+Here are the specific percentages of tweets mentioning COVID-19 for each date range:
+- Jan 22-28: 1%
+- Jan 29-Feb 4: 2%
+- Feb 5-11: 1%
+- Feb 12-18: 2%
+- Feb 19-25: 3%
+- Feb 26-Mar 3: 15%
+- Mar 4-10: 26%
+- Mar 11-17: 53%
+- Mar 18-21: 53%
+The chart highlights a significant increase in tweets mentioning COVID-19 beginning in late February, peaking at 53% of tweets in both the weeks of March 11-17 and March 18-21.
+The source of this information is the Pew Research Center, based on an analysis of 148,130 tweets from members of U.S. Congress posted between January 22 and March 21, 2020. The data was obtained via the Twitter API.

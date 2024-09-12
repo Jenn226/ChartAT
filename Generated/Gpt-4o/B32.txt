@@ -1,0 +1,9 @@
+The chart displays the percentage of individuals within various age groups who own an electronic book device or e-book reader, such as a Kindle or Sony Digital Book. The specific percentages for each group are as follows:
+- Millennials (18-34 years old): 5%
+- Gen X (35-46 years old): 5%
+- Younger Boomers (47-56 years old): 7%
+- Older Boomers (57-65 years old): 3%
+- Silent Generation (66-74 years old): 6%
+- G.I. Generation (75+ years old): 2%
+- All adults (18+ years old): 5%
+This information is sourced from the Pew Research Center's Internet & American Life Project, based on a survey conducted from August 9 to September 13, 2010, with a sample size of 3,001 adults (1,000 contacted via cell phone). The interviews were conducted in English (n=2,804) and Spanish (n=197).

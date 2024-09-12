@@ -1,0 +1,10 @@
+The chart from Pew Research Center provides an analysis of the percentage change in employment from 1980 to 2018, focusing on how this change varies depending on the importance of different types of skills in various occupations. Here are the key points:
+1. **All jobs** have seen a 58% increase in employment over this period.
+2. The percentage changes for jobs where specific skills are most important are as follows:
+- **Social skills**: Employment increased by 111%.
+- **Fundamental skills**: Employment increased by 104%.
+- **Analytical skills**: Employment increased by 92%.
+- **Managerial skills**: Employment increased by 77%.
+- **Mechanical skills**: Employment increased by 4%.
+The chart notes that occupations are ranked based on the importance of each skill, with rankings derived from the highest quartile of skill importance. This data applies to full-time and part-time workers aged 16 and older. The source of the data is the Pew Research Center's analysis of O*NET (Version 23) and the 1980 and 2018 Current Population Surveys (IPUMS).
+This indicates that the demand for jobs requiring social, fundamental, and analytical skills has grown significantly more than for jobs requiring mechanical skills.

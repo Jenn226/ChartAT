@@ -1,0 +1,5 @@
+The chart shows the percentage of American teens aged 12-17 who had at least one major depressive episode in the past year (2017). It highlights the difference in depression rates between girls and boys:
+- **Total:** 13% of all teens
+- **Girls:** 20%
+- **Boys:** 7%
+The note at the bottom clarifies that a "major depressive episode" is defined according to the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders and is used as a proxy measure for depression. The data source is the 2017 National Survey on Drug Use and Health by the Substance Abuse and Mental Health Services Administration (Department of Health and Human Services). The chart was produced by the Pew Research Center.

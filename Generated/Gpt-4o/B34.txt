@@ -1,0 +1,6 @@
+The chart illustrates the percentage of internet users who engage in various online activities. The data is derived from surveys conducted by Pew Internet & American Life Project, with the specific activities and corresponding participation rates as follows:
+1. **Watch video on sharing site (April 09)**: 62% of internet users engage in this activity.
+2. **Use social networking site (April 09)**: 46% of internet users engage in this activity.
+3. **Download a podcast (May 08)**: 19% of internet users engage in this activity.
+4. **Use Twitter / share updates (April 09)**: 11% of internet users engage in this activity.
+The chart shows that watching videos on sharing sites is the most popular activity, followed by using social networking sites, downloading podcasts, and using Twitter or sharing updates. The data was collected from surveys conducted with adult internet users: one from March 26-April 29, 2009, and the other from April 8-May 11, 2008. Each survey has a margin of error of +/-3%.

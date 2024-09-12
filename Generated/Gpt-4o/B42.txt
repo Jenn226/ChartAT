@@ -1,0 +1,7 @@
+The chart depicts the percentage of married couples where the husband is the primary earner (breadwinner) and the wife is a homemaker, categorized by the age of the wife.
+- Overall, 24% of married couples follow this model.
+- For wives aged 18-29, 32% of marriages have a breadwinner husband and a homemaker wife.
+- For wives aged 30-49, the percentage is 27%.
+- In the age group of 50-64, the percentage decreases to 22%.
+- For wives aged 65 and older, only 14% of marriages follow this traditional model.
+The data is based on an analysis by the Pew Research Center of the 2011 American Community Survey data from IPUMS, with employment status measured as of the previous week.

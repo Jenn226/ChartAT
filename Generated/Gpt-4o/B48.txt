@@ -1,0 +1,6 @@
+The chart shows the frequency with which users click on advertisements, measured as a percentage of respondents. Here are the specific details:
+- "Never": Approximately 45% of respondents never click on advertisements.
+- "Hardly Ever": Approximately 35% of respondents hardly ever click on advertisements.
+- "Sometimes": Approximately 15% of respondents sometimes click on advertisements.
+- "Often": Approximately 5% of respondents often click on advertisements.
+The chart suggests that the majority of users either never or hardly ever click on advertisements, with a smaller percentage occasionally or often engaging with them. The chart is presented by the Pew Internet and American Life Project.

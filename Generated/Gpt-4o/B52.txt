@@ -1,0 +1,4 @@
+The chart illustrates the percentage of U.S. adults who consider the spread of infectious diseases as a major threat to the United States during two time periods in March 2020.
+- From March 3-12, 2020, 73% of respondents believed that the spread of infectious diseases was a major threat.
+- This percentage increased to 84% for the period of March 13-29, 2020.
+The data stems from a survey conducted by the Pew Research Center, as noted at the bottom of the chart. The title of the survey report is "Americans See Spread of Disease as Top International Threat, Along With Terrorism, Nuclear Weapons, Cyberattacks."

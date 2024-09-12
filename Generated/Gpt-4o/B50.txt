@@ -1,0 +1,9 @@
+The chart shows the percentage of American adults who owned various gadgets in 2010. The gadgets listed and their corresponding ownership percentages are as follows:
+- **Cell phone:** 85%
+- **Desktop computer:** 59%
+- **Laptop computer:** 52%
+- **mp3 player:** 47%
+- **Game console:** 42%
+- **e-Book reader:** 5%
+- **Tablet computer:** 4%
+The source of the data is the Pew Research Center's Internet & American Life Project, from a survey conducted between August 9 and September 13, 2010. The survey included a sample size of 3,001 adults aged 18 and older, including 1,000 reached via cell phone. Interviews were carried out in both English (2,804 respondents) and Spanish (197 respondents).

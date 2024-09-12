@@ -1,0 +1,11 @@
+The chart titled "Consumer attitudes & awareness of VoIP" illustrates various statistics related to Voice over Internet Protocol (VoIP) awareness and usage among Americans. The chart features three red bars against a light blue grid background, each representing different aspects of consumer interaction with VoIP:
+1. **Aware of VoIP**:
+- Number of Americans: 34 million
+- This bar shows the highest awareness level, indicating 34 million Americans are aware of VoIP technology.
+2. **Made Internet phone call**:
+- Number of Americans: 14 million
+- This indicates that 14 million Americans have actually used VoIP to make an internet phone call.
+3. **Have considered VoIP for home service**:
+- Number of Americans: 4 million
+- This is the least in terms of engagement, with 4 million Americans having considered VoIP for their home service needs.
+The chart visually compares these three aspects, highlighting the gap between awareness and actual usage or consideration for home service.

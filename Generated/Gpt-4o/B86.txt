@@ -1,0 +1,8 @@
+The chart titled "Majority of U.S. poll workers are over 60" shows the percentage of U.S. poll workers in the 2018 general election by different age groups. The specific percentages for each age group are as follows:
+- 17 and younger: 4%
+- 18-25: 4%
+- 26-40: 9%
+- 41-60: 26%
+- 61-70: 31%
+- 71 and older: 27%
+The source of the data is the "2018 Elections Administration and Voting Survey," as indicated at the bottom of the chart. A note included in the chart mentions that not all jurisdictions reported poll worker age, and the percentages are based on all poll workers whose age was known. The chart is from the PEW RESEARCH CENTER.

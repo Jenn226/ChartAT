@@ -1,0 +1,8 @@
+The chart titled "The online participatory class" illustrates the percentage of internet users who have posted political commentary online in various contexts. The data is derived from the Pew Internet & American Life Project Post-Election Survey conducted between November and December 2008. The chart has a margin of error of ±3% and is based on a sample size of 1,591 internet users.
+The specific content of the chart is as follows:
+- **On a social networking site**: 10% of internet users have posted political commentary.
+- **On a website that allows comments and discussion**: 9% of internet users have posted political commentary.
+- **On a blog (yours or someone else's)**: 8% of internet users have posted political commentary.
+- **In an online discussion, listserv, or other forum**: 8% of internet users have posted political commentary.
+- **In any of these places online**: 18% of internet users have posted political commentary.
+The chart visually represents these percentages with bar graphs, indicating that a consequential percentage of internet users are engaging in political discussions across various online platforms.

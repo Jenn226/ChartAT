@@ -1,0 +1,20 @@
+The chart illustrates the global approval and disapproval rates of several major policies enacted by U.S. President Donald Trump. The data is derived from a Spring 2019 Global Attitudes Survey conducted by Pew Research Center, based on responses from 33 countries. Here are the specifics of each policy's approval and disapproval rates:
+1. **U.S. increasing tariffs or fees on imported goods from other countries:**
+- Approve: 18%
+- Disapprove: 68%
+2. **U.S. withdrawal from international climate change agreements:**
+- Approve: 14%
+- Disapprove: 66%
+3. **Building a wall on the border between the U.S. and Mexico:**
+- Approve: 24%
+- Disapprove: 60%
+4. **Allowing fewer immigrants into the U.S.:**
+- Approve: 34%
+- Disapprove: 55%
+5. **U.S. withdrawal from the Iran nuclear weapons agreement:**
+- Approve: 29%
+- Disapprove: 52%
+6. **U.S. negotiations with North Korean leader Kim Jong Un about the country’s nuclear weapons program:**
+- Approve: 41%
+- Disapprove: 36%
+The chart highlights that a majority of these policies are viewed unfavorably by respondents in various countries, with disapproval rates generally higher than approval rates for all the listed policies.

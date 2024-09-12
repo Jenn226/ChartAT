@@ -1,0 +1,5 @@
+The chart presents data on the perception of the Iranian government's respect for personal freedoms among people from 39 countries surveyed in 2013. The chart is titled "Personal Freedoms" and poses the question: "Does the government of Iran respect the personal freedoms of its people?"
+The data is represented by two bars:
+1. The "Yes" bar, which is a pale green color, indicates that 11% of the respondents believe the Iranian government respects personal freedoms.
+2. The "No" bar, which is a darker green color, shows that 61% of the respondents believe the Iranian government does not respect personal freedoms.
+The source of the data is noted as the Pew Research Center, specifically referencing question Q127a from their survey. The percentages reflect the median responses from the 39 countries surveyed in 2013.

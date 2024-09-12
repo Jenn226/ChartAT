@@ -1,0 +1,10 @@
+The chart provided by the Pew Research Center illustrates the median amount of outstanding student loan debt in 2016 among those with student loan debt, categorized by educational attainment. Here are the specific details:
+- **All Borrowers:**
+- Median Debt: $17,000
+- **Less than a Bachelor's Degree:**
+- Median Debt: $10,000
+- **Bachelor's Degree:**
+- Median Debt: $25,000
+- **Postgraduate Degree:**
+- Median Debt: $45,000
+The chart shows that the median student loan debt increases with higher levels of educational attainment, with those who have postgraduate degrees bearing the highest median debt of $45,000. The source of this data is the Pew Research Center's analysis of the Federal Reserve Board's 2016 Survey of Household Economics and Decisionmaking.

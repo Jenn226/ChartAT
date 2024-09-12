@@ -1,0 +1,10 @@
+The chart displays the percentage of Republicans and Democrats who believe that human activity contributes a great deal to global climate change, segmented by their level of science knowledge (low, medium, high).
+For Republicans:
+- 25% with low science knowledge believe human activity contributes a great deal to climate change.
+- 25% with medium science knowledge believe human activity contributes a great deal to climate change.
+- 17% with high science knowledge believe human activity contributes a great deal to climate change.
+For Democrats:
+- 41% with low science knowledge believe human activity contributes a great deal to climate change.
+- 74% with medium science knowledge believe human activity contributes a great deal to climate change.
+- 89% with high science knowledge believe human activity contributes a great deal to climate change.
+The chart illustrates a significant difference between Democrats and Republicans, especially among those with high science knowledge, with Democrats more likely to say that human activity contributes a great deal to climate change compared to Republicans.

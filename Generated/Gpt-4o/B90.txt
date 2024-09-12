@@ -1,0 +1,8 @@
+The chart from Pew Research Center illustrates the percentage of respondents from a survey who believe that certain countries play a more important role in the world today compared to ten years ago. The survey includes data from 25 countries and was conducted as part of the Spring 2018 Global Attitudes Survey. Specific details from the chart are as follows:
+- **China**: 70% of respondents believe China plays a more important role in the world today.
+- **Russia**: 42% of respondents believe Russia plays a more important role.
+- **Germany**: 35% of respondents believe Germany plays a more important role.
+- **U.S.**: 31% of respondents believe the United States plays a more important role.
+- **India**: 27% of respondents believe India plays a more important role.
+- **France**: 22% of respondents believe France plays a more important role.
+- **UK**: 21% of respondents believe the United Kingdom plays a more important role.

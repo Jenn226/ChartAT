@@ -1,0 +1,10 @@
+The chart titled "The internet as a diversion" depicts the percentage of online economic users in the United States who engage in various activities to help relax and divert their attention from the economy. According to the chart:
+- 69% of all Americans are online economic users.
+- The chart presents the following activities and their corresponding percentages of users who engage in them:
+1. **Watch videos**: Approximately 55%
+2. **Listen to music**: Approximately 55%
+3. **Play games**: Approximately 35%
+4. **Chat with friends**: Approximately 35%
+5. **Create or post online content**: Approximately 20%
+6. **Have done any of these**: Approximately 75%
+The chart is based on data from the Pew Internet & American Life Project April 2009 Tracking Survey, with a margin of error of +/- 4% and a sample size of 713 online economic users.

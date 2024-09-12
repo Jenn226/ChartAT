@@ -1,0 +1,19 @@
+The chart displays the percentage of enlisted and commissioned U.S. active duty military forces that are women from 1975 to 2017. The data is sourced from the U.S. Department of Defense's 2017 Population Representation in the Military Services published data.
+Key points from the chart:
+1. **1975**
+- Enlisted: 5%
+- Officers: 5%
+2. **1985**
+- Enlisted: 10%
+- Officers: 10%
+3. **1995**
+- Enlisted: 13%
+- Officers: 14%
+4. **2005**
+- Enlisted: 14%
+- Officers: 16%
+5. **2017**
+- Enlisted: 16%
+- Officers: 18%
+The chart uses yellow bars to represent the percentage of enlisted women and green bars to represent the percentage of women who are officers.
+Additionally, there is a note clarifying that the data includes only the four military branches under the Department of Defense, and "Officers" refers specifically to commissioned officers.

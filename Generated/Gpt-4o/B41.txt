@@ -1,0 +1,7 @@
+The chart titled "Dual-Income Marriages, by Age of Wife" shows the percentage of married couples where both spouses are employed, categorized by the age of the wife. Here are the specific percentages for each age group:
+- All ages: 47%
+- Age 18-29: 57%
+- Age 30-49: 62%
+- Age 50-64: 46%
+- Age 65+: 6%
+The accompanying note mentions that the data is based on the employment status of couples as measured in the previous week. The source of the data is the Pew Research Center's analysis of the 2011 American Community Survey data from IPUMS.

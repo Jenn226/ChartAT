@@ -1,0 +1,3 @@
+The chart displays the percentage of people with access to high-speed internet at home or work in different types of areas (rural, urban, suburban) from September to December 2005.
+- Rural areas have the lowest access at 35%.
+- Both urban and suburban areas have the same higher access rate of 49%.

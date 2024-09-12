@@ -1,0 +1,6 @@
+The chart presents the results of a survey by the Pew Research Center, measuring Nigerian attitudes toward China. The survey tracks four specific questions, and the percentages of Nigerians who gave positive responses are indicated:
+1. **70%** of Nigerians have a favorable view of China.
+2. **83%** of Nigerians believe that China's growing economy is beneficial for Nigeria.
+3. **82%** of Nigerians think that investment from China is a good thing.
+4. **61%** of Nigerians have confidence in Chinese President Xi Jinping.
+The data comes from the Spring 2019 Global Attitudes Survey by Pew Research Center, referring specifically to questions Q8b, Q28, Q38b, and Q41.

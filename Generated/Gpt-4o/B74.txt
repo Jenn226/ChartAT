@@ -1,0 +1,7 @@
+The chart, titled "Confidence in public health organizations to keep records safe is related to comfortable or likely engagement with the full contact tracing process," presents the percentage of U.S. adults who say they would be very or somewhat comfortable or likely to engage with all three key steps of the process (which include speaking, sharing, and quarantining).
+The data are broken down based on respondents' confidence levels in public health organizations to keep their personal records safe from hackers or unauthorized users. The percentages are as follows:
+- Among those who say they are very confident: 70%
+- Among those who say they are somewhat confident: 56%
+- Among those who say they are not too confident: 36%
+- Among those who say they are not at all confident: 21%
+The data source is a survey of U.S. adults conducted by the Pew Research Center from July 13-19, 2020.

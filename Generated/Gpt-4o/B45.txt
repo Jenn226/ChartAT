@@ -1,0 +1,9 @@
+The chart titled "Figure 2. Number of types of payment methods" displays the distribution of internet users in terms of the number of different payment methods they use. The chart is a bar graph with the following details:
+- The x-axis represents the "Number of types of payment methods" and has three categories: 1, 2, and 3.
+- The y-axis represents the "% of internet users" ranging from 0.0% to 70.0%.
+The chart presents the following percentages for each category of payment methods:
+1. For users who use 1 type of payment method, 66% of internet users fall in this category.
+2. For users who use 2 types of payment methods, 24% of internet users fall in this category.
+3. For users who use 3 types of payment methods, 11% of internet users fall in this category.
+At the bottom of the chart, there is a source note:
+"Source: Pew Research Center’s Internet & American Life Project, October 28-November 1, 2010 Tracking Survey. N=755 adults and the margin of error is +/- 3.9 percentage points."

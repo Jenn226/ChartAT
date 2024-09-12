@@ -1,0 +1,9 @@
+The chart shows the percentage of adults who own a cell phone, broken down by different generational categories. The data is presented as follows:
+- Millennials (ages 18-34): 95%
+- Gen X (ages 35-46): 92%
+- Younger Boomers (ages 47-56): 86%
+- Older Boomers (ages 57-65): 84%
+- Silent Generation (ages 66-74): 68%
+- G.I. Generation (ages 75+): 48%
+- All adults (ages 18+): 85%
+The information is based on the Pew Research Center’s Internet & American Life Project, which conducted a survey from August 9 to September 13, 2010. The survey included 3,001 adults (18 and older), with 1,000 respondents reached via cell phone. The interviews were conducted in both English (n=2,804) and Spanish (n=197).

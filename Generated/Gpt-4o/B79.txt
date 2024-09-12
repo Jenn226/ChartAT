@@ -1,0 +1,11 @@
+The chart illustrates the percentage of summer 2015 job income as a share of the total income for the 2015-2016 school year among U.S. public school teachers, categorized by their years of experience. The key points from the chart are as follows:
+- All teachers: Summer earnings constitute 7% of their total income.
+- Teachers with 1 year or less of experience: 12% of their total income comes from summer earnings.
+- Teachers with 2 to 4 years of experience: Summer earnings make up 8% of their total income.
+- Teachers with 5 to 9 years of experience: 7% of their total income comes from summer earnings.
+- Teachers with 10 to 14 years of experience: 6% of their total income comes from summer earnings.
+- Teachers with 15 to 19 years of experience: Summer earnings constitute 7% of their total income.
+- Teachers with 20 to 24 years of experience: 6% of their total income comes from summer earnings.
+- Teachers with 25 to 29 years of experience: Summer earnings constitute 6% of their total income.
+- Teachers with 30+ years of experience: 7% of their total income comes from summer earnings.
+This data was sourced from Pew Research Center’s analysis of the National Center for Education Statistics data. The chart highlights that less experienced teachers rely more on summer earnings compared to their more experienced counterparts.

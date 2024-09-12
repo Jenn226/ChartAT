@@ -1,0 +1,8 @@
+The chart from the Pew Research Center displays survey results regarding people's perceptions of what constitutes offensive, racist, and sexist language. Here are the specific findings:
+1. **Percentage of People Finding It Hard to Know What Others Might Find Offensive**:
+- 48% of respondents say it's hard to know what others might find offensive.
+2. **Percentage of People Who Believe There is No General Agreement on Racist Language**:
+- 61% of respondents believe that people in the country do not generally agree on what is considered racist language.
+3. **Percentage of People Who Believe There is No General Agreement on Sexist Language**:
+- 65% of respondents believe that people in the country do not generally agree on what is considered sexist language.
+These statistics are based on a survey of U.S. adults conducted from April 29 to May 13, 2019.
