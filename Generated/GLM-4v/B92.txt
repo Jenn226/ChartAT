@@ -1,0 +1,6 @@
+The chart is a bar graph from the Pew Research Center, based on a survey of U.S. adults conducted between April 29 and May 13, 2019. It presents the percentage of respondents who believe that people in the country do not generally agree on what is considered to be racist language and sexist language.
+Here are the specifics:
+- **48%** say it's hard to know what others might find offensive.
+- **61%** believe there is no general agreement on what constitutes racist language.
+- **65%** feel the same way about sexist language.
+The colors of the bars correspond with the percentages, and the darker shades represent higher percentages of disagreement or uncertainty.

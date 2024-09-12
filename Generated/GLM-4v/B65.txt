@@ -1,0 +1,5 @@
+The chart is a bar graph from the Pew Research Center that presents data on the percentage of teens aged 12-17 who have experienced at least one major depressive episode in the past year, based on gender. Here are the specifics:
+- The total percentage for all teens is 13%.
+- Girls are shown to be more affected, with 20% experiencing such an episode.
+- Boys are less likely to experience depression, with only 7% reported.
+The source of this information is cited as the 2017 National Survey on Drug Use and Health by the Substance Abuse and Mental Health Services Administration (Department of Health and Human Services). Additionally, there's a note explaining that "Major depressive episode" is defined according to the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders and serves as a proxy measure for depression.

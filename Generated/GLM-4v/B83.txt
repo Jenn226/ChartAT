@@ -1,0 +1,7 @@
+The chart is a bar graph from the Pew Research Center, depicting the average percentage point gap in comfort levels across six different activities based on various demographic factors during the coronavirus outbreak. Here are the specifics:
+1. Partisanship: There's a 26-point gap between Republicans/Lean Rep and Democrats/Lean Dem.
+2. Race: A 15-point gap exists between non-Hispanic white individuals and non-white individuals.
+3. Geography: An 11-point difference is seen between urban and rural areas.
+4. Gender: A 5-point gap is present between men and women.
+5. Age: Only a 3-point gap is observed between those aged 18-49 and 50+.
+The chart indicates that partisanship is the biggest factor influencing comfort levels with activities during the pandemic, followed by race. Comfort level differences due to age are the smallest among the factors listed.

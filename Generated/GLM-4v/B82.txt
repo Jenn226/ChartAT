@@ -1,0 +1,8 @@
+The chart is a bar graph from the Pew Research Center that presents data on the use of Twitter by legislators in five countries: the United States, United Kingdom, Canada, Australia, and New Zealand. Here are the specifics:
+- **Title**: "Most legislators in five countries are on Twitter"
+- **Subtitle**: "% of legislators who ..."
+- Have a Twitter account: 77%
+- Tweeted during study period: 73%
+- **Source**: Analysis of tweets from national-level legislators in the specified countries, posted between January 1 and June 30, 2019. N=2,180 legislators with Twitter accounts, including 2,056 who tweeted at least once.
+- **Citation**: "For Global Legislators on Twitter, an Engaged Minority Creates Outsize Share of Content"
+The bars representing these percentages are colored in a shade of green, and the textual information provides additional context about the methodology and findings of the study.

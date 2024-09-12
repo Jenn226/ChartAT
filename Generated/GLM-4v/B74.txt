@@ -1,0 +1,7 @@
+The chart depicts the percentage of U.S. adults who express varying levels of confidence in public health organizations' ability to keep personal records safe from hackers or unauthorized users. This confidence is related to their willingness to engage with the full contact tracing process for coronavirus, which includes speaking with a public health official, sharing information about their contacts and whereabouts, and quarantining if advised by a public health official due to exposure to the virus.
+The specific content of the chart is as follows:
+- **Very confident**: 70% of U.S. adults say they are very confident that public health organizations will keep their personal records safe from hackers or unauthorized users.
+- **Somewhat confident**: 56% of U.S. adults feel somewhat confident in this regard.
+- **Not too confident**: 36% express some level of unease, indicating they are not too confident.
+- **Not at all confident**: A minority, 21%, are not at all confident that their personal records would be safe.
+Additionally, there is a footnote explaining that the calculations regarding engagement with contact tracing programs are based on a random half sample of respondents and consider their comfort with sharing information, willingness to speak with a public health official, and willingness to quarantine. It also notes that those who did not answer certain questions were not included in the calculations for engaging with the contact tracing steps.

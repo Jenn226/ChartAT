@@ -1,0 +1,5 @@
+The chart is a bar graph from the Pew Research Center that represents the percentage of U.S. parents whose children, aged 11 or younger, watch videos on YouTube. It breaks down the data by the age range of the child:
+- For children aged 0-2, 80% of parents say their child watches videos on YouTube.
+- For those aged 3-4, the number rises to 81%.
+- And for children aged 5-11, an overwhelming 89% of parents report that their child watches YouTube videos.
+The source of this information is a survey conducted among U.S. adults from March 2-15, 2020, titled "Parenting Children in the Age of Screens." The note at the bottom indicates that if a parent has multiple children, they were asked to focus on one child when answering the question, and the results for those who did not give an answer are not shown in the chart.

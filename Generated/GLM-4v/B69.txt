@@ -1,0 +1,12 @@
+The chart depicts the top ten states for U.S. refugee resettlement in fiscal year 2019. Each state is represented by a horizontal bar, with the length of the bar corresponding to the number of refugees resettled in that state. The data is as follows:
+1. Texas - 2,500 refugees
+2. Washington - 1,900 refugees
+3. New York - 1,800 refugees
+4. California - 1,800 refugees
+5. Kentucky - 1,400 refugees
+6. Ohio - 1,400 refugees
+7. North Carolina - 1,300 refugees
+8. Arizona - 1,200 refugees
+9. Georgia - 1,200 refugees
+10. Michigan - 1,100 refugees
+The note at the bottom indicates that the fiscal year ended on September 30, 2019, and the numbers are rounded to the nearest hundred. The source of this information is the U.S. State Department's Refugee Processing Center, accessed on October 1, 2019. The Pew Research Center logo signifies the organization that likely created or published the chart.

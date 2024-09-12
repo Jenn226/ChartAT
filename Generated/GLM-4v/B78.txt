@@ -1,0 +1,7 @@
+The chart is a bar graph from the Pew Research Center that represents the percentage of adult Web users who use various social networking sites. The data is based on a survey conducted between March 19-April 29, 2014. It lists five different platforms:
+1. Facebook - 77%
+2. YouTube - 63%
+3. LinkedIn - 25%
+4. Google Plus - 24%
+5. Twitter - 21%
+The source of this information is cited as the American Trends Panel (wave 1).

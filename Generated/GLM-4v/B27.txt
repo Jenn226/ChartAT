@@ -1,0 +1,8 @@
+The chart represents data on the percentage of cell phone owners in various age groups who have used their phones as a distraction device while watching television within the last 30 days. It shows the following statistics:
+1. For the 18-24 age group, 73% have used their phones in this manner.
+2. In the 25-34 age group, 56% have done so.
+3. The rate drops to 45% for the 35-44 age group.
+4. 27% of those aged 45-54 have used their phones in this way.
+5. A smaller proportion, 16%, are in the 55-64 age bracket.
+6. Finally, only 9% of individuals over the age of 65 have used their phones as a TV distraction in the past month.
+The source of the data is cited as the Pew Research Center's Internet & American Life Project from a tracking survey conducted between March 15 and April 3, 2012. The survey included 2,254 adults ages 18 and older, with 903 interviews conducted on respondents' cell phones. The margin of error is given as +/- 2.6 percentage points based on the sample size of cell phone owners (n=1,954).

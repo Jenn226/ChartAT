@@ -1,0 +1,8 @@
+The image is a bar chart titled "The internet as a diversion." It represents the percentage of online economic users in America who engage in various activities on the internet to relax and distract themselves from the economy. Here are the specifics:
+1. **Watch videos**: Approximately 50% of online economic users watch videos as a form of relaxation or distraction.
+2. **Listen to music**: Roughly 48% listen to music, which is almost as popular as watching videos.
+3. **Play games**: Around 36% play games online, indicating it's less common than video watching or listening to music but still a significant activity.
+4. **Chat with friends**: About 31% chat with friends online, showing that social interactions via the internet are also a popular pastime.
+5. **Create or post online content**: Only around 22% of online economic users create or post online content, suggesting this is a more niche activity compared to the others listed.
+6. **Have done any of these**: A combined total of 79% have engaged in at least one of these activities, while 69% have done all six. This indicates that most online economic users use the internet for some form of diversion.
+The source of the data is cited as the Pew Internet & American Life Project April 2009 Tracking Survey, with a margin of error noted as +/- 4% based on the sample size of 713 online economic users.

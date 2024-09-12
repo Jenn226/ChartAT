@@ -1,0 +1,10 @@
+The chart is a bar graph that represents the percentage of different generations who own an iPod or another mp3 player. The data source is from Pew Research Center's Internet & American Life Project, based on a survey conducted between August 9 and September 13, 2010. The survey included 3,001 adults aged 18 and older, with 1,000 respondents reached via cell phone. Interviews were conducted in English (n=2,804) and Spanish (n=197).
+The chart shows the following categories and their respective percentages:
+- Millennials (18-34): 74%
+- Gen X (35-46): 56%
+- Younger Boomers (47-56): 42%
+- Older Boomers (57-65): 26%
+- Silent Gen. (66-74): 16%
+- G.I. Gen. (75+): 3%
+- All adults (18+): 47%
+The bars are color-coded, with each generation having its distinct color. The tallest blue bar represents the Millennial generation at 74%, indicating that they have the highest ownership rate among all listed groups. Conversely, the shortest grey bar indicates that only 3% of the G.I. Generation own an mp3 player, which is the lowest percentage across all generations surveyed.

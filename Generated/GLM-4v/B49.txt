@@ -1,0 +1,5 @@
+The image is a bar graph representing consumer attitudes and awareness regarding Voice over Internet Protocol (VoIP). There are three bars in the graph, each corresponding to different categories of consumer behavior or knowledge about VoIP:
+1. **Aware of VoIP** - This bar shows that 34 million Americans are aware of VoIP.
+2. **Made an Internet phone call** - 14 million Americans have made at least one internet phone call.
+3. **Have considered VoIP for home service** - Only 4 million Americans have seriously considered using VoIP for their home telephone service.
+The graph uses a light blue background with red bars to represent the data. The vertical axis represents millions of Americans, while the horizontal axis lists the different consumer actions related to VoIP awareness.

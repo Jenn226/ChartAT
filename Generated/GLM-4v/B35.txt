@@ -1,0 +1,14 @@
+The image is a bar chart titled "The online participatory class," illustrating the percentage of internet users who have posted political commentary in various online platforms. Here's the specific content step by step:
+1. **Title and Subtitle**: At the top, the title describes the focus of the chart, which is about the online population that engages in political discourse. Below it, there’s a subtitle stating "One in five internet users has posted political commentary online."
+2. **Chart Type**: It is a vertical bar chart showing percentages of different actions taken by internet users.
+3. **Y-Axis**: The left side of the chart represents the percentage of internet users, ranging from 0% to 30%, with each 10% marked on the axis.
+4. **X-Axis**: On the bottom, the horizontal axis lists the different types of online platforms where political commentary can be posted. Each platform is represented by a dark blue bar of varying heights indicating the percentage of users who have engaged in this activity on that particular site.
+- Social networking site: 10%
+- Website that allows comments and discussion: 9%
+- Blog (yours or someone else's): 8%
+- Online discussion, listserv or other forum: 8%
+- Any of these places online: 18%
+5. **Source and Survey Details**: At the bottom of the chart, there is a note crediting the data source as the Pew Internet & American Life Project Post-Election Survey conducted between November and December 2008. The margin of error is mentioned as +/-3% based on the sample size of 1,591 internet users.
+6. **Logo**: There is a logo for 'Pew Internet' at the bottom left corner, signifying the organization behind the survey.
+7. **Color Scheme**: The bars are uniformly colored in dark blue, making them easily distinguishable against the white background.
+This chart effectively communicates that 18% of internet users have engaged in posting political commentary across any of the surveyed platforms, highlighting the prevalence of political expression online.

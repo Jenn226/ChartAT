@@ -1,0 +1,7 @@
+The chart is a bar graph from the Pew Research Center that shows the percentage of immigrant eligible voters in five U.S. states who are Latino. Here's the specific content:
+- Florida has 54% of its immigrant eligible voters who are Latino.
+- Texas also has 52%.
+- California stands at 37%.
+- New Jersey is at 32%.
+- New York has the lowest percentage among the listed states, with 25%.
+The note below the chart explains that eligible voters are defined as U.S. citizens ages 18 and older, and Latinos are of any race. The source of this data is cited as the Pew Research Center analysis of the 2018 American Community Survey (IPUMS).

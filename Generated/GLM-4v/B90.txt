@@ -1,0 +1,9 @@
+The chart is a bar graph from the Pew Research Center, depicting the consensus on which countries play a more important role in the world today compared to ten years ago. The data is presented as percentages of people who hold this opinion.
+The countries listed are: China, Russia, Germany, U.S., India, France, and UK.
+- China leads with 70% of respondents believing it plays a more significant role now than ten years ago.
+- Russia follows closely at 42%.
+- Germany is next with 35%.
+- The U.S. has 31%, indicating that slightly over a third of those surveyed think its global role has grown.
+- India stands at 27%, suggesting roughly one-quarter believe its influence has increased.
+- France and the UK both have 22% and 21% respectively, showing a similar level of consensus that their roles have expanded.
+The note below the chart states that these percentages are medians based on a survey of 25 countries and references "Spring 2018 Global Attitudes Survey. Q31 & Q32a-f" as the source.

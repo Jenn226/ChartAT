@@ -1,0 +1,10 @@
+The chart is a bar graph that represents the percentage of different age groups who own a game console, such as an Xbox or PlayStation. The data source is from Pew Research Center's Internet & American Life Project survey conducted between August 9 and September 13, 2010. The surveyed group includes adults aged 18 and older, with 1,000 individuals reached via cell phone. Interviews were conducted in English (n=2,804) and Spanish (n=197).
+The bars are labeled for each generation category:
+- Millennials (ages 18-34): 63%
+- Gen X (ages 35-46): 63%
+- Younger Boomers (ages 47-56): 38%
+- Older Boomers (ages 57-65): 19%
+- Silent Generation (ages 66-74): 8%
+- G.I. Generation (ages 75+): 3%
+- All adults (ages 18+): 42%
+The tallest bars correspond to the Millennial and Gen X generations, indicating that these age groups have the highest ownership rates of game consoles among those surveyed. Conversely, the shortest bars represent the oldest generations, suggesting lower ownership rates within this demographic.

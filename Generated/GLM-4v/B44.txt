@@ -1,0 +1,12 @@
+The image is a bar chart titled "Figure 3: Spending for online content in a given month by percentage of internet users." It illustrates the percentage of internet users who spend various amounts of money on online content each month. Here's a step-by-step description of the chart:
+1. **Chart Title**: Figure 3: Spending for online content in a given month by percentage of internet users
+2. **Y-Axis (Vertical)**: Percentage of Internet Users, ranging from 0% to 50%, with each 5% marked as a line on the axis.
+3. **X-Axis (Horizontal)**: Amount of Money spent for online content in a given month, listed as categories from left to right: $1 - $10, $11 - $30, $31 - $50, $51 - $100, and $100+.
+4. **Bars Representing Data**: Each bar represents the percentage of internet users who fall into a particular spending category. The bars are colored in dark blue.
+- For the category "$1 - $10," 43% of internet users spend this amount.
+- In the range "$11 - $30," 25% of users spend this much.
+- 14% of users spend between "$31 - $50."
+- 11% spend within the "$51 - $100" bracket.
+- Only 7% of users spend more than $100.
+5. **Source Information**: At the bottom of the chart, it states that the source is the Pew Research Center’s Internet & American Life Project, based on data collected from October 28 to November 1, 2010 Tracking Survey. The sample size was 755 adults, and the margin of error is +/- 3.9 percentage points.
+The chart visually communicates that a significant portion of internet users spend less than $10 per month on online content, while a smaller but still substantial group spends between $11 to $30. As the amount spent increases, the percentage of users decreases, with only a small fraction spending over $100 per month.

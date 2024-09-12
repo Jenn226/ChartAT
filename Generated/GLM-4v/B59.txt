@@ -1,0 +1,8 @@
+The image is a bar chart depicting the approval and disapproval percentages of various policies implemented or considered by U.S. President Donald Trump as perceived globally. The policies listed are:
+1. U.S. increasing tariffs or fees on imported goods from other countries - 68% Disapprove, 18% Approve
+2. U.S. withdrawal from international climate change agreements - 66% Disapprove, 14% Approve
+3. Building a wall on the border between the U.S. and Mexico - 60% Disapprove, 24% Approve
+4. Allowing fewer immigrants into the U.S. - 55% Disapprove, 34% Approve
+5. U.S. withdrawal from the Iran nuclear weapons agreement - 52% Disapprove, 29% Approve
+6. U.S. negotiations with North Korean leader Kim Jong Un about the country's nuclear weapons program - 41% Disapprove, 36% Approve
+The source of the data is cited as the "Spring 2019 Global Attitudes Survey. Q40a-f." and it notes that the percentages are medians based on 33 countries. Additionally, there's a footnote stating that "Don't know" responses were not shown in the chart. The bottom of the image references an article titled "Trump Ratings Remain Low Around Globe, While Views of U.S. Stay Mostly Favorable" from the Pew Research Center.

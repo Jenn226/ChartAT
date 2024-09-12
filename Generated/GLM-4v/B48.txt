@@ -1,0 +1,6 @@
+The chart is a bar graph titled "How often users click on advertisements." It represents the percentage of respondents based on their behavior regarding clicking on ads, categorized into four groups: Never, Hardly Ever, Sometimes, and Often.
+- The 'Never' category has the highest bar, indicating that approximately 45% of respondents never click on advertisements.
+- The 'Hardly Ever' category follows with a slightly smaller bar, showing that about 35% of respondents click very rarely.
+- The 'Sometimes' category has a still smaller bar, representing roughly 17% of respondents who occasionally click on ads.
+- Finally, the 'Often' category has the smallest bar, signifying that only about 2% of respondents frequently click on advertisements.
+The source of this data is cited as Pew Internet, part of the Pew Research Center's American Life Project.

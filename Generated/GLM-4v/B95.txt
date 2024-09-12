@@ -1,0 +1,12 @@
+The image is a bar chart from the Pew Research Center, depicting public opinion on various democratic principles. It shows the percentage of people in different countries who believe it is very important to have each principle in their country. Here are the specific contents:
+
+Fair judiciary - 82%
+Gender equality - 74%
+Free religion - 68%
+Regular elections - 65%
+Free speech - 64%
+Press freedom - 64%
+Freedom on the internet - 59%
+Human rights groups can operate freely - 55%
+Opposition parties can operate freely - 54%
+The chart uses green bars of varying lengths to represent these percentages. Each bar is labeled with the corresponding principle and its respective percentage. At the bottom, there's a note stating that the percentages are medians based on 34 countries. Additionally, the source of the data is mentioned as the Spring 2019 Global Attitudes Survey, specifically questions Q55a-f, Q57a-c, and the title of this particular chart is "Democratic Rights Popular Globally but Commitment to Them Not Always Strong."

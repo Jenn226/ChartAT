@@ -1,0 +1,28 @@
+The image is a bar chart from the Pew Research Center, depicting the percentage of adults who are currently married from the year 1920 to 2012. Each bar represents a decade, with the height indicating the percentage of married adults for that period.
+Here's a step-by-step description:
+1. **Title**: "Adults Currently Married"
+2. **Y-Axis**: Percentages ranging from 0% at the bottom to 75% at the top, in increments of 5%.
+3. **X-Axis**: Years, starting from 1920 on the left and ending at 2012 on the right.
+4. **Data Points**:
+- 1920: 65.0%
+- 1930: 65.8%
+- 1940: 66.1%
+- 1950: 70.3%
+- 1960: 72.2%
+- 1970: 68.6%
+- 1980: 62.3%
+- 1990: 58.5%
+- 2000: 57.4%
+- 2006: 53.2%
+- 2007: 53.1%
+- 2008: 52.5%
+- 2009: 51.9%
+- 2010: 51.4%
+- 2011: 50.8%
+- 2012: 50.5%
+5. **Notes Section**:
+- The data is based on adults age 18 and older.
+- "Currently married" includes respondents reporting "married, spouse absent." Those reporting "separated" are not included in "currently married."
+6. **Source**: Data comes from Pew Research Center tabulations of the 1920-2000 Decennial Census data and 2006-12 American Community Survey (ACS) Integrated Public Use Micro Samples.
+7. **Presentation**: The bars are colored in shades of green, and the source and notes are provided in white text below the chart.
+Overall, the chart illustrates a declining trend in the percentage of adults who are currently married over the span of nearly nine decades.

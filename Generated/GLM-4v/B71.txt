@@ -1,0 +1,10 @@
+The chart depicts the average percentage point gap across 30 political values items by different demographic factors. It is sourced from a survey conducted by the Pew Research Center between September 3-15, 2019.
+The factors presented are:
+1. Party affiliation (difference between Republicans/Lean Rep and Democrats/Lean Dem).
+2. Race (difference between white non-Hispanic and black non-Hispanic).
+3. Religious attendance (those who attend religious services weekly or more vs. those who attend less often).
+4. Education level (college grad vs. non-college grad).
+5. Age group (18-49 years old vs. 50+ years old).
+6. Gender.
+The data indicates that partisan affiliations have the largest gap at 39 percentage points, followed by race at 17 points, religious attendance at 14 points, education at 10 points each for party and age groups, gender at 6 points, and there's no difference in age groups according to the chart.
+Notes below the chart provide further clarification on what each factor represents. For instance, 'Party' refers to the difference in opinions between Republicans/Lean Republican and Democrats/Lean Democrat, while 'Education' compares college graduates with those who did not graduate from college.

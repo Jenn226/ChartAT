@@ -1,0 +1,5 @@
+The chart is a bar graph that represents the number of online activities done on a typical day by different types of users in December 2005. There are three categories of users depicted: rural, urban, and suburban. Each category has a corresponding bar indicating the average number of online activities they engage in.
+- The rural users have an average of 1.9 online activities per day.
+- The urban users have an average of 2.2 online activities per day.
+- The suburban users also have an average of 2.2 online activities per day.
+The bars are set against a light yellow background with a grid for precise measurement. The y-axis measures the number of activities ranging from 1 to 3, while the x-axis labels the user types.

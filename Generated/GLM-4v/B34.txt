@@ -1,0 +1,6 @@
+The chart is a bar graph comparing the percentage of internet users who engage in various online activities. The activities listed are: "Watch video on sharing site," "Use social networking site," "Download a podcast," and "Use Twitter/share updates." Each activity has a corresponding percentage indicating how many users have ever done that particular activity.
+- "Watch video on sharing site" has the highest percentage at 62%.
+- "Use social networking site" follows with 46%.
+- "Download a podcast" is next with 19%.
+- "Use Twitter/share updates" has the lowest percentage at 11%.
+The source of this data is cited as the Pew Internet & American Life Project survey conducted from March 26 to April 29, 2009, for the first three activities, and from April 8 to May 11, 2008, for the last activity. The sample size for these surveys ranged from 1,687 to 1,153 adult internet users, with margins of error provided.

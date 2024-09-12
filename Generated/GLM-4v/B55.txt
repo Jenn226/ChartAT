@@ -1,0 +1,8 @@
+The chart is a bar graph titled "Technologies that would be very hard to give up." It represents the percentage of all adults who believe it would be very hard or impossible to give up each technology. The technologies listed, from left to right, are: Internet, Cell phone, Television, Email, Landline telephone, and Social media. The percentages for each technology are as follows:
+- Internet: 46%
+- Cell phone: 44%
+- Television: 35%
+- Email: 34%
+- Landline telephone: 17%
+- Social media: 10%
+The source of this data is cited as the Pew Research Center Internet Project Survey conducted from January 9-12, 2014, with a sample size of 1,006 adults.

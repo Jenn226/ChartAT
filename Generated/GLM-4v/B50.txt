@@ -1,0 +1,9 @@
+The image is a bar chart titled "Gadget Ownership, 2010." It represents the percentage of American adults who owned various electronic devices at that time. The devices listed, along with their respective ownership percentages, are as follows:
+1. Cell phone - 85%
+2. Desktop computer - 59%
+3. Laptop computer - 52%
+4. mp3 player - 47%
+5. Game console - 42%
+6. e-Book reader - 5%
+7. Tablet computer - 4%
+The source of the data is cited as the Pew Research Center's Internet & American Life Project from August 9 to September 13, 2010 Tracking Survey. This survey included 3,001 adults aged 18 and older, with 1,000 reached via cell phone. Interviews were conducted in English (n=2,804) and Spanish (n=197).

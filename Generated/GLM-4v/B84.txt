@@ -1,0 +1,8 @@
+The chart is a bar graph from the Pew Research Center that represents the percentage of parents aged 18 to 49 who cite various reasons as to why they are unlikely to have more children in the future, among those who say there's a reason other than just not wanting more kids. Here's the breakdown:
+- Medical reasons: 41%
+- Age: 25%
+- Already have kids: 9%
+- Financial reasons: 6%
+- No willing partner: 3%
+- Some other reason: 6%
+The chart does not display the percentage of respondents who did not offer an answer and notes that respondents were allowed to mention up to three reasons. The survey was conducted among U.S. adults from July 30 to August 12, 2018.

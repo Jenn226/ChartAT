@@ -1,0 +1,4 @@
+The chart depicts the percentage of digital-native news outlets in the U.S. that experienced layoffs in two consecutive years:
+1. In 2017, 20% of digital-native news outlets reported layoffs. This is represented by a bar colored in dark red or maroon.
+2. In 2018, the percentage decreased to 14%. This is shown through a bar colored in yellow.
+The source of the data is cited as the Pew Research Center's analysis of digital news stories about layoffs at digital-native news outlets with a monthly average of at least 10 million unique visitors from January 1, 2017, to December 31, 2018. There is also a note directing readers to see the methodology for more information.

@@ -1,0 +1,9 @@
+The chart is a bar graph from the Pew Research Center, titled "Cost and loss of device are most-cited reasons why people share phones." It represents the percentage of mobile phone users who share their phones rather than own them primarily because of various reasons. The reasons listed along with their respective percentages are:
+1. They cannot afford a mobile phone - 34%
+2. Their mobile phone was lost, broken or stolen - 31%
+3. They don't need to use a mobile phone regularly - 15%
+4. They think mobile phones are too complicated to use - 6%
+5. They do not like using mobile phones - 5%
+6. They are afraid that their mobile phone will be stolen - 2%
+7. They are not allowed to own a mobile phone - 1%
+The notes at the bottom indicate that the percentages are eight-country medians and Jordan, Lebanon, and Vietnam are excluded due to low sample size. The source of the data is cited as the Mobile Technology and Its Social Impact Survey 2018, Q6. "Mobile Connectivity in Emerging Economies."

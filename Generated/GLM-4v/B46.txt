@@ -1,0 +1,11 @@
+The chart depicts the percentage of tweets from members of the U.S. Congress that mention the COVID-19 outbreak or associated issues, over a period from January 22 to March 21, 2020.
+The data is presented in a bar graph with each bar representing a weekly timeframe. Here's the breakdown:
+- From January 22-28, there was 1% of tweets mentioning COVID-19.
+- In the week of January 29-February 4, this number increased to 2%.
+- The following week, February 5-11, it rose slightly to 1%.
+- Then, from February 12-18, the percentage jumped to 2%.
+- It remained steady at 3% for the weeks of February 19-25 and February 26-March 3.
+- Significant growth is seen in the week of March 4-10, where the percentage climbed to 15%.
+- A substantial increase occurs between March 11-17, where 26% of tweets mention COVID-19.
+- Finally, by March 18-21, an overwhelming 53% of tweets from members of Congress were about COVID-19 or related topics.
+The source of the data is cited as an analysis of 148,130 tweets from members of U.S. Congress posted during that time, obtained through Twitter's API. The chart is credited to the Pew Research Center.

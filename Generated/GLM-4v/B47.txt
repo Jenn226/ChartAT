@@ -1,0 +1,8 @@
+The chart depicts the number of millions of Americans who have made a donation online over three different time periods: Oct 01, Jan 05, and Sept 05.
+- On the horizontal axis (X-axis), we have three points representing the mentioned time periods.
+- The vertical axis (Y-axis) shows the number of Americans in millions, with values ranging from 0 to 30 million.
+The data represented by each bar is as follows:
+- For Oct 01, the number is 11 million Americans.
+- For Jan 05, it increases to 17 million Americans.
+- By Sept 05, the number further rises to 26 million Americans.
+The bars are colored in shades of purple, and there is a light yellow background behind them. The title of the chart reads "Millions of Americans who have made a donation online."

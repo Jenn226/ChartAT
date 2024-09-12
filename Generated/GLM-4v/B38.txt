@@ -1,0 +1,7 @@
+The chart is a bar graph titled "Figure 1. Number of online content types purchased by internet users." It represents the percentage of internet users who have purchased different numbers of online content types.
+The x-axis shows the number of online content types, ranging from 1 to 14. Each bar on the y-axis indicates the corresponding percentage of internet users who have purchased that number of content types. For instance:
+- 25% of internet users have purchased 1 type of online content.
+- 21% have purchased 2 types.
+- 15% have purchased 3 types.
+- And so on down to 0.4% for those who have purchased 14 types.
+The source of this data is cited as the Pew Research Center's Internet & American Life Project, based on a survey conducted from October 28 to November 1, 2010. The sample size was 755 adults, and the margin of error is given as +/- 3.9 percentage points.

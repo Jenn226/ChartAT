@@ -1,0 +1,27 @@
+The chart depicts the percentage of summer 2015 job income as a part of the total earned income for U.S. public school teachers, categorized by their years of experience. Here's a step-by-step explanation:
+1. **Title**: "Summer earnings are larger share of less experienced teachers’ income"
+2. **Subtitle**: "Summer 2015 job income as % of total 2015-16 earned income for U.S. public school teachers, by years of experience"
+3. **Source**: Pew Research Center analysis of National Center for Education Statistics data.
+4. **Chart Type**: Horizontal bar chart
+5. **Categories Represented**:
+- All teachers
+- 1 year or less
+- 2 to 4 years
+- 5 to 9 years
+- 10 to 14 years
+- 15 to 19 years
+- 20 to 24 years
+- 25 to 29 years
+- 30+ years
+6. **Data Representation**: Each category has a horizontal yellow bar that indicates the percentage of summer job income as a proportion of total earned income for that group of teachers.
+7. **Percentages of Summer Income**:
+- All teachers: 7%
+- 1 year or less: 12%
+- 2 to 4 years: 8%
+- 5 to 9 years: 7%
+- 10 to 14 years: 6%
+- 15 to 19 years: 7%
+- 20 to 24 years: 6%
+- 25 to 29 years: 6%
+- 30+ years: 7%
+The bars are arranged from left to right in ascending order based on years of experience, with the longest bar representing teachers with 1 year or less of experience, indicating that summer earnings make up a larger portion of their annual income compared to more experienced teachers.

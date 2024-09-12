@@ -1,0 +1,6 @@
+The chart depicts a survey result from the Pew Research Center that was conducted among U.S. adults between April 29 and May 13, 2019. It shows the percentage of respondents who believe that rhetoric used by politicians, characterized as "heated" or "aggressive," increases the likelihood of violence against certain groups.
+The data is broken down into three political affiliations:
+- **Total**: 78% of all respondents believe such rhetoric increases the risk of violence.
+- **Dem/Lean Dem**: 91% of Democrats and those leaning towards them agree that this type of rhetoric makes violence more likely.
+- **Rep/Lean Rep**: 61% of Republicans and those leaning towards them share this view.
+The chart uses horizontal bars to represent these percentages visually. The length of each bar corresponds to the percentage value, with the color distinguishing different political groups.

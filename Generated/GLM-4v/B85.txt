@@ -1,0 +1,6 @@
+The chart is a bar graph from the Pew Research Center that shows the percentage of voters in different political groups in Germany who believe that Germany should increase its defense spending. The data is based on a survey conducted by Körber-Stiftung between September 9 and 28, 2019.
+The bars represent three different political groups:
+1. CDU/CSU: 51% of their supporters favor increased defense spending.
+2. SPD: 41% of their supporters support this view.
+3. Greens: 28% of their supporters are in favor of increasing defense spending.
+The title of the chart indicates that supporters of the CDU/CSU are more likely to favor increased defense spending compared to supporters of the other parties listed.

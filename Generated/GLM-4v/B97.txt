@@ -1,0 +1,7 @@
+The image is a bar chart from the Pew Research Center depicting the concerns of Indian adults regarding Pakistan, Kashmir, and terrorism before recent tensions. The chart shows the percentage of Indians who hold each concern:
+1. **76%** believe that Pakistan is a very serious threat to their country.
+2. **65%** consider terrorism a very big problem.
+3. **58%** think the Indian government should use more military force in Kashmir.
+4. **55%** perceive the situation in Kashmir as a significant issue.
+5. **53%** believe the situation in Kashmir has worsened over the past five years.
+The data source is cited as the Spring 2018 Global Attitudes Survey conducted among Indian adults from May 23-July 23, 2018. Specific survey question identifiers are also provided at the bottom of the chart.

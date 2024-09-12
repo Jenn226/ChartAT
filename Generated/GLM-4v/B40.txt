@@ -1,0 +1,6 @@
+The chart is a bar graph titled "More devices, more likely to tweet." It represents the percentage of internet users who use Twitter based on the number of internet-connected devices they own. There are four categories shown in the graph: 'One', 'Two', 'Three', and 'Four or more'. The percentages for each category are as follows:
+1. For those with one device, 10% use Twitter.
+2. With two devices, 19% use Twitter.
+3. With three devices, 28% use Twitter.
+4. And for those with four or more devices, 39% use Twitter.
+The source of the data is mentioned as the Pew Internet & American Life Project survey conducted from August 18-September 14, 2009. The sample size for this survey was N=1,698 internet users, and the margin of error is given as +/-5%, based on subgroup (see methodology).

@@ -1,0 +1,10 @@
+The image is a bar chart titled "The online social climate: Mostly kind." It represents the percentage of internet users who answered a question about their experiences on the internet. Specifically, it asks, "Based on all of your experiences, would you say that people you have witnessed or encountered on the internet are mostly kind, or mostly unkind to each other?"
+The bars in the chart are color-coded and labeled as follows:
+- "Mostly kind" is represented by a dark blue bar.
+- "Mostly unkind" is shown with a light blue bar.
+- "Both equally" is depicted using a gray bar.
+The percentages for each category based on the participants' responses are as follows:
+- 76% of internet users believe that people they have encountered on the internet are mostly kind to each other.
+- 13% think that people are mostly unkind.
+- 6% believe that both kindness and unkindness are equally prevalent.
+The source of this data is cited as the Pew Research Center Internet Project Survey conducted from January 9-12, 2014, with a sample size of N=857 internet users.

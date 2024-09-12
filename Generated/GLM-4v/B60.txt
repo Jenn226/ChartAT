@@ -1,0 +1,10 @@
+The chart is a bar graph from Pew Research Center that illustrates the change in the age distribution of newsroom employees in the United States between the years 2008 and 2018. It specifically looks at full-time newsroom employees ages 18 and older who are employed in the civilian labor force and work 35 or more hours per week. The data excludes self-employed individuals and those working without pay.
+The bars represent the percentage of newsroom employees within different age groups:
+- In 2008, for the age group 18-34, the percentage was 37%.
+- For the age group 35-54, it was 48% in 2008.
+- And for the age group 55+, it was 15% in 2008.
+By 2018, the percentages had changed to:
+- The 18-34 age group now constituted 39% of newsroom employees.
+- The 35-54 age group decreased slightly to 36%.
+- And the 55+ age group increased to 25%.
+The chart indicates a decline in the proportion of newsroom employees aged 35 to 54 from about half in 2008 to about a third in 2018.

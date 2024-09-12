@@ -1,0 +1,8 @@
+The image is a bar chart from Pew Research Center, depicting the approval and disapproval percentages for various foreign policies of U.S. President Donald Trump among global populations. It lists seven different policies:
+1. U.S. increasing tariffs or fees on imported goods from other countries - 68% Disapprove, 18% Approve
+2. U.S. withdrawal from international climate change agreements - 66% Disapprove, 14% Approve
+3. Building a wall on the border between the U.S. and Mexico - 60% Disapprove, 24% Approve
+4. Allowing fewer immigrants into the U.S. - 55% Disapprove, 34% Approve
+5. U.S. withdrawal from the Iran nuclear weapons agreement - 52% Disapprove, 29% Approve
+6. U.S. negotiations with North Korean leader Kim Jong Un about the country's nuclear weapons program - 41% Disapprove, 36% Approve
+The chart uses green bars to represent the percentage that approve and blue bars to represent the percentage that disapprove. The data source is cited as the Spring 2019 Global Attitudes Survey, and there's a note stating that the percentages are medians based on 33 countries, with "Don't know" responses not shown.

@@ -1,0 +1,19 @@
+The chart depicts the percentage of women in the U.S. military, specifically focusing on enlisted personnel and commissioned officers from the year 1975 to 2017.
+Here's a step-by-step explanation:
+1. **Colors Represent Different Categories:**
+- The gold bars represent the percentage of enlisted women in the military.
+- The green bars represent the percentage of commissioned officer women in the military.
+2. **Percentages for Each Category Over Time:**
+- In 1975, 5% of enlisted women and 5% of commissioned officer women were in the military.
+- By 1985, these percentages had risen to 10% for both categories.
+- In 1995, the numbers slightly increased to 13% for enlisted women and 14% for commissioned officers.
+- By 2005, there was another increment, with 14% enlisted women and 16% commissioned officers.
+- Finally, by 2017, the percentage of enlisted women reached 16%, while commissioned officers remained at 16%.
+3. **Note at the Bottom of the Chart:**
+- It clarifies that the data includes only the four military branches of the Department of Defense.
+- It also specifies that "Officers" refers to commissioned officers only.
+4. **Source of Data:**
+- The source mentioned is the 'U.S. Department of Defense 2017 Population Representation in the Military Services published data.'
+5. **Publisher/Creator:**
+- The chart is credited to the 'PEW RESEARCH CENTER'.
+This chart effectively illustrates the increasing representation of women in both enlisted and commissioned roles within the U.S. military over a span of nearly four decades.

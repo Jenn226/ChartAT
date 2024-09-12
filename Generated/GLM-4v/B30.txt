@@ -1,0 +1,5 @@
+The chart depicts the number of PCs with one or more P2P applications installed from June 2006 to June 2008 on a global scale. It is represented by a bar graph with three bars, each corresponding to a different year.
+- The first bar (June 2006) shows that approximately 175 million PCs had at least one P2P application installed.
+- The second bar (June 2007) indicates an increase to about 190 million PCs with P2P applications.
+- The third bar (June 2008) displays a further rise to nearly 205 million PCs with such applications.
+The source of this data is cited as PC Pitstop and BigChampagne Media Measurement, and there's a logo for "Pew Internet" at the bottom left corner, suggesting that the chart may be associated with Pew Research Center's internet studies.

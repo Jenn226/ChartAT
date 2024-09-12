@@ -1,0 +1,6 @@
+The chart is a bar graph from the Pew Research Center that represents reasons people consider solar energy at home, with a focus on cost savings and environmental impact. It shows the percentage of homeowners who cite each reason as a factor in their decision to have installed or would install solar panels at their residence. The reasons listed are:
+1. To save money on utility bills - 96%
+2. To help the environment - 87%
+3. To get a solar investment tax credit - 67%
+4. It would be better for my own/my family's health - 60%
+The data is based on homeowners who have already installed or given serious thought to installing solar panels at home. Reasons not mentioned by respondents or those who did not answer are not shown in the chart. The survey was conducted from October 1-13, 2019.

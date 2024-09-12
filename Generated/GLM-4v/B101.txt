@@ -1,0 +1,8 @@
+The chart is a bar graph from the Pew Research Center, based on their analysis of the Federal Reserve Board’s 2018 Survey of Household Economics and Decisionmaking. It shows the percentage of adults who say they currently have outstanding student loan debt for their own education, broken down by different age groups.
+Here are the specifics:
+- **All adults**: 15%
+- **Ages 18-29**: 34%
+- **Ages 30-44**: 22%
+- **Ages 45-59**: 7%
+- **60+**: 1%
+The source of the data is cited as the Pew Research Center, and the chart visually represents the findings with green bars of varying lengths, each corresponding to a different age group. The length of the bar indicates the percentage of adults in that age range who have student loan debt.

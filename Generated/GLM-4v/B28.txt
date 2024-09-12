@@ -1,0 +1,9 @@
+The image is a bar chart from the Pew Research Center depicting the average annual growth rate in the U.S. Hispanic population from various time periods:
+1. **1990-1995**: The growth rate was 4.5%.
+2. **1995-2000**: It increased to 4.8%.
+3. **2000-2005**: There was a slight decrease to 3.8%.
+4. **2005-2010**: Further decline to 3.4%.
+5. **2010-2015**: A more significant drop to 2.1%.
+6. **2015-2019**: The lowest growth rate on the chart at 1.9%.
+The chart uses varying shades of yellow and brown for each time period, with darker colors indicating lower growth rates. Notably, there's a clear trend of slowing growth over these years.
+Additionally, the chart includes a note stating that the data is based on annual population estimates as of July 1 for each year and clarifies that Hispanics are of any race. The source of the data is cited as Pew Research Center analysis of U.S. intercensal population estimates for 1990-1999 and 2000-2009, and U.S. Census Bureau Vintage 2019 estimates for 2010-2019.

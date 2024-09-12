@@ -1,0 +1,5 @@
+The chart depicts a change in public opinion regarding the perceived threat of infectious diseases to the United States over a two-week period during the COVID-19 pandemic.
+The data is presented in the form of two vertical bar graphs with percentages:
+- The first bar graph shows that 73% of respondents considered the spread of infectious diseases as a major threat to the United States on March 3-12, 2020.
+- The second bar graph indicates an increase to 84% by March 13-29, 2020.
+Below the bars, there's additional information indicating that the source of this data is from a survey conducted by the Pew Research Center among U.S. adults between March 3-29, 2020, under the title "Americans See Spread of Disease as Top International Threat, Along With Terrorism, Nuclear Weapons, Cyberattacks".

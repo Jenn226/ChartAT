@@ -1,0 +1,5 @@
+The chart is a bar graph titled "Figure 2. Number of types of payment methods." It represents the percentage of internet users who use different numbers of payment methods. There are three bars, each corresponding to the number of payment methods used:
+1. For those who use only one type of payment method, the bar is at 66%, indicating that 66% of internet users have a single payment preference.
+2. For those who use two types, the bar is at 24%, showing that 24% of internet users employ two different payment methods.
+3. For those using three or more types, the bar is at 11%, signifying that 11% of internet users utilize three or more payment methods.
+The source of this data is cited as the Pew Research Center's Internet & American Life Project from a survey conducted between October 28 and November 1, 2010. The sample size was 755 adults, and the margin of error is given as ±3.9 percentage points.

@@ -1,0 +1,10 @@
+The chart is a bar graph that represents the percentage of different generations who own an electronic book device or e-Book reader, such as a Kindle or Sony Digital Book. The data is broken down into seven categories: Millennials (18-34), Gen X (35-46), Younger Boomers (47-56), Older Boomers (57-65), Silent Gen. (66-74), G.I. Gen. (75+), and All adults (18+). Each category has a corresponding blue bar that indicates the percentage of ownership for that group.
+Here are the specific percentages for each group:
+- Millennials: 5%
+- Gen X: 5%
+- Younger Boomers: 7%
+- Older Boomers: 3%
+- Silent Gen.: 6%
+- G.I. Gen.: 2%
+- All adults (combined): 5%
+The source of this data is cited as the Pew Research Center's Internet & American Life Project from August 9 to September 13, 2010 Tracking Survey. The survey included 3,001 adults 18 and older, with 1,000 reached via cell phone. Interviews were conducted in English (n=2,804) and Spanish (n=197).

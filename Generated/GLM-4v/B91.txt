@@ -1,0 +1,7 @@
+The chart is a bar graph from the Pew Research Center that represents the percentage of U.S. adults who believe the federal government is not doing enough to protect various aspects of the environment and climate. The categories listed, along with their respective percentages, are as follows:
+1. Protect water quality of lakes, rivers, streams - 68%
+2. Protect air quality - 67%
+3. Reduce effects of global climate change - 67%
+4. Protect animals and their habitats - 62%
+5. Protect open lands in national parks and nature preserves - 55%
+The note at the bottom indicates that respondents who felt the federal government was doing about the right amount or doing too much, and those who did not give an answer, were not shown in this chart. The source of the data is cited as a survey conducted between October 1-13, 2019, titled "U.S. Public Views on Climate and Energy."
