@@ -1,0 +1,12 @@
+This chart is a pie graph showing the percentage of immigrants ages 5 and older who speak different languages at home. The data is broken down as follows:
+1. Spanish: 42%
+2. English only: 17%
+3. All other: 17%
+4. Chinese: 6%
+5. Hindi: 5%
+6. Filipino/Tagalog: 4%
+7. French: 3%
+8. Vietnamese: 3%
+9. Dravidian: 2%
+10. Arabic: 2%
+The chart uses different colors for each language category, with Spanish taking up the largest portion of the pie. English only and "All other" languages are tied for the second largest portion. The remaining languages are represented by smaller slices of the pie in descending order of percentage.

@@ -1,0 +1,12 @@
+The chart shows the increasing support among U.S. adults for prioritizing environmental and climate change policies from 2008 to 2020. It displays two trend lines:
+1. "Protecting the environment" (green line):
+   - Starts at 41% in 2008
+   - Fluctuates over the years
+   - Reaches a peak of 64% in 2020
+2. "Dealing with global climate change" (blue line):
+   - Begins at 30% in 2008
+   - Generally shows an upward trend
+   - Reaches 52% by 2020
+The chart indicates that support for both issues as top priorities for the president and Congress has grown over time, with protecting the environment consistently receiving higher support than dealing with global climate change.
+There's a note explaining that before 2015, the question about climate change used the term "global warming" instead. In 2015, the terminology was split between "global warming" and "global climate change," with slightly different results for each term.
+The data source is cited as a Survey of U.S. adults conducted in January 2020 by Pew Research Center.

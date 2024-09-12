@@ -1,0 +1,12 @@
+This chart shows the trend of U.S. public opinion towards China from 2005 to 2020. It displays two lines: one for "Unfavorable" opinions (in blue) and another for "Favorable" opinions (in green).
+Key points from the chart:
+1. The title states "Negative views of China continue to grow in U.S."
+2. The y-axis represents the percentage of people who have a certain opinion of China, ranging from 0% to 100%.
+3. The x-axis shows the years from 2005 to 2020 at 3-year intervals.
+4. The unfavorable opinion line shows an overall increasing trend, starting at 35% in 2005 and reaching 66% in 2020.
+5. The favorable opinion line shows an overall decreasing trend, starting at 43% in 2005 and dropping to 26% in 2020.
+6. There are fluctuations in both lines over the years, but the divergence between favorable and unfavorable opinions becomes more pronounced in later years.
+7. The most recent data point (2020) shows the widest gap between unfavorable (66%) and favorable (26%) opinions.
+8. The chart notes that "Don't know" responses are not shown.
+9. The source is cited as a survey of U.S. adults conducted in March 2020 by Pew Research Center.
+This chart effectively illustrates the growing negative sentiment towards China among U.S. adults over the 15-year period.

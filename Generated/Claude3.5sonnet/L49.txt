@@ -1,0 +1,17 @@
+This chart displays the results of a survey conducted by Pew Research Center about Americans' views on the coronavirus outbreak. The key findings are:
+1. The title states that 71% of Americans say the worst of the coronavirus outbreak is 'still to come'.
+2. The chart shows two trend lines from April to November 2020:
+   - "The worst is still to come" (green line)
+   - "The worst is behind us" (blue line)
+3. For "The worst is still to come":
+   - April: 73%
+   - June: 59%
+   - November: 71%
+4. For "The worst is behind us":
+   - April: 26%
+   - June: 40%
+   - November: 28%
+5. The survey was conducted from November 18-29, 2020.
+6. The source note mentions that this data is related to a study about intent to get a COVID-19 vaccine, which rose to 60% as confidence in the research and development process increased.
+7. Respondents who did not provide an answer are not included in the results shown.
+The chart illustrates how public opinion fluctuated over the course of 2020, with a majority consistently believing the worst of the outbreak was yet to come, despite a dip in June.

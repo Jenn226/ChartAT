@@ -1,0 +1,9 @@
+This chart shows the results of a survey conducted among Nigerian adults regarding their satisfaction with how democracy is working in their country. The data is presented in a pie chart format.
+The chart breaks down the responses into three categories:
+1. "Not satisfied" - 60% of respondents
+2. "Satisfied" - 39% of respondents
+3. "Don't know" - 1% of respondents
+The title of the chart states "Nigerians unsatisfied with how their democracy works", which is supported by the majority (60%) expressing dissatisfaction.
+The survey question asked was "How satisfied are you with the way democracy is working in our country?"
+The source of this data is cited as a "Survey of Nigerian adults conducted June 25-July 30, 2018. Q4." by the PEW RESEARCH CENTER.
+The chart effectively visualizes the significant gap between those who are not satisfied and those who are satisfied with the state of democracy in Nigeria, with a very small portion undecided.

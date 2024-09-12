@@ -1,0 +1,13 @@
+This chart is a pie graph showing Americans' opinions on spending for policing in their area. The data comes from a survey conducted by Pew Research Center from June 16-22, 2020.
+The chart breaks down responses into five categories:
+1. "Stay about the same" - 42%
+2. "Increased a lot" - 11%
+3. "Increased a little" - 20%
+4. "Decreased a little" - 14%
+5. "Decreased a lot" - 12%
+The chart also groups these responses into broader categories:
+- "Increased" (combining "a lot" and "a little") - 31%
+- "Decreased" (combining "a lot" and "a little") - 25%
+The title of the chart emphasizes that more Americans favor keeping spending the same or increasing it, compared to those who favor cutting spending.
+The chart notes that "No answer" responses are not shown in the data presented.
+This visualization effectively shows the distribution of opinions on police spending, with the largest segment supporting maintaining current spending levels.

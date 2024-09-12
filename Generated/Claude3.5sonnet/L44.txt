@@ -1,0 +1,5 @@
+This chart compares the perception of the U.S. and China as the world's leading economic power from 2008 to 2012. The y-axis shows percentages, while the x-axis represents years.
+The U.S. line (orange) starts at 45% in 2008, rises slightly to 46% in 2009, then drops to 40% in 2010. It recovers slightly to 41% in 2011 before falling to 36% in 2012.
+China's line (blue) begins at 22% in 2008, rising steadily to 27% in 2009, then to 36% in 2010. It dips slightly to 35% in 2011 before climbing sharply to 42% in 2012, surpassing the U.S.
+The chart's title asks "Who is World's Leading Economic Power?", and a note at the bottom indicates that these figures represent median percentages naming China and the U.S. as the world's leading economic power across 14 nations surveyed each year from 2008 to 2012. The source is cited as PEW RESEARCH CENTER Q29.
+This chart illustrates a shift in global economic perceptions, with China overtaking the U.S. as the perceived leading economic power by 2012.

@@ -1,0 +1,8 @@
+The image shows a pie chart presenting survey results about Americans' awareness of ongoing Democratic primaries for the presidential nomination. The chart breaks down responses into four categories:
+1. "Yes, states are still holding primaries" - 43%
+2. "Not sure" - 41%
+3. "No" - 14%
+4. "No answer" - 1%
+The title of the chart states "Many Americans unsure if states are still holding Democratic primaries". The survey question asked is "As far as you know, are states still holding primaries for the Democratic presidential nomination?"
+The source of this data is cited as a "Survey of U.S. adults conducted April 20-26, 2020" by the Pew Research Center.
+The chart illustrates that there is significant uncertainty among Americans about the status of Democratic primaries, with almost as many people unsure (41%) as those who correctly believe primaries are still being held (43%). A smaller portion (14%) believes primaries are no longer being held.

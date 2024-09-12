@@ -1,0 +1,8 @@
+This chart shows the growth in tablet ownership among American adults aged 18 and over from 2010 to 2013. The y-axis represents the percentage of adults who own a tablet computer, while the x-axis shows different time points from May 2010 to May 2013.
+Key points from the chart:
+1. In May 2010, only 3% of American adults owned a tablet.
+2. There was a steady increase in ownership over time, with some periods showing more rapid growth than others.
+3. By August 2012, 25% of adults owned a tablet.
+4. The final data point in May 2013 shows that tablet ownership had reached 34%.
+The chart demonstrates a clear upward trend in tablet adoption over the three-year period, with the rate of increase becoming steeper in the latter half of the timeframe shown.
+The source of this data is cited as the Pew Research Center's Internet & American Life Project tracking surveys, conducted from May 2010 to May 2013. The most recent data point is based on a survey of 2,252 adults aged 18 and older, conducted in both English and Spanish via landline and cell phones.

@@ -1,0 +1,17 @@
+This chart shows the trend of unauthorized immigrant population in the United States from 1990 to 2017, measured in millions. Here are the specific details:
+1. The title of the chart is "U.S. unauthorized immigrant total rises, then falls".
+2. The y-axis represents the number of unauthorized immigrants in millions.
+3. The x-axis shows the years, starting from 1990 and ending at 2017, with intervals marked at 1995, 2000, 2005, 2010, and 2015.
+4. The data points are:
+   - 1990: 3.5 million
+   - 1995: 5.7 million
+   - 2000: 8.6 million
+   - 2005: 11.1 million
+   - 2007: 12.2 million (peak)
+   - 2010: 11.4 million
+   - 2015: 10.7 million
+   - 2017: 10.5 million
+5. The chart shows a steady increase from 1990 to 2007, reaching a peak of 12.2 million in 2007, followed by a gradual decline to 10.5 million in 2017.
+6. There's a shaded area around the line graph, which represents the "range of estimated 90% confidence interval" according to the note.
+7. The source of the data is cited as "Pew Research Center estimates based on augmented U.S. Census Bureau data."
+8. The chart is created by the Pew Research Center.

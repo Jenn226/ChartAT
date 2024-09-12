@@ -1,0 +1,9 @@
+This image shows a pie chart depicting the percentage breakdown of U.S. gun deaths by type in 2017. The chart is titled "Suicides accounted for six-in-ten U.S. gun deaths in 2017."
+The pie chart is divided into three sections:
+1. Suicide: 60% (colored in teal)
+2. Murder: 37% (colored in yellow)
+3. Other: 3% (colored in gray)
+Below the chart, there's a note explaining that "Other" includes gun deaths that were unintentional, involved law enforcement, or had undetermined circumstances.
+The source of this data is cited as the Centers for Disease Control and Prevention.
+The chart was created by the Pew Research Center, as indicated at the bottom of the image.
+This visualization effectively illustrates that suicide was the leading cause of gun deaths in the U.S. in 2017, accounting for 60% of all gun-related fatalities, while homicides made up just over one-third of the total.

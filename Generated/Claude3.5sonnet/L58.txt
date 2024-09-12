@@ -1,0 +1,11 @@
+This chart shows the percentage of Republicans/Lean Republicans and Democrats/Lean Democrats who have an unfavorable view of Iran over time, from 2009 to 2020.
+The data is presented as two line graphs:
+1. The red line represents Republicans/Lean Republicans
+2. The blue line represents Democrats/Lean Democrats
+Key points from the chart:
+- Both lines show relatively high percentages, indicating consistent criticism of Iran from both parties.
+- The Republican line stays mostly above 80% throughout the period.
+- The Democratic line fluctuates more, ranging from a low of 62% in 2009-2011 to a high of 73% in 2015.
+- In 2020, the Republican unfavorable view was at 82%, while the Democratic unfavorable view was at 70%.
+- The gap between the two parties' views narrows towards the end of the timeline.
+The chart title emphasizes that both parties have been consistent in their criticism of Iran over this period, despite some variations in the exact percentages.

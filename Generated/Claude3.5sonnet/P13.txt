@@ -1,0 +1,8 @@
+This chart is a pie graph titled "Most Latino adults have not heard of the term Latinx; few use it." It presents data on the awareness and usage of the term "Latinx" among Latino adults.
+The chart breaks down the responses into three categories:
+1. "Have not heard of Latinx": 76% of respondents
+2. "Do not use Latinx": 20% of respondents
+3. "Use Latinx": 3% of respondents
+The largest segment of the pie chart, colored in dark brown, represents the 76% who have not heard of the term. The second largest segment, in light brown, represents the 20% who have heard of it but do not use it. The smallest slice, in white, represents the 3% who use the term.
+The chart also notes that "No answer responses not shown," suggesting there might be a small percentage not accounted for in these three categories.
+At the bottom, the source is cited as a "Survey of U.S. Latino adults conducted Dec. 3-23, 2019" by the Pew Research Center, with the specific report title mentioned as well.

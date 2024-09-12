@@ -1,0 +1,10 @@
+This chart displays results from a survey about public perceptions of the accuracy of the 2020 U.S. census in counting the population. The data is presented in a pie chart format.
+Here's a breakdown of the responses:
+1. "Somewhat successful" - 60% (the largest segment)
+2. "Not too successful" - 26%
+3. "Very successful" - 8%
+4. "Not at all successful" - 5%
+5. "No answer" - 1% (the smallest segment)
+The title of the chart states "About seven-in-ten say the census will produce an accurate population count," which aligns with the combined 68% who said the census would be either "Somewhat successful" or "Very successful."
+The survey was conducted by the Pew Research Center from June 16-22, 2020, among U.S. adults.
+The chart effectively visualizes the distribution of opinions regarding the expected accuracy of the 2020 census in counting the number of people living in the U.S.

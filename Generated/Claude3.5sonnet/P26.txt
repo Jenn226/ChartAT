@@ -1,0 +1,7 @@
+This image shows a pie chart presenting data on how users would respond if their favorite website implemented a pay wall. The chart breaks down responses into three categories:
+1. "Would find somewhere else" - 82% of respondents
+2. "Would continue to use it" - 15% of respondents
+3. "Do not know" - 3% of respondents
+The chart uses different shades of blue and gray to represent each category. The largest slice by far is the light gray section representing those who would find an alternative site.
+At the bottom right of the image is a logo for "Pew Internet", indicating this data likely comes from a Pew Research Center study on internet usage and attitudes.
+The title of the chart reads "Would you continue to use your favorite site if there was a pay wall?"

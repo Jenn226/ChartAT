@@ -1,0 +1,7 @@
+This chart is a pie graph showing the results of a survey about how Americans perceive news organizations' understanding of them. The title states "Majority of Americans say news organizations don't understand them."
+The chart breaks down the responses into three categories:
+1. "Don't understand people like them" - 59% (represented by a large yellow slice)
+2. "Understand people like them" - 37% (represented by a smaller maroon slice)
+3. "No answer" - 4% (represented by a small gray slice)
+The data is based on a survey of U.S. adults conducted from February 18 to March 2, 2020, as indicated in the source information at the bottom of the image. The survey was conducted by the Pew Research Center.
+The chart clearly illustrates that a significant majority (59%) of respondents feel that news organizations don't understand people like them, while a smaller portion (37%) believe that news organizations do understand them.

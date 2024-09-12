@@ -1,0 +1,9 @@
+This chart shows the percentage of eligible voters who say they voted in U.S. midterm elections from 1998 to 2018, broken down by gender. The data is presented as two lines on a graph, one for men (in light gold) and one for women (in brown).
+Key points from the chart:
+1. The title indicates that women consistently turned out at slightly higher rates than men in past midterms.
+2. The y-axis shows percentages, while the x-axis shows election years in 4-year intervals from '98 to '18.
+3. Both lines show similar trends, with a notable dip in 2014 followed by a significant increase in 2018.
+4. In 2018, women's turnout reached 55.0%, while men's turnout was 51.8%.
+5. The lowest point for both genders was in 2014, with women at 43.0% and men at 40.8%.
+6. The gap between men and women's turnout appears to widen slightly in the 2018 election.
+The chart also includes a note explaining that eligible voters are U.S. citizens ages 18 and older, and that the data is not adjusted to administrative voting records. The source is cited as Pew Research Center analysis of the Current Population Survey, November Supplements, 1998-2018.

@@ -1,0 +1,8 @@
+This chart is a pie graph showing the results of a survey asking Indian Americans about their perception of discrimination against their community. The chart breaks down the responses into four categories:
+1. Minor problem: 48% of respondents
+2. Not a problem: 38% of respondents
+3. Major problem: 10% of respondents
+4. DK/Ref (which likely stands for "Don't Know" or "Refused to answer"): 4% of respondents
+The title of the chart asks "How big a problem is discrimination against Indian Americans?" and indicates that the data represents the percentage of Indian Americans who provided each response.
+The chart uses different shades of brown and orange to distinguish between the four categories. The largest segment is "Minor problem" at nearly half of the responses, followed by "Not a problem" at over a third. Only 10% view discrimination as a major problem according to this data.
+The source of this information is cited as PEW RESEARCH CENTER at the bottom of the image.

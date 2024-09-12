@@ -1,0 +1,12 @@
+This chart shows the trends in British views of the European Union from 2004 to 2020. The data is presented as two lines on a graph:
+1. A blue line representing "Unfavorable" views
+2. A green line representing "Favorable" views
+The y-axis shows percentages from 0 to 100%, while the x-axis shows years from 2004 to 2020.
+Key points from the chart:
+1. In 2004, unfavorable views (36%) were higher than favorable views (0%).
+2. There's a notable gap in data for favorable views from 2004 to 2012.
+3. Favorable and unfavorable views intersect multiple times between 2012 and 2020.
+4. The June 2016 EU membership referendum is marked on the chart.
+5. By 2020, favorable views (60%) significantly outweigh unfavorable views (37%).
+The chart title indicates that British views of the EU reached a "historic high," likely referring to the 60% favorable view in 2020.
+The source is cited as a Pew Research Center survey conducted in June-July 2020.

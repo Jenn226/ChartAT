@@ -1,0 +1,9 @@
+This chart presents the results of a survey conducted by the Pew Research Center from June 16-22, 2020. The survey asked U.S. adults how they think people in their area would react to them wearing a mask in public places.
+The results are shown in a pie chart with three categories:
+1. Approve: 55%
+2. Not care: 40%
+3. Disapprove: 4%
+The chart title asks: "How do you think people in your area would react to you wearing a mask?"
+The subtitle provides more context: "If you were to wear a mask in public places in your local area, generally, do you think most of the people around you would... (%)"
+The chart indicates that a majority (55%) of respondents believe people would approve of them wearing a mask, while a significant portion (40%) think people would not care. Only a small percentage (4%) believe people would disapprove of mask-wearing.
+The note at the bottom mentions that "No answer" responses are not shown in the chart.

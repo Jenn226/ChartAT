@@ -1,0 +1,7 @@
+This image shows a pie chart depicting the percentage of U.S. adults who have ever spoken with or been interviewed by a local journalist. The chart's title states "Most Americans have never spoken with a local journalist."
+The pie chart is divided into three segments:
+1. "No" - 78% (shown in yellow)
+2. "Yes" - 21% (shown in maroon)
+3. "No answer" - 1% (shown in light gray)
+The chart clearly illustrates that a large majority (78%) of U.S. adults have never spoken with a local journalist, while only about one-fifth (21%) have had such an experience.
+Below the chart, there's a source note stating that this survey was conducted from October 15 to November 8, 2018. The image is credited to the PEW RESEARCH CENTER at the bottom.

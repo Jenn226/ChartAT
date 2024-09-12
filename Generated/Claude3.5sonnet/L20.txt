@@ -1,0 +1,8 @@
+This chart shows the projected world population growth from 1950 to 2100. The title states that world population growth is expected to flatten in coming decades. The y-axis represents world population in billions, while the x-axis shows the years from 1950 to 2100.
+The chart displays a curved line graph with three data points labeled:
+1. In 1950, the world population was 2.5 billion.
+2. In 2020, the population reached 7.8 billion.
+3. By 2100, it's projected to reach 10.9 billion.
+The line shows a steep increase from 1950 to 2020, but then the growth rate slows down significantly between 2020 and 2100, illustrating the "flattening" mentioned in the title.
+The source of the data is cited as the United Nations Department of Economic and Social Affairs, Population Division, from their "World Population Prospects 2019" report.
+The chart is credited to the Pew Research Center at the bottom.

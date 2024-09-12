@@ -1,0 +1,14 @@
+This chart presents a breakdown of Asian American origin groups in the United States. The main visual is a pie chart showing the six largest origin groups, which together make up 85% of all Asian Americans:
+1. Chinese: 23%
+2. Indian: 19%
+3. Filipino: 18%
+4. Vietnamese: 9%
+5. Korean: 9%
+6. Japanese: 7%
+The remaining 15% is categorized as "All others".
+To the left of the pie chart, there's a list of other Asian origin groups with smaller percentages:
+- Pakistani and Cambodian: 2% each
+- Hmong, Thai, and Laotian: 1% each
+- Several groups listed as <1%: Bangladeshi, Burmese, Nepalese, Indonesian, Sri Lankan, Malaysian, Bhutanese, and Mongolian
+The title states that these six main origin groups account for 85% of all Asian Americans. 
+At the bottom, there are notes explaining that the Chinese category includes those identifying as Taiwanese, and that figures may not add up to 100% due to rounding. The source is cited as a Pew Research Center analysis of 2015 American Community Survey 1-year estimates.

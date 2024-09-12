@@ -1,0 +1,12 @@
+This chart shows the percentage of Americans who have a favorable opinion of NATO, broken down by political party affiliation from 2009 to 2020. 
+The blue line represents Democrats and those who lean Democratic, while the red line represents Republicans and those who lean Republican.
+Key points from the chart:
+1. Democrats consistently have a more favorable view of NATO than Republicans throughout the period shown.
+2. The gap between Democratic and Republican views has widened over time, particularly after 2016.
+3. Democratic support for NATO peaked in 2018 at 76% and remained high in 2020 at 70%.
+4. Republican support for NATO has fluctuated more, dropping to a low of 43% in 2013 and ending at 46% in 2020.
+5. There was a notable increase in Democratic support for NATO between 2016 and 2017, jumping from 57% to 74%.
+6. The chart's y-axis ranges from 0 to 100%, representing the percentage of favorable opinions.
+7. The source of the data is cited as the Summer 2020 Global Attitudes Survey, with 2018 results from a Körber-Stiftung survey.
+8. The chart is produced by the Pew Research Center.
+This visualization effectively illustrates the partisan divide in attitudes towards NATO among Americans over the past decade.

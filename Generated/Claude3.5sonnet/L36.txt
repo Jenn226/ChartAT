@@ -1,0 +1,10 @@
+This chart shows the average number of people per household in the United States from 1790 to 2018. The graph displays a clear downward trend over time:
+1. In 1790, the average household size was 5.79 people.
+2. By 1850, it had decreased slightly to 5.55 people.
+3. The line then shows a steep decline from 1850 to around 2000.
+4. In 2010, the average household size was 2.58 people.
+5. By 2018, it had increased slightly to 2.63 people.
+The title of the chart states that this decade will likely be the first in at least 160 years where American households have more people, referring to the slight uptick between 2010 and 2018.
+The x-axis shows years from 1790 to 2018, while the y-axis represents the average number of people per household.
+A note at the bottom mentions that data labels are provided for 1790, 1850, 2010, and 2018, and that average household size data is not available for the years between 1790 and 1850.
+The source of the data is cited as Pew Research Center analysis of Census historical statistics, 2010 Census SF1 data, and 2018 American Community Survey.

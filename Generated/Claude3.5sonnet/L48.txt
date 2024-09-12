@@ -1,0 +1,13 @@
+This chart shows the trends in British views of the European Union from 2004 to 2020. It displays the percentage of Britons who have a favorable or unfavorable opinion of the EU over time.
+Key points:
+1. The chart title states "British views of the EU reached a historic high"
+2. There are two trend lines: one for "Favorable" opinions (in green) and one for "Unfavorable" opinions (in blue)
+3. The y-axis shows percentages from 0% to 100%
+4. The x-axis spans from 2004 to 2020
+5. A vertical dotted line marks the June 2016 EU membership referendum
+6. In 2020, the favorable opinion reaches 60%, the highest point on the chart
+7. The unfavorable opinion declines to 37% in 2020
+8. The lines intersect multiple times over the years, showing changing public opinion
+9. The lowest point for favorable opinions was 45% in 2012
+10. The highest point for unfavorable opinions was 48% in 2014
+The source of the data is cited as the Summer 2020 Global Attitudes Survey conducted by Pew Research Center from June 10-July 28, 2020.

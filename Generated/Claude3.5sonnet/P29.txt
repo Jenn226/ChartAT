@@ -1,0 +1,9 @@
+This chart displays the results of a survey conducted by Pew Research Center from April 20-26, 2020, regarding how Americans perceive the impact of COVID-19 on journalism practices.
+The pie chart shows the percentage breakdown of U.S. adults' opinions on whether journalists have had to change the way they report news due to the coronavirus outbreak:
+1. 43% say "Somewhat"
+2. 28% say "A great deal"
+3. 19% say "Not much"
+4. 9% say "Not at all"
+5. 1% gave no answer
+The title of the chart states that the majority of Americans believe COVID-19 has forced journalists to change how they report the news. This is supported by the data, as 71% of respondents (43% "Somewhat" + 28% "A great deal") indicate that they think there has been at least some change in reporting practices.
+The chart provides a clear visual representation of the survey results, using different shades of pink and burgundy to distinguish between the response categories.

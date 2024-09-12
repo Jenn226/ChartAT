@@ -1,0 +1,9 @@
+This chart shows the growth of the Arab-American population in the United States from 2000 to 2012, measured in millions. The data points are as follows:
+2000: 1.19 million
+2006: 1.47 million
+2008: 1.55 million
+2010: 1.65 million
+2012: 1.80 million
+The chart displays a steady upward trend, with the population increasing at each measured interval. The line graph uses a green color and has data points marked with small circles. The vertical axis ranges from 1 to 2 million, while the horizontal axis shows the years from 2000 to 2012 in two-year increments.
+The source of the data is cited as "Pew Research Center tabulations of 2000 Census, 2006-2012 American Community Survey."
+This visualization effectively illustrates the continuous growth of the Arab-American population in the U.S. over the 12-year period covered.

@@ -1,0 +1,9 @@
+This image shows a pie chart presenting data on how Hispanic adults in the U.S. view their Hispanic identity in relation to their racial and ethnic background. The chart is titled "Two-thirds of Hispanic adults said being Hispanic was part of their racial background."
+The pie chart is divided into four segments:
+1. "Both, racial and ethnic background" - 56%
+2. "Ethnic background" - 19%
+3. "Don't know" - 13%
+4. "Racial background" - 11%
+The largest segment, representing 56% of respondents, indicates that these Hispanic adults consider being Hispanic as both part of their racial and ethnic background.
+The chart also includes a note explaining that "Hispanic is based on self-identification of race or origin" and that figures may not add to 100% due to rounding.
+The source of this data is cited as a "Survey of U.S. multiracial adults conducted Feb. 6-April 6, 2015" by the PEW RESEARCH CENTER.

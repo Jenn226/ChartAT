@@ -1,0 +1,10 @@
+This chart shows the relative U.S. search volume of generation terms on Google Trends from 2014 to 2018. It compares the search popularity of three terms: "Generation Z", "iGeneration", and "Post-Millennials".
+Key points:
+1. "Generation Z" dominates the searches, showing a dramatic increase over time.
+2. The search volume for "Generation Z" starts at 3 in 2014 and rises to 63 by 2018.
+3. There's a particularly sharp increase for "Generation Z" between 2017 and 2018, jumping from 27 to 63.
+4. "iGeneration" and "Post-Millennials" remain relatively flat and low throughout the period.
+5. "iGeneration" starts at 1 in 2014 and ends at 3 in 2018.
+6. "Post-Millennials" consistently stays at 1 throughout the entire period.
+The chart illustrates that "Generation Z" has become the dominant term used when searching for information about the post-Millennial generation, far outpacing alternative terms like "iGeneration" or "Post-Millennials".
+The note at the bottom explains that the data is based on relative search volume, with 100 being the maximum, and that the values don't reflect absolute number of searches.

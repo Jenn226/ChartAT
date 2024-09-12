@@ -1,0 +1,11 @@
+This chart shows the percentage of Democratic and Democratic-leaning voters who had a positive impression (excellent or good) of their party's candidates running for the Democratic nomination in various election years.
+The data is presented for five different time periods:
+- January 2020: 64%
+- January 2008: 78%
+- January 2004: 46%
+- February 1992: 45%
+- January 1988: 37%
+The chart illustrates that the approval rating in January 2020 (64%) is relatively high compared to most previous years shown, but not as high as it was in January 2008 (78%).
+The title of the chart, "Democrats positive about their party's 2020 field, but it's not 2008," reflects this comparison.
+The chart also includes a note explaining that surveys conducted in 2008 and prior were done over the phone, and that the 1988 data specifically refers to all adult Democrats and Democratic leaners.
+The source of the data is cited as a survey of U.S. adults conducted from January 6-19, 2020, by the Pew Research Center.

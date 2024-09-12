@@ -1,0 +1,12 @@
+This chart presents data on the U.S. foreign-born population estimates for 2017. It's a pie chart divided into four segments:
+1. Naturalized citizens: 20.7 million (45%)
+2. Lawful permanent residents: 12.3 million (27%)
+3. Unauthorized immigrants: 10.5 million (23%)
+4. Temporary lawful residents: 2.2 million (5%)
+The chart groups these categories into two broader categories:
+- Lawful immigrants: 35.2 million (77%), which includes naturalized citizens, lawful permanent residents, and temporary lawful residents.
+- Unauthorized immigrants: 10.5 million (23%)
+The total U.S. foreign-born population is stated as 45.6 million.
+The chart's title emphasizes that unauthorized immigrants make up a quarter of the U.S. foreign-born population.
+There's a note at the bottom explaining that all numbers are rounded and that unauthorized immigrants include some with temporary protection from deportation under programs like DACA and TPS, as well as pending asylum cases.
+The source is cited as Pew Research Center estimates based on augmented U.S. Census Bureau data.

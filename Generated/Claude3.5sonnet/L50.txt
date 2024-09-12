@@ -1,0 +1,7 @@
+This chart shows the changing composition of unauthorized immigrants in the United States from 1995 to 2017, categorized by their duration of residence. The data is presented as a percentage of adult unauthorized immigrants.
+Two trend lines are displayed:
+1. "More than 10 years" (in dark orange): This line shows a significant increase over time. In 1995, about 33% of unauthorized immigrants had been in the U.S. for more than 10 years. By 2017, this percentage had risen to 66%.
+2. "5 years or less" (in light orange): This line shows a general decline over the same period. In 1995, about 36% of unauthorized immigrants had been in the U.S. for 5 years or less. By 2017, this percentage had dropped to 20%.
+The lines intersect around 2005, indicating a shift in the composition of the unauthorized immigrant population. After this point, long-term residents (more than 10 years) became the larger group.
+The chart illustrates a clear trend of unauthorized immigrants staying longer in the U.S., with a decreasing proportion of new arrivals (those residing 5 years or less) over time.
+The data source is cited as Pew Research Center estimates based on augmented U.S. Census Bureau data.

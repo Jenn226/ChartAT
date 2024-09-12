@@ -1,0 +1,10 @@
+This chart compares two trends from 2016 to 2019:
+1. Confidence in U.S. Presidents (Obama in 2016, Trump from 2017-2019)
+2. Favorable views of the U.S.
+Key points:
+- In 2016, confidence in President Obama was at 74%, while favorable views of the U.S. were at 64%.
+- There's a sharp drop in confidence for President Trump in 2017 to 23%, while favorable views of the U.S. declined less dramatically to 49%.
+- From 2017 to 2019, confidence in President Trump gradually increased from 23% to 31%.
+- Favorable views of the U.S. also increased slightly from 2017 to 2019, rising from 49% to 53%.
+- Throughout Trump's presidency, favorable views of the U.S. remained higher than confidence in Trump himself.
+The chart shows that while both metrics decreased after 2016, favorable views of the U.S. remained consistently higher than confidence in President Trump. The data is based on surveys of 24 countries each year, as noted at the bottom of the image.

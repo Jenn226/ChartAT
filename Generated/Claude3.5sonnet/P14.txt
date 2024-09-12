@@ -1,0 +1,7 @@
+This image shows a pie chart illustrating internet access among uninsured adults. The chart is titled "Internet access among the uninsured" and provides data for adults without health insurance.
+The pie chart is divided into two segments:
+1. "Internet user" - 79% of the pie
+2. "Not an internet user" - 21% of the pie
+The data suggests that among adults without health insurance, 79% are internet users while 21% are not internet users.
+At the bottom of the image, there's a source citation: "Pew Research Center's Internet & American Life Project Health Survey, August 07 - September 06, 2012." It also mentions that the survey included 3,014 adults without health insurance and provides some additional methodological details about the survey.
+The chart is created by the Pew Research Center, as indicated by their logo at the bottom of the image.

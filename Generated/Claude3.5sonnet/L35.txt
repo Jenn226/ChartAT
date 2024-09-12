@@ -1,0 +1,12 @@
+This chart shows the trend of the U.S. teen birth rate from 1940 to 2018. The y-axis represents births per 1,000 females ages 15-19, while the x-axis shows the years.
+Key points from the chart:
+1. The title states that the U.S. teen birth rate has fallen dramatically over time.
+2. The birth rate started at 54.1 in 1940.
+3. There's a significant spike during the "Baby boom years" (shaded area), reaching a peak of 96.3 around 1957.
+4. After the baby boom, there's a general downward trend, with some fluctuations.
+5. A smaller peak is seen around 1991, with a rate of 61.8.
+6. The rate continues to decline more steeply after 2000.
+7. By 2018, the teen birth rate has fallen to 17.4, which is the lowest point on the chart.
+8. The chart includes a note explaining that the data only accounts for live births among teens aged 15-19, and does not include miscarriages, stillbirths, or abortions.
+9. The source of the data is cited as the National Center for Health Statistics published data, and the chart is created by the Pew Research Center.
+This visualization effectively illustrates the long-term decline in teen birth rates in the United States, with particular emphasis on the dramatic drop in recent years.

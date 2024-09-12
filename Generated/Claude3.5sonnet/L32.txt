@@ -1,0 +1,18 @@
+This chart shows the population trend of Puerto Rico from 1950 to 2018. Here are the key details:
+1. Title: "Puerto Rico's population is at its lowest point since 1979"
+2. The y-axis represents the total population in millions, ranging from 1 to 4 million.
+3. The x-axis shows the years from 1950 to 2018, marked in decades.
+4. The population trend is represented by a brown line:
+   - It starts at 2.2 million in 1950
+   - Rises steadily to 3.2 million in 1980
+   - Peaks at 3.8 million in 2004
+   - Declines to 3.2 million by 2018
+5. Key points marked on the graph:
+   - 1950: 2.2 million
+   - 1980: 3.2 million
+   - 2004: 3.8 million (peak)
+   - 2018: 3.2 million
+6. A notable event is mentioned: "Hurricanes Maria and Irma struck Puerto Rico in September 2017", which corresponds with a sharp decline in population between 2010 and 2018.
+7. The source is cited as "Pew Research Center analysis of U.S. Census Bureau intercensal estimates for 1950-2009, Vintage 2018 estimates for 2010-2018."
+8. A note explains that population estimates are as of July 1 for each year, and figures are rounded to the nearest 100,000.
+This chart effectively illustrates the long-term population growth and recent decline in Puerto Rico, highlighting that the current population has returned to levels not seen since 1979.

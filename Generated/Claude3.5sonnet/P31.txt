@@ -1,0 +1,8 @@
+This image shows a pie chart illustrating Indian citizens' satisfaction with the way democracy is working in their country. The chart is based on a Spring 2018 Global Attitudes Survey conducted among Indian adults from May 23-July 23, 2018 by the Pew Research Center.
+The chart breaks down the responses into three categories:
+1. Satisfied: 54% of respondents
+2. Not satisfied: 33% of respondents
+3. Don't know: 13% of respondents
+The title of the chart states "Most Indians are satisfied with the way democracy is working", which is supported by the majority (54%) expressing satisfaction.
+The chart uses different colors to represent each category: green for "Satisfied", blue for "Not satisfied", and a neutral beige for "Don't know".
+At the bottom, the source of the data and the survey details are provided.

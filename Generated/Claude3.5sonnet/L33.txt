@@ -1,0 +1,11 @@
+This chart shows the total size of the U.S. active duty military force from 1990 to 2017. The graph illustrates a significant downsizing trend in the post-Cold War era.
+Key points from the chart:
+1. In 1990, the total force size was 2,065,597.
+2. There's a sharp decline between 1990 and 1995.
+3. By 2000, the force size had decreased to 1,404,215.
+4. The chart notes the 9/11 terrorist attack in 2001.
+5. After 2001, there's a slight increase and then a gradual decline.
+6. By 2017, the force size was 1,335,120.
+The chart includes data from the four military branches of the Department of Defense and the Department of Homeland Security active duty Coast Guard.
+The source of this data is cited as the U.S. Department of Defense annual Demographics Report, 1990-2017, and the chart was created by the Pew Research Center.
+The graph effectively illustrates the overall trend of military downsizing in the U.S. since the end of the Cold War, with a notable impact of the 9/11 attacks causing a temporary increase in force size.

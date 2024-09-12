@@ -1,0 +1,9 @@
+This image shows a pie chart displaying survey results about Americans' awareness of QAnon. The chart breaks down the responses into four categories:
+1. "Nothing at all": 76% of respondents
+2. "A little": 20% of respondents
+3. "A lot": 3% of respondents
+4. "No answer": 2% of respondents
+The title of the chart states "Most Americans say they've heard nothing at all about QAnon". The question asked in the survey was about how much respondents have "heard or read" about QAnon.
+The chart is sourced from a survey of U.S. adults conducted between February 18 and March 2, 2020, by the Pew Research Center.
+There's a note at the bottom mentioning that totals may not sum to 100% due to rounding.
+The chart effectively illustrates that a large majority (76%) of Americans surveyed had heard nothing at all about QAnon at the time of the survey, while only a small percentage had heard a lot about it.

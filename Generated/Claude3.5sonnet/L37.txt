@@ -1,0 +1,11 @@
+This chart shows the percentage of English-proficient immigrants in the United States from 1980 to 2018. The title states that "Half of immigrants in U.S. are English proficient as of 2018."
+The chart displays a line graph with data points for five years:
+1980: 57%
+1990: 53%
+2000: 49%
+2010: 48%
+2018: 53%
+The graph shows a general downward trend from 1980 to 2010, with the percentage of English-proficient immigrants dropping from 57% to 48%. However, there's a significant increase between 2010 and 2018, bringing the percentage back up to 53%.
+Below the graph, there's a note explaining that "English proficient" refers to those who either speak only English at home or, if they speak a non-English language at home, indicate they can speak English "very well."
+The source of the data is cited as Pew Research Center tabulations of 1980-2000 decennial censuses and 2010, 2013-2018 American Community Surveys (IPUMS).
+The chart is produced by the Pew Research Center.

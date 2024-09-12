@@ -1,0 +1,8 @@
+This chart presents the results of a survey conducted by the Pew Research Center from January 7-21, 2019, titled "Trust and Mistrust in Americans' Views of Scientific Experts."
+The main finding, highlighted in the title, is that six-in-ten (or 60%) of U.S. adults believe scientists should take an active role in policy debates about scientific issues.
+The chart is a pie graph showing the breakdown of U.S. adults' opinions on the role scientists should play in public policy debates about scientific issues:
+1. 60% say scientists should "Take an active role in policy debates" (represented by a blue slice)
+2. 39% say scientists should "Focus on establishing sound scientific facts" (represented by a green slice)
+3. 1% gave no answer (represented by a small gray slice)
+The question posed to survey respondents, as indicated in the subtitle, was about what scientists should do "when it comes to public policy debates about scientific issues."
+This visualization effectively illustrates the majority opinion that scientists should be actively involved in policy discussions, while also showing a significant minority who believe scientists should focus solely on establishing facts.

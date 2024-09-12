@@ -1,0 +1,10 @@
+This chart shows the estimated number of unauthorized immigrants living in Europe from 2014 to 2017. The data is presented as a range, with both high and low estimates for each year.
+Key points from the chart:
+1. The number of unauthorized immigrants peaked in 2016.
+2. In 2014, the range was 3.0 to 3.7 million.
+3. In 2015, it increased to 3.3 to 4.9 million.
+4. The peak in 2016 shows a range of 4.1 to 5.3 million.
+5. By 2017, the numbers decreased slightly to 3.9 to 4.8 million.
+The chart includes a note explaining that the estimates cover all European Union countries (28, including the UK) and four European Free Trade Association countries (Iceland, Liechtenstein, Norway, and Switzerland). It also mentions that the numbers are rounded and include asylum seekers waiting for decisions.
+The source of the data is cited as Pew Research Center estimates based on Eurostat and European Labor force survey data.
+The title of the chart emphasizes that Europe's unauthorized immigrant total peaked in 2016 before leveling off.

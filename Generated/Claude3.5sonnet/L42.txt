@@ -1,0 +1,9 @@
+This chart shows the total deportations by Mexico's immigration authorities through the first seven months (October-April) of fiscal years from 2002 to 2019. The data is presented as a line graph with the number of deportations on the y-axis and the fiscal years on the x-axis.
+Key points from the chart:
+1. The highest point of deportations was in 2006, reaching 135,000.
+2. There was a significant drop after 2006, reaching a low of 33,000 in 2012.
+3. After 2012, there was an increase, peaking at 93,000 in 2015.
+4. Since 2015, the numbers have decreased again, with 67,000 deportations reported for 2019.
+5. The chart's title notes that deportations have remained below previous highs through fiscal 2019.
+The chart also includes a note mentioning that deportations are rounded to the nearest thousand, and that data for April 2019 does not include 1,061 cases under review.
+The source of this data is cited as Pew Research Center analysis of Mexican government data (SEGOB).

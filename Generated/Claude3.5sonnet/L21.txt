@@ -1,0 +1,10 @@
+This chart shows the average interest rate on U.S. public debt from 1988 to 2018, measured at the end of each fiscal year (September 30). The graph illustrates a general downward trend in interest rates over this 30-year period.
+Key points from the chart:
+1. The interest rate starts at a high of 8.8% in 1988.
+2. There's a sharp decline in rates from 1988 to the mid-1990s.
+3. The rate continues to decline more gradually through the 2000s.
+4. The lowest point on the chart is 2.5% in 2018.
+5. The title suggests that rates are "now heading higher" after reaching this historic low.
+The y-axis shows interest rates from 0% to 10%, while the x-axis spans from 1988 to 2018 in 4-year intervals.
+The chart also includes notes explaining that these rates are calculated on total unmatured interest-bearing debt, excluding inflation-protected securities. It mentions that debt figures before 2001 exclude a small amount of non-interest-bearing debt.
+The source of the data is cited as TreasuryDirect (U.S. Department of the Treasury, Bureau of the Fiscal Service), and the chart is created by the Pew Research Center.

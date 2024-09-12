@@ -1,0 +1,7 @@
+This image shows a pie chart presenting data on seniors' use of online social networks. The chart is divided into three segments:
+1. The largest segment, colored dark blue, represents 41% of seniors who "Do not go online".
+2. The second largest segment, in light blue, shows 32% who "Go online, no SNS" (presumably meaning they go online but don't use social networking sites).
+3. The smallest segment, in medium blue, indicates 27% who "Use SNS" (social networking sites).
+The title of the chart states "One-quarter of seniors use online social networks", which seems to be rounded from the 27% figure shown in the chart.
+At the bottom, the source is cited as "Pew Research Center's Internet Project July 18-September 30, 2013 tracking survey."
+This chart effectively visualizes the breakdown of online and social media usage among senior citizens, showing that a majority do go online, but only about a quarter use social networking sites.

@@ -1,0 +1,10 @@
+This chart shows the number of removals of unauthorized immigrants from the United States by fiscal year from 2000 to 2018. The graph displays a gold line that represents the trend of these removals over time.
+Key points from the chart:
+1. The title states that removals rose 17% from 2017 to 2018, but remain below recent highs.
+2. The y-axis shows the number of removals, with specific data points labeled for some years.
+3. In 2000, there were 188,467 removals.
+4. The number of removals peaked at 432,281 in around 2013-2014.
+5. After the peak, there was a significant drop, followed by an increase to 337,287 removals in 2018.
+6. The x-axis shows fiscal years from 2000 to 2018 in two-year intervals.
+The chart also includes notes explaining that the data includes removals by Customs and Border Protection and Immigration and Customs Enforcement. It defines removals as "the compulsory and confirmed movement of an inadmissible or deportable alien out of the United States based on an order of removal."
+The source of the data is cited as the Department of Homeland Security, Yearbook of Immigration Statistics 2018, and the chart is created by the Pew Research Center.

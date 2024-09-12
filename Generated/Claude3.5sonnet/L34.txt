@@ -1,0 +1,7 @@
+This chart displays the number of apprehensions at the U.S.-Mexico southwest border by fiscal year from 1998 to 2018. The graph shows a line trending downward overall, with some fluctuations:
+1. It starts at a high point in 1998 with 1,516,680 apprehensions.
+2. There's a peak in 2000 at 1,643,679 apprehensions.
+3. By 2003, it drops to 905,065.
+4. The line continues to decline, reaching a low point in 2012 at 327,577 apprehensions.
+5. There's a slight uptick towards the end, with 396,579 apprehensions in 2018.
+The title emphasizes that despite a recent increase, the number of apprehensions is still far below the levels seen in the late 1990s. The source of the data is cited as U.S. Customs and Border Protection, and the chart is produced by the Pew Research Center.

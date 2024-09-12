@@ -1,0 +1,10 @@
+This image shows a pie chart describing the distribution of ad preference categories among U.S. adult Facebook users. The chart is titled "A majority of Facebook users have 10 or more categories listed on their ad preferences page."
+The pie chart is divided into five segments:
+1. "Fewer than 10 categories" - 27%
+2. "10 to 20 categories" - 27%
+3. "21+ categories" - 33%
+4. "Did not give an answer" - 2%
+5. "Not assigned to a category" - 11%
+The data shows that the largest segment (33%) of users have 21 or more categories listed on their ad preferences page. Combined with the 27% who have 10 to 20 categories, this supports the title's claim that a majority of users have 10 or more categories.
+The chart also indicates that only a small percentage (2%) did not provide an answer, while 11% were not assigned to any category.
+At the bottom, the source of the data is cited as a "Survey of Facebook users conducted Sept. 4-Oct. 1, 2018" for a study on "Facebook Algorithms and Personal Data" by the PEW RESEARCH CENTER.

@@ -1,0 +1,9 @@
+This chart shows the percentage of the U.S. population that is foreign-born from 1850 to 2018. The y-axis represents the percentage, ranging from 0 to 15%, while the x-axis shows the years.
+Key points from the chart:
+1. In 1850, the foreign-born population was at 9.7%.
+2. The percentage peaked around 1890 at 14.8%.
+3. There's a notable decline starting in the early 1900s, reaching its lowest point of 4.7% around 1970.
+4. The chart marks 1965 as the year when the Immigration and Nationality Act was passed.
+5. After 1970, there's a steady increase in the foreign-born population.
+6. By 2018, the percentage has risen to 13.7%, nearing the historic high from the 1890s.
+The chart's title emphasizes that the immigrant share of the U.S. population is nearing a historic high. The source of the data is cited as the U.S. Census Bureau and Pew Research Center tabulations.

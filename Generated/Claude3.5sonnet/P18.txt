@@ -1,0 +1,8 @@
+This image shows a pie chart illustrating survey results about how Americans perceive the impact of people's actions on the spread of COVID-19 in the United States. The chart breaks down responses into four categories:
+1. "A great deal" - 59% of respondents
+2. "A fair amount" - 28% of respondents
+3. "Not too much" - 10% of respondents
+4. "Not at all" - 2% of respondents
+The title of the chart states "Most say people's actions affect spread of COVID-19". The question posed in the survey was "% who say the actions of ordinary Americans affect how the coronavirus spreads in the U.S..."
+The source of this data is cited as a survey of U.S. adults conducted June 16-22, 2020 by the Pew Research Center. There's also a note stating that "No answer responses not shown."
+The chart uses different shades of gold/brown to distinguish between the segments, with the largest segment ("A great deal") being the darkest shade.

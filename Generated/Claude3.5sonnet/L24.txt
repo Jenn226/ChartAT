@@ -1,0 +1,11 @@
+This chart shows the increasing trend of U.S. voters casting ballots by mail from 1996 to 2016. The y-axis represents the percentage of U.S. voters who cast a ballot by mail, while the x-axis shows the election years in 4-year intervals.
+The data points are as follows:
+1996: 7.8%
+2000: 10.1%
+2004: 12.9%
+2008: 16.4%
+2012: 18.5%
+2016: 20.9%
+The line graph clearly demonstrates a steady upward trend, with the percentage of mail-in voters more than doubling over the 20-year period, from 7.8% in 1996 to 20.9% in 2016.
+The title of the chart emphasizes this trend, stating "Share of voters casting ballots by mail has steadily risen since 1996."
+The source of the data is credited to Pew Research Center analysis of 1996-2016 Current Population Survey November Supplements (IPUMS and U.S. Census Bureau).

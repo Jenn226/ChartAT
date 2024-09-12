@@ -1,0 +1,10 @@
+This chart is a pie graph showing how often Twitter users check for material posted by others. The data is presented as percentages of Twitter users for different frequency categories:
+1. Several times a day: 24%
+2. Once a day: 12%
+3. 1-2 days per week: 12%
+4. 3-5 days per week: 5%
+5. Every few weeks: 7%
+6. Less often: 20%
+7. Never: 21%
+The largest segment is "Several times a day" at 24%, while the smallest is "3-5 days per week" at 5%. The chart also shows that a significant portion (21%) of Twitter users never check for material posted by others.
+The source of this data is cited as The Pew Research Center's Internet & American Life Project, from a survey conducted in November 2010. The survey included 2,257 adult internet users aged 18 and older, with 755 cell phone interviews. It's noted that interviews were conducted in both English and Spanish.

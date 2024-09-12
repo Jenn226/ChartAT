@@ -1,0 +1,8 @@
+This image shows a pie chart presenting survey results on how U.S. adults perceive the impact of climate change on their local communities. The chart breaks down responses into four categories:
+1. "A great deal": 22% of respondents
+2. "Some": 39% of respondents
+3. "Not too much/not at all": 38% of respondents
+4. "No answer": 1% of respondents
+The chart highlights that a majority (62%) of U.S. adults say climate change is affecting their community at least some, which is the sum of those who responded "A great deal" and "Some."
+The title of the chart states "A majority of U.S. adults say climate change is affecting their local community at least some."
+The source of the data is cited as a survey conducted from October 1-13, 2019, titled "U.S. Public Views on Climate and Energy" by the Pew Research Center.

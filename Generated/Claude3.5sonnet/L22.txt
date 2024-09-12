@@ -1,0 +1,9 @@
+This chart shows the decline in telephone survey response rates from 1997 to 2018. The graph is a line chart with years on the x-axis and response rate percentage on the y-axis.
+Key points:
+1. The response rate started at 36% in 1997.
+2. There was a sharp decline to 28% by 2001.
+3. The rate continued to fall, reaching 25% in 2005 and 21% in 2009.
+4. By 2013, it had dropped to 9%.
+5. There was a brief plateau at 9% from 2013 to 2016.
+6. The rate fell again to 6% by 2018.
+The title indicates that after a brief plateau, the rates have fallen again. The note at the bottom explains that the response rate is AAPOR RR3, only landlines were sampled from 1997-2006, and the rates are typical for surveys conducted each year. The source is cited as Pew Research Center telephone surveys conducted from 1997-2018.

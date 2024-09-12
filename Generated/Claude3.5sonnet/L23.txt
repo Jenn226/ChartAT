@@ -1,0 +1,12 @@
+This chart shows the immigrant share of the U.S. population from 1850 to 2017, expressed as a percentage of the total U.S. population that is foreign-born. Key features include:
+1. The graph starts at 9.7% in 1850 and ends at 13.6% in 2017.
+2. There are two peaks in the early 1900s, reaching 14.8% in 1890 and 14.7% in 1910.
+3. After 1910, there's a significant decline, reaching a low point of 4.7% in 1970.
+4. From 1970 onwards, there's a steady increase back up to 13.6% in 2017.
+5. Two important legislative events are marked on the chart:
+   - 1924: National Origins Quota Act is passed
+   - 1965: Immigration and Nationality Act is passed
+6. The chart title indicates that the immigrant share is approaching a historic high as of 2017.
+7. The data covers the 50 states and District of Columbia.
+8. The source of the data is cited as the U.S. Census Bureau and Pew Research Center.
+This chart effectively illustrates the long-term trends in immigration to the United States over nearly 170 years, highlighting key policy changes and their impacts on the foreign-born population share.

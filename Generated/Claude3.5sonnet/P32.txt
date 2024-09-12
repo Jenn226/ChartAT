@@ -1,0 +1,8 @@
+This chart presents data on the reading habits of U.S. adults, specifically the types of books they've read in the previous 12 months. Here's a breakdown of the information:
+1. 37% of adults say they only read print books
+2. 28% read both print and digital books
+3. 27% read no books at all
+4. 7% read digital books only
+5. 1% either don't know or refused to answer
+The chart is presented as a pie graph, with each category represented by a different colored slice. The largest slice is blue, representing those who only read print books (37%). The second largest slice is tan, showing those who read both print and digital books (28%). The off-white slice represents those who read no books (27%). A small grey slice shows digital-only readers (7%), and a tiny sliver represents those who don't know or refused to answer (1%).
+The chart also notes that the "digital books" category includes both e-books and audiobooks. The source of this data is cited as a survey conducted from January 8 to February 7, 2019, by the Pew Research Center.

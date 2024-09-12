@@ -1,0 +1,11 @@
+This image shows a line graph titled "Very unfavorable views of Pakistan increasing in India". The graph tracks the percentage of "Very unfavorable view of Pakistan" in India from 2013 to 2017.
+The y-axis shows percentages from 0 to 100%, while the x-axis shows the years from 2013 to 2017.
+The data points on the graph are as follows:
+2013: 54%
+2014: 49%
+2015: 51%
+2016: 55%
+2017: 64%
+The line graph shows an overall upward trend, with a slight dip in 2014 before rising steadily to its highest point in 2017.
+At the bottom of the image, the source is cited as "Spring 2017 Global Attitudes Survey, PEW RESEARCH CENTER".
+This graph illustrates that unfavorable views of Pakistan in India have generally increased over the five-year period shown, with the most significant increase occurring between 2016 and 2017.

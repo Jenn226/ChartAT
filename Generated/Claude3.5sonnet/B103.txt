@@ -1,0 +1,11 @@
+This chart presents data on how difficult LGBT individuals found it to tell their parents about their sexual orientation or gender identity. The data is broken down for mothers and fathers separately:
+1. For telling mothers:
+   - 40% of LGBT respondents said it was "Not difficult"
+   - 59% said it was "Difficult"
+2. For telling fathers:
+   - 34% of LGBT respondents said it was "Not difficult"
+   - 65% said it was "Difficult"
+The chart title states "Most Say It Was Hard to Tell Parents", which is supported by the data showing a majority found it difficult for both parents.
+At the bottom, there's a note explaining that the data is based on LGBT individuals who have told their mother/father about their sexual orientation or gender identity. It also mentions the sample sizes: n=1,618 for mothers and n=1,435 for fathers.
+The data source is listed as PEW RESEARCH CENTER.
+Overall, the chart illustrates that LGBT individuals generally found it more challenging to disclose their identity to their fathers compared to their mothers, though a majority found it difficult in both cases.

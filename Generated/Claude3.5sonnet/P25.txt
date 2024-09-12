@@ -1,0 +1,9 @@
+This chart illustrates the first wave of employment loss in the U.S. during the COVID-19 crisis, specifically from February to March 2020. The key points are:
+1. The title states that most job losses were from positions that could not be done remotely.
+2. A pie chart shows the breakdown of job losses:
+   - 90% of lost jobs could not be teleworked
+   - 10% of lost jobs could potentially be teleworked
+3. The total employment loss during this period was 2.9 million jobs.
+4. The chart specifies that these estimates refer to employed workers ages 16 and older, and the data is nonseasonally adjusted.
+5. The source of this data is cited as Pew Research Center analysis of Current Population Survey data.
+This visualization effectively demonstrates that the vast majority of initial job losses during the early stages of the COVID-19 pandemic were in sectors where remote work was not feasible, highlighting the disproportionate impact on certain types of employment.

@@ -1,0 +1,10 @@
+This chart shows trends in news consumption habits from 2002 to 2010. It compares two behaviors:
+1. "Checks on news from time to time" (shown in red)
+2. "Gets news at regular times" (shown in blue)
+The y-axis shows percentages from 30 to 70, while the x-axis shows years from 2002 to 2010 in 2-year intervals.
+Key observations:
+- The red line ("Checks on news from time to time") shows an overall increasing trend, starting at 48% in 2002 and rising to 57% by 2010.
+- The blue line ("Gets news at regular times") shows an overall decreasing trend, starting at 49% in 2002 and falling to 33% by 2010.
+- The lines intersect around 2006, indicating a shift in behavior.
+- By 2010, there's a significant gap between the two behaviors, with more people checking news from time to time rather than at regular times.
+The chart is credited to PEW RESEARCH CENTER, with data collected June 8-28, 2010.
