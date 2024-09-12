@@ -1,0 +1,8 @@
+The chart shows the average annual growth rate of the US Hispanic population for five year periods between 1990 and 2019. 
+* **1990-1995:** 4.5% growth
+* **1995-2000:** 4.8% growth
+* **2000-2005:** 3.8% growth
+* **2005-2010:** 3.4% growth
+* **2010-2015:** 2.1% growth
+* **2015-2019:** 1.9% growth
+The chart highlights a clear downward trend in the growth rate of the US Hispanic population over the 29 years shown. 

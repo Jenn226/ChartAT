@@ -1,0 +1,8 @@
+The chart displays the results of a survey asking Pakistanis what they believe is the greatest national threat to their country. 
+Here is the data breakdown: 
+* **India:** 59%
+* **The Taliban:** 23%
+* **al Qaeda:** 4%
+* **All/None of the above:** 7%
+* **Don't know/Refused:** 7%
+The data comes from the Spring 2012 Global Attitudes Survey, specifically question Q126, and is published by the Pew Research Center. 

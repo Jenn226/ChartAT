@@ -1,0 +1,6 @@
+The chart describes the percentage of US adults who owned different types of electronic devices in 2011. 
+* **Cell phones** were most common, owned by 83% of adults.
+* **Desktop computers** were next at 57%, followed closely by **laptops** at 56%.
+* **DVRs** were owned by 52% and **MP3 players** by 44% of adults.
+*  Far fewer adults owned **e-readers** (12%) or **tablets** (8%).
+The data makes it clear that while cell phones, computers, and DVRs were common household items by 2011, e-readers and tablets were still niche products. 

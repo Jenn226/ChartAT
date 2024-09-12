@@ -1,0 +1,5 @@
+The bar chart provides information about the awareness and usage of VoIP among American consumers. It presents three key statistics:
+* **Aware of VoIP:** 34 million Americans are aware of VoIP technology.
+* **Made Internet phone call:** 14 million Americans have made a phone call using the internet, indicating experience with VoIP. 
+* **Have considered VoIP for home service:**  4 million Americans have considered subscribing to a VoIP service for their home. 
+The chart highlights that while awareness of VoIP is relatively high, actual usage and consideration for home use are significantly lower. This suggests a potential market for VoIP providers to target by educating consumers on the benefits and addressing any concerns they may have. 

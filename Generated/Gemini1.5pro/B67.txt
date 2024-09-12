@@ -1,0 +1,8 @@
+The chart shows the results of a survey asking Indians what they perceive to be the greatest national threat to their country. The responses are as follows:
+* **Pakistan:** 41%
+* **Lashkar-e-Taiba:** 19%
+* **Naxalites:** 16%
+* **China:** 5%
+* **All/None of the above:** 3%
+* **Don't know/Refused:** 17%
+The data comes from the Pew Research Center's Spring 2012 Global Attitudes Survey. 

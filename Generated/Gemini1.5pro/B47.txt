@@ -1,0 +1,2 @@
+This chart shows the number of Americans, in millions, who have made an online donation in three different months. The x-axis of the chart shows the three dates: October 2001, January 2005, and September 2005. The y-axis of the chart represents millions of Americans.
+There were 11 million Americans who donated online in October of 2001. That number grew to 17 million by January of 2005. By September of 2005, that number had grown to 26 million. 

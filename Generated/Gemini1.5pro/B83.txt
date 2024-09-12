@@ -1,0 +1,8 @@
+The bar chart is about "Partisanship biggest factor in comfort with activities during coronavirus”. It shows the average percentage point gap in comfort across six different activities between specific demographics. 
+Specifically:
+* The average gap between Republicans/Republican leaning and Democrats/Democrat leaning is **26** percentage points.
+* The average gap between White and non-White people is **15** percentage points.
+* The average gap between different geographical locations is **11** percentage points.
+* The average gap between genders is **5** percentage points. 
+* The average gap between people aged 18-49 and 50+ is **3** percentage points.  
+The data is from a Pew Research Center survey of U.S. adults from June 16-22, 2020. 

@@ -1,0 +1,6 @@
+The bar chart shows the percentage of U.S. adults who believe that heated or aggressive language used by elected officials about certain people or groups makes violence against those groups more likely.
+The results are presented for three political affiliations: 
+* **Total:** 78% of all U.S. adults believe this is the case.
+* **Republican/Lean Republican:**  61% of this group agree. 
+* **Democrat/Lean Democrat:**  91% of this group agree.
+The data was collected from a survey by Pew Research Center conducted between April 29 and May 13, 2019.

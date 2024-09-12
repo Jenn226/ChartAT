@@ -1,0 +1,7 @@
+The chart shows the correlation between the number of internet-connected devices someone owns and the likelihood they use Twitter. 
+Here's what the data says:
+* **One Device:** 10% of internet users with one device use Twitter.
+* **Two Devices:** This jumps to 19% of internet users.
+* **Three Devices:**  28% of internet users with three devices use Twitter.
+* **Four or More Devices:** The likelihood significantly increases to 39% for users with four or more devices.
+**Conclusion:** The data makes it clear: the more internet-connected devices a person owns, the more likely they are to use Twitter. 

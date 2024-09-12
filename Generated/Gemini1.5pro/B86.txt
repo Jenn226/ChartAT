@@ -1,0 +1,11 @@
+The chart describes the age demographics of U.S. poll workers in the 2018 general election.
+Key findings:
+* A majority (58%) of U.S. poll workers in the 2018 general election were over the age of 60.
+* 31% of poll workers were aged 61-70.
+* 27% of poll workers were aged 71 or older.
+Other age groups were represented as follows:
+* 26% of poll workers were aged 41-60.
+* 9% of poll workers were aged 26-40.
+* 4% of poll workers were aged 18-25.
+* 4% of poll workers were aged 17 and younger.
+Note: The data is based on poll workers whose age was known. Not all jurisdictions reported poll worker age. 

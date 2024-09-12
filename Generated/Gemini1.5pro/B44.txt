@@ -1,0 +1,8 @@
+The bar chart shows the percentage of internet users who spent money on online content in a given month based on the amount of money spent.  
+Here's a breakdown:
+* **$1 - $10:** 43% of internet users spent within this range.
+* **$11 - $30:** 25% of internet users spent within this range.
+* **$31- $50:** 14% of internet users spent within this range.
+* **$51 - $100:** 11% of internet users spent within this range.
+* **$100< (more than $100):** 7% of internet users spent more than this amount. 
+The data is sourced from a Pew Research Center survey conducted between October 28th and November 1st, 2010, and involved 755 adult participants. 

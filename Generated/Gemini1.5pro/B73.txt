@@ -1,0 +1,4 @@
+The chart shows results from a survey. It illustrates how U.S. adults' accuracy in identifying original reporting correlates with the importance they place on keeping up with the news.
+* Those who find following the news "very important" were most likely to correctly identify original reporting sources at 55%.
+*  Those who find it "somewhat important" came in at 44%. 
+* "Not too/at all important" respondents were least likely at 32%. 

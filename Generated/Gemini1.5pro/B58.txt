@@ -1,0 +1,5 @@
+The chart shows the percentage of Republicans and Democrats who believe that human activity contributes a great deal to climate change, broken down by their level of science knowledge (low, medium, and high). 
+**Key takeaways:**
+* **Democrats are much more likely to believe in human-caused climate change than Republicans, particularly those with high science knowledge.**  89% of Democrats with high science knowledge believe in human-caused climate change, compared to only 17% of Republicans with high science knowledge. 
+* **The difference in belief persists across all levels of science knowledge.** Even among those with low science knowledge, Democrats are more likely to believe in human-caused climate change (25%) than Republicans (25%).
+* **There is a clear trend among Democrats:  as science knowledge increases, so does belief in human-caused climate change.** This trend is not apparent among Republicans. 

@@ -1,0 +1,8 @@
+The chart shows the average percentage-point gap across 30 political values, reflecting the difference in opinions between specific demographics.  
+**Key Findings:**
+* **Party:** The largest gap exists between Republicans/Lean Republicans and Democrats/Lean Democrats, at 39 percentage points.
+* **Race:** A 17-point gap was found between White and Black non-Hispanics.
+* **Religious Attendance:**  Those who attend religious services weekly or more hold values that are 14 points different on average from those who attend less often.
+* **Education:** College graduates show a 10-point difference in political values compared to those with less education (non-college grads).
+* **Age:** The smallest gap (6 points) is observed between the age groups of 18-49 and those 50+.
+**Overall, the chart highlights that partisan affiliation is the strongest predictor of differences in political values, far surpassing the impact of race, education, religious attendance, and age.** 

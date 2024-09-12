@@ -1,0 +1,4 @@
+The chart displays the results of a survey in which people were asked if they think local journalists should express their views on local issues. 
+* 61% of all US adults answered that local journalists should *not* express their views. 
+* Broken down by political affiliation, 71% of Republicans/Republican-leaning individuals believe local journalists should not express their views, while only 54% of Democrats/Democrat-leaning individuals share this belief.
+The survey was conducted by the Pew Research Center between Oct 15th - November 8th, 2018. 

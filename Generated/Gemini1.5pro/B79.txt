@@ -1,0 +1,6 @@
+This chart from the Pew Research Center shows the percentage of total 2015-16 income earned during the summer of 2015, for US public school teachers, broken down by years of experience.
+Key findings:
+* Teachers with only one year or less experience earned 12% of their total income in the summer, the largest percentage of any group.
+* The overall average for teachers was 7%.
+* There's a general trend of summer income representing a smaller share of total income for more experienced teachers, though this is not a consistent decline.
+* Notably, teachers with 30+ years of experience earned 7% of their income in the summer, the same percentage as the overall average, but less than newer teachers (1-4 years) and similar to teachers with 5-9 and 15-19 years of experience. 

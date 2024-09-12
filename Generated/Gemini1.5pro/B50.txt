@@ -1,0 +1,10 @@
+The bar chart shows the percentage of American adults who owned each of seven devices in 2010. 
+The devices are listed from most owned to least owned:
+* Cell phone: 85%
+* Desktop computer: 59%
+* Laptop computer: 52%
+* mp3 player: 47%
+* Game console: 42%
+* e-Book reader: 5%
+* Tablet computer: 4% 
+The data comes from a Pew Research Center survey of 3,001 adults.

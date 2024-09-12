@@ -1,0 +1,10 @@
+The chart highlights the percentage change in employment from 1980 to 2018 across various job categories, categorized by the importance of specific skill sets. 
+Here's a breakdown:
+* **Overall Growth:** All jobs experienced a 58% increase in employment from 1980 to 2018. 
+* **Skill-Specific Growth:** The chart then focuses on jobs where particular skills are "MOST important" and demonstrates higher growth rates in those areas:
+    * **Social Skills:** Jobs requiring strong social skills saw a 111% increase in employment.
+    * **Fundamental Skills:** Jobs emphasizing fundamental skills had a 104% increase.
+    * **Analytical Skills:**  Jobs demanding strong analytical skills experienced a 92% increase.
+    * **Managerial Skills:** Employment in jobs prioritizing managerial skills grew by 77%.
+    * **Mechanical Skills:**  Jobs reliant on mechanical skills showed the lowest growth at 4%.
+**Key Takeaway:** The data underscores a significant shift in the job market, with occupations requiring social, fundamental, and analytical skills experiencing significantly higher growth than those focused on mechanical skills. 

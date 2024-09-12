@@ -1,0 +1,6 @@
+The bar chart shows the percentage of married couples with dual income, by age group of the wife. Data is from the Pew Research Center's analysis of the 2011 American Community Survey.
+Key takeaways:
+* **30-49 age group highest:** Dual-income marriages are most prevalent when the wife is aged 30-49 (62%).
+* **Over 65 lowest:** This age group has the lowest percentage of dual-income marriages (6%). 
+* **Overall percentage:** Across all age groups, 47% of married couples have dual incomes.
+The chart suggests a trend where dual-income marriages are common during prime working years (ages 30-64) and less common when the wife is younger than 30 or older than 65. 

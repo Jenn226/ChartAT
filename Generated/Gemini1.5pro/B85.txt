@@ -1,0 +1,5 @@
+This bar chart shows the percentage of Germans who voted for certain political parties in 2017 and say that Germany should increase defense spending. 
+* 51% of CDU/CSU voters say Germany should increase defense spending.
+* 41% of SPD voters say Germany should increase defense spending.
+* 28% of Green party voters say Germany should increase defense spending.
+Source: Körber-Stiftung survey of German voters conducted Sept. 9-28, 2019. 

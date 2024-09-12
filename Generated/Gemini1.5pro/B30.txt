@@ -1,0 +1,5 @@
+The chart shows the global number of PCs with one or more peer-to-peer (P2P) file sharing applications installed from June 2006 to June 2008. 
+* **June 2006:** 180 million PCs
+* **June 2007:** 190 million PCs
+* **June 2008:** 200 million PCs
+The number of PCs with P2P applications installed shows a steady increase over the two years. 

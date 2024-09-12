@@ -1,0 +1,8 @@
+This is a bar chart showing results from a survey by the Pew Internet & American Life Project in April 2009. The survey asked online economic users in the U.S. what they do online to relax and take their minds off the economy. 
+Here's what each bar represents:
+* **Have done any of these:** Approximately 75% of respondents. 
+* **Watch videos:** Approximately 55%
+* **Listen to music:** Approximately 50%
+* **Play games:** Approximately 35%
+* **Chat with friends:** Approximately 30%
+* **Create or post onl

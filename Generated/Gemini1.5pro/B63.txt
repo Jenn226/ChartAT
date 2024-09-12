@@ -1,0 +1,6 @@
+The bar chart shows the percentage of US adults who prefer to get their news from television, broken down by race.
+According to the chart:
+* 60% of Black Americans prefer television as their news source
+* 43% of White Americans prefer television for news 
+* 45% of Hispanic Americans prefer getting news from television.
+The chart notes that this data excludes individuals who prefer getting their news from websites/apps, social media, print, or radio. Additionally, it specifies that White and Black respondents include only those who do not identify as Hispanic, while Hispanic respondents can be of any race. 

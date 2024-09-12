@@ -1,0 +1,10 @@
+The chart describes reasons why mobile phone *sharers* (people who share rather than own a mobile phone) do so, showing the percentage of respondents who cited each reason. The top reasons are:
+* **They cannot afford a mobile phone (34%)**
+* **Their mobile phone was lost, broken, or stolen (31%)**
+The remaining reasons and their percentages are:
+* They don't need to use a mobile phone regularly (15%)
+* They think mobile phones are too complicated to use (6%)
+* They do not like using mobile phones (5%)
+* They are afraid that their mobile phone will be stolen (2%)
+* They are not allowed to own a mobile phone (1%)
+The chart specifies that the percentages are eight-country medians and that Jordan, Lebanon, and Vietnam were excluded due to low sample size.  The source is cited as the Pew Research Center's Mobile Technology and Its Social Impact Survey from 2018. 

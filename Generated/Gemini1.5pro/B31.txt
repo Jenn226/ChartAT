@@ -1,0 +1,8 @@
+The chart shows the percentage of people who own a game console, like an Xbox or PlayStation, across different generations. The data is from a Pew Research Center survey conducted in August-September 2010.
+Key findings:
+* **Millennials** (18-34) and **Gen X** (35-46) have the highest ownership of game consoles, both at **63%**.
+* **Younger Boomers** (47-56) follow with **38%** owning a game console.
+* Ownership drops significantly for **Older Boomers** (57-65) at **19%**.
+* **Silent Generation** (66-74) are at **8%**, while **G.I. Generation** (75+) only have **3%** ownership.
+* Overall, **42%** of **all adults** surveyed own a game console.
+The data shows a clear trend of decreasing console ownership with increasing age. 

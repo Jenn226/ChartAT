@@ -1,0 +1,5 @@
+The chart presents the number of online activities done on a typical day by home broadband users in December 2005, categorized by rural, urban, and suburban areas. 
+* **Rural users** engaged in an average of **2.7** online activities.
+* **Urban users** averaged **2.8** online activities.
+* **Suburban users** also averaged **2.8** online activities. 
+The data suggests very little difference in the number of online activities undertaken by home broadband users across different geographical settings in December 2005. 

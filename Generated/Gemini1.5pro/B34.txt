@@ -1,0 +1,6 @@
+The bar chart shows the percentage of internet users as of April 2009 who engage in four different online activities:
+- 62% watch videos on video-sharing sites.
+- 46% use social networking sites.
+- 19% download podcasts (as of May 2008).
+- 11% use Twitter or share updates.
+The data comes from surveys conducted by the Pew Internet & American Life Project. 

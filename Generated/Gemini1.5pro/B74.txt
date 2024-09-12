@@ -1,0 +1,8 @@
+The chart segments the US adult population by their confidence in public health organizations to keep personal records safe from hackers or unauthorized users and shows the percentage in each segment that would engage in all three steps of the contact tracing process for the coronavirus.  The three steps are:
+1) Speaking with a public health official
+2) Sharing information about people they'd been in contact with and where they'd been
+3) Quarantining if advised to do so 
+70% of those that say they are very confident that public health organizations will keep their personal records safe will engage in all three steps of contact tracing.
+56% of those that say they are somewhat confident that public health organizations will keep their personal records safe will engage in all three steps of contact tracing.
+36% of those that say they are not too confident that public health organizations will keep their personal records safe will engage in all three steps of contact tracing.
+21% of those that say they are not at all confident that public health organizations will keep their personal records safe will engage in all three steps of contact tracing.

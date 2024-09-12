@@ -1,0 +1,5 @@
+The chart displays the percentage of South Koreans who held negative views of their country's political system in 2019 based on a Spring 2019 Global Attitudes Survey:
+* **68%** Were pessimistic about the way their political system works
+* **62%** Disagreed that most elected officials care what people like them think
+* **49%** Disagreed that the state is run for the benefit of the people
+* **44%** Were dissatisfied with Korean democracy 

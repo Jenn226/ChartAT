@@ -1,0 +1,3 @@
+The chart describes the percentage of people with access to high-speed internet based on where they live.
+- Rural areas have the lowest percentage of access at 35%.
+- Urban and suburban areas have nearly identical percentages of access at 49%.

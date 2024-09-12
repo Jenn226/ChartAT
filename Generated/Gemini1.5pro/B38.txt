@@ -1,0 +1,4 @@
+ The bar chart shows the number of online content types purchased by internet users. 
+The x-axis of the chart represents the number of online content types purchased, ranging from 1 to 14.
+The y-axis represents the percentage of internet users who purchased that number of online content types, ranging from 0% to 30%.
+The data shows that the most common number of online content types purchased is 1, with 25% of internet users reporting purchasing only one type of online content. The percentage of users decreases as the number of content types purchased increases, with only 0.4% of users reporting purchasing 14 different types of online content.

@@ -1,0 +1,8 @@
+This bar chart shows the different platforms that internet users used to post political commentary online in 2008. 
+Specifically:
+* **18%** of internet users posted political commentary on *any* of the listed platforms. 
+* **10%** posted on social networking sites. 
+* **9%** posted on websites that allow comments and discussion.
+* **8%** posted on blogs (either their own or someone else’s).
+* **8%** posted in online discussions, listservs, or other forums. 
+The data is from a Pew Internet & American Life project Post-Election Survey conducted in November-December 2008. 

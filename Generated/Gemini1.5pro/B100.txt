@@ -1,0 +1,15 @@
+This chart from the Pew Research Center illustrates the disparity in science knowledge among different racial and ethnic groups based on education levels. Here's a breakdown of the data:
+**College Degree or More:**
+* **Whites:** Achieve the highest average score of 9.3 out of 11 correct answers on a science knowledge quiz.
+* **Hispanics:** Score second highest with an average of 7.6 out of 11.
+* **Blacks:** Score the lowest in this category with an average of 5.6 out of 11.
+**Some College Education or Less:**
+* **Whites:** Again score highest with an average of 6.7 out of 11.
+* **Hispanics:** Score 4.7 out of 11, slightly higher than Blacks.
+* **Blacks:**  Have the lowest score in this category as well, averaging 3.2 out of 11.
+**Important Notes:**
+* These findings focus on comparing Whites, Blacks, and Hispanics, where Whites and Blacks specifically refer to non-Hispanic individuals.
+* Hispanics are categorized as any race. 
+* All questions were multiple choice. 
+**Key Takeaway:**
+This chart highlights that Whites consistently outperform Blacks and Hispanics on science knowledge assessments, regardless of education level.  

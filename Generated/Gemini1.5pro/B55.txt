@@ -1,0 +1,10 @@
+This is a bar chart illustrating the results of a Pew Research Center Internet Project Survey conducted January 9-12, 2014, of 1006 adults. 
+**The chart shows the percentage of adults who said specific technologies would be very hard or impossible to give up.**
+Here's the breakdown:
+* **Internet:** 46%
+* **Cell phone:** 44% 
+* **Television:** 35% 
+* **Email:** 34%
+* **Landline telephone:** 17%
+* **Social media:** 10%
+The chart indicates that the internet and cell phones were considered the hardest technologies to give up, while social media was seen as the easiest to give up. 

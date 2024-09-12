@@ -1,0 +1,4 @@
+The bar chart describes how many different types of online payment methods internet users utilize. 
+* A combined 66% of internet users report using only one type of online payment method.
+* 24% use two online payment methods.
+* Only 11% reported using three or more.

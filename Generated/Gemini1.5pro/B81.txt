@@ -1,0 +1,8 @@
+The chart presents data on the percentage of Venezuelans who say they trust their national government to do what is right for the country. 
+**Key takeaways:**
+* **Overall Trust:** Only 33% of Venezuelans trust their government.
+* **Age:** Trust is lowest among younger generations (27% for 18-29 year olds) and highest among those over 50 (41%).
+* **Education:** Those with less than a secondary education show more trust (38%) compared to those with secondary education or higher (29%).
+* **Political Affiliation:** Trust is strongly correlated with political affiliation.  71% of those who identify with the ruling PSUV party trust the government, compared to only 20% of those who don't.
+* **Economic Outlook:**  Trust in government is much higher among those who think the current economic situation is good (79%) compared to those who view it as bad (24%).
+**In summary,** the chart highlights the low levels of trust in the Venezuelan government, particularly among younger, more educated and politically opposed demographics.  The data suggests  trust is heavily influenced by political views and perceptions of the economy. 

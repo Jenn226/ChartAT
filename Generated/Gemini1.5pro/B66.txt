@@ -1,0 +1,13 @@
+A bar graph titled "Buddhists older than world's overall population" depicts the 2015 World median age by religion.
+Buddhists, at 36 years old, had the highest median age.
+Following Buddhists, in descending order of median age are:
+* Jews: 37 years old 
+* Unaffiliated: 36 years old 
+* Other religions: 34 years old 
+* Folk religions: 34 years old
+* Christians: 30 years old
+* Hindus: 27 years old
+* Muslims: 24 years old 
+The median age for all religions combined is 30 years old. 
+Source: Pew Research Center demographic projections. "The Changing Global Religious Landscape"
+PEW RESEARCH CENTER

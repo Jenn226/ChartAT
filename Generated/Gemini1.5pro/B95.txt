@@ -1,0 +1,14 @@
+The chart is a bar graph titled "Support for democratic principles". 
+* It shows the percentage of people from 34 countries who find it very important to have certain democratic principles in their country. 
+* The responses are ranked in descending order with the principle considered most important at the top.
+* A fair judiciary tops the list with 82% finding it very important.
+Following are the percentages for other principles in decreasing order of importance:
+* Gender equality- 74%
+* Free religion- 68%
+* Regular elections- 65%
+* Free speech-64%
+* Press freedom-64%
+* Freedom on the internet- 59%
+* Human rights groups can operate freely- 55%
+* Opposition parties can operate freely -54%
+Note that the percentages are medians based on 34 countries surveyed in The Spring 2019 Global Attitudes Survey. 

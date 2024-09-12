@@ -1,0 +1,7 @@
+This is a bar chart showing the percentage of US adults surveyed in 2019 who believe the federal government is doing too little to protect specific environmental concerns.
+* **Protecting water quality of lakes, rivers, and streams:** 68%
+* **Protecting air quality:** 67%
+* **Reducing the effects of global climate change:** 67%
+* **Protecting animals and their habitats:** 62%
+* **Protecting open lands in national parks and nature preserves:** 55%
+The chart highlights that a majority of Americans surveyed feel the government is not doing enough across these environmental protection areas. 

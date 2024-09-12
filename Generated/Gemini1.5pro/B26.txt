@@ -1,0 +1,11 @@
+This chart is a bar graph showing the relationship between different groups of people and how much they think information and communication technology helps make them more productive.  
+**Title:** Percent who say information & communication technology helps "a lot" in making them more productive. 
+**Categories along the horizontal axis (and their corresponding percentages):**
+* **All:** This likely represents the entire surveyed population. (33%)
+* **Omnivores:** This group may represent heavy users of technology. (72%)
+* **Connectors:** This group could be those who heavily utilize communication technology to connect with others (66%)
+* **Productivity Enhancers:** Individuals in this category likely view technology primarily as a productivity tool. (83%)
+* **Connected but Hassled:** This group might find technology useful for staying connected but also experience frustrations with it. (9%)
+* **Light But Satisfied:** This segment might represent those who use technology minimally but find it satisfactory for their needs. (1%)
+* **Indifferents:** People in this category are likely apathetic towards technology's impact on their productivity. (5%)
+**Key takeaway:** The chart reveals that those who see technology as a productivity enhancer ("Productivity Enhancers") find it most helpful in boosting their productivity. Conversely, groups like the "Indifferents" and those  "Connected but Hassled" derive less perceived productivity benefits. 

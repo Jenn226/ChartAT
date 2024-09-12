@@ -1,0 +1,8 @@
+The bar graph titled "About one-third of those ages 18 to 29 currently have student loan debt"  presents data concerning the percentages of adults in different age demographics who currently hold student loan debt. The data, which originates from a 2018 Pew Research Center analysis of a Federal Reserve Board survey, shows a clear correlation between age group and likelihood of having student loan debt. 
+Let's break down the findings:
+* **Ages 18-29:**  A substantial 34% of adults in this age group carry student loan debt, underscoring the prevalence of borrowing for education among young adults.
+* **Ages 30-44:** This group follows with 22%  reporting student loan debt, indicating that a significant portion of individuals in this age range may still be managing loans taken out earlier in life.
+* **All adults:** The average across all age groups stands at 15%, revealing that while student loan debt is most common among younger demographics, it still impacts a notable portion of the overall adult population.
+* **Ages 45-59:** This age bracket reports a lower percentage of individuals with student loan debt at 7%, suggesting they are more likely to have paid off loans acquired in their younger years.
+* **Ages 60+:** Only 1% of adults aged 60 and above hold student loan debt, indicating that educational loans are less common among older generations, likely due to different educational and financial trends prevalent during their time. 
+In conclusion, this data visualization effectively highlights the significant burden of student loan debt, particularly on younger generations. 

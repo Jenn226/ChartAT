@@ -1,0 +1,17 @@
+This is a bar chart illustrating the results of a survey of parents aged 18-49 about reasons they wouldn't have more children.  Here's a breakdown:
+**Question:**
+For parents who don't expect to have more children and have a reason other than simply not wanting more, what are those reasons?
+**Key Findings:**
+* **Medical reasons** are the most common response, cited by 41% of respondents.
+* **Age** is the second most common, with 25% of those surveyed citing it. 
+* Other reasons mentioned include:
+    * **Already having children** (9%)
+    * **Financial reasons** (6%)
+    * **Lack of a willing partner** (3%)
+    * **Other reasons** (6%) 
+**Important Notes:**
+* The chart does *not* show the percentage of respondents who didn't provide a reason.
+* Participants could provide up to three reasons.
+**Source and Date:** 
+* Pew Research Center survey of U.S. adults
+* Conducted July 30 - August 12, 2018 

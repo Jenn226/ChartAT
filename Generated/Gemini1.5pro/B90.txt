@@ -1,0 +1,10 @@
+The chart displays the percentage of people from different countries who believe that China plays a more important role in the world today than it did 10 years ago. 
+Here's the breakdown:
+- China: 70%
+- Russia: 42%
+- Germany: 35%
+- U.S.: 31%
+- India: 27%
+- France: 22%
+- UK: 21%
+The data is based on a Spring 2018 Global Attitudes Survey by the Pew Research Center and represents the median responses from 25 countries surveyed. 

@@ -1,0 +1,5 @@
+The bar graph titled "Number of online activities done on typical day" demonstrates the average number of online activities completed on a typical day in December 2005. Data is separated into three categories: rural, urban, and suburban.
+Rural users averaged close to 2 online activities daily (1.9).
+Urban users averaged 2.2 online activities daily, slightly higher than rural users.
+Suburban users also averaged 2.2 online activities daily, identical to urban users.
+While there's a slight difference between rural and urban/suburban users, the data highlights relatively similar engagement levels across all three groups during this period. 

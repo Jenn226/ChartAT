@@ -1,0 +1,7 @@
+The bar chart shows the percentage of adults in different generations who owned an electronic book device or e-Book reader in 2010.
+Specifically, it shows that:
+* 7% of Younger Boomers(47-56 years old) owned an electronic book device or e-Book reader, the highest percentage among all the groups.
+* 6% of Silent Gen (66-74 years old) owned an electronic book device or e-Book reader, followed by Younger Boomers.
+* 5% of Millennials (18-34 years old), Gen X (35-46 years old), and all adults owned an electronic book device or e-Book reader.
+* 3% of Older Boomers(57-65 years old) owned an electronic book device or e-Book reader.
+* 2% of G.I.Gen (75+ years old) owned an electronic book device or e-Book reader, the lowest percentage among all the groups.

@@ -1,0 +1,11 @@
+The bar chart shows the percentage of cell phone users in different age groups who use their cell phones as a "distraction device" while watching television.
+The age groups are plotted on the x-axis, ranging from 18-24 to 65+. The y-axis represents the percentage of cell phone users in each age group, ranging from 0% to 80%. 
+The data shows a clear trend: younger generations are more likely to use their phones during TV breaks. 
+Here's a breakdown:
+* **18-24:** 73% 
+* **25-34:** 56%
+* **35-44:** 45%
+* **45-54:** 27%
+* **55-64:** 16%
+* **65+:** 9% 
+The data is sourced from a Pew Research Center survey conducted in March-April 2012, with a sample size of 2,254 adults aged 18+. 

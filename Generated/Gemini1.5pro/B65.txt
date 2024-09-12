@@ -1,0 +1,5 @@
+The chart illustrates the percentage of American teenagers aged 12-17 who experienced at least one major depressive episode in 2017.  The data is broken down by gender:
+* **Girls:** 20%
+* **Boys:** 7%
+* **Total:** 13% 
+The key takeaway is that teenage girls are almost three times as likely to have experienced a major depressive episode than teenage boys. 
