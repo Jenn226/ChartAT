@@ -1,0 +1,7 @@
+The image is a pie chart from the Pew Research Center, depicting the percentage of U.S. adults who believe the actions of ordinary Americans influence the spread of COVID-19 in the United States. The chart shows four categories:
+1. **2%** say the actions of ordinary Americans affect the spread "Not at all."
+2. **10%** say they affect it "Not too much."
+3. **28%** say the actions have an "A fair amount" impact.
+4. **59%** say the actions have a "Great deal" impact.
+The colors on the chart represent these percentages visually, with the largest segment being the brown color indicating those who believe there's a "Great deal" impact.
+The note below the chart states that "No answer responses not shown," suggesting that the data only includes respondents who gave an explicit answer to the question. The source of this data is a survey conducted among U.S. adults from June 16-22, 2020.

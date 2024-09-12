@@ -1,0 +1,5 @@
+The chart is a pie graph that represents the percentage of U.S. adults who have ever spoken with or been interviewed by a local journalist. Here are the specifics:
+- **Yes**: 21% of U.S. adults have spoken with or been interviewed by a local journalist. This segment is represented by the maroon color in the pie chart.
+- **No**: A large majority, 78%, of U.S. adults have never spoken with or been interviewed by a local journalist. This segment is shown in the yellow color.
+- **No answer**: A small percentage, 1%, did not provide an answer to this question. This segment is depicted in gray.
+The source of the survey is mentioned as the Pew Research Center, and the survey was conducted from October 15 to November 8, 2018.

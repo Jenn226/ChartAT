@@ -1,0 +1,14 @@
+The image is a line graph from the Pew Research Center that depicts the percentage of Republicans and Democrats who have an unfavorable view of Iran from the year 2009 to 2020.
+- The x-axis represents the years, starting from 2009 on the left and ending with 2020 on the right.
+- The y-axis shows the percentage of people surveyed, ranging from 0% at the bottom to 100% at the top.
+- There are two lines on the graph: one red for Republicans/Lean Rep and one blue for Democrats/Lean Dem.
+The data points for each group over these years are as follows:
+- For Republicans/Lean Rep:
+- In 2009, it was 85%.
+- It decreased slightly in the following years and reached its lowest point at 77% in 2011.
+- Afterward, there was a gradual increase until it reached 85% again in 2013 and then remained steady until 2020 when it was 82%.
+- For Democrats/Lean Dem:
+- Starting at 73% in 2009, there was a more significant drop to 62% in 2011.
+- This number fluctuated between 62% and 70% till 2015 where it was 73%.
+- Post-2015, there was a consistent decline reaching 70% by 2020.
+Overall, both Republican and Democratic leaners showed a high level of unfavorability towards Iran throughout the period presented, with minor fluctuations but no clear trend of increasing or decreasing dislike.

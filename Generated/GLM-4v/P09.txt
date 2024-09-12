@@ -1,0 +1,7 @@
+The chart is a pie graph from the Pew Research Center, based on a survey of U.S. multiracial adults conducted between February 6 and April 6, 2015. It illustrates the percentage of Hispanic adults' self-identification regarding whether being Hispanic is part of their racial or ethnic background.
+The chart is divided into four categories:
+1. **Racial background** - 67% of Hispanic adults said being Hispanic was part of their racial background.
+2. **Ethnic background** - 19% said it was part of their ethnic background.
+3. **Don't know** - 13% indicated they did not know.
+4. There is also a small segment labeled "Both, racial and ethnic background," which is visually represented but does not have an accompanying percentage in the provided image description. However, we can infer that this category comprises the remaining percentage of respondents who see their Hispanic identity as encompassing both racial and ethnic aspects.
+The note at the bottom of the chart specifies that "Hispanic is based on self-identification of race or origin" and mentions that the figures may not add up to 100% due to rounding.

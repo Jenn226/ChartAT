@@ -1,0 +1,10 @@
+The image is a pie chart from the Pew Research Center that presents data on the percentage of U.S. gun deaths in 2017, broken down by type. Here's the specific content:
+- Title: "Suicides accounted for six-in-ten U.S. gun deaths in 2017"
+- Chart Type: Pie Chart
+- Data Breakdown:
+- Suicide: 60% (Shaded in Dark Green)
+- Murder: 37% (Shaded in Yellow)
+- Other: 3% (Shaded in Light Gray)
+- Note: The 'Other' category includes unintentional gun deaths, those involving law enforcement, or with undetermined circumstances.
+- Source: Centers for Disease Control and Prevention.
+The chart visually represents the distribution of U.S. gun deaths into three categories: suicide, murder, and other causes. It highlights that suicides constituted a significant majority at 60%, followed by murders at 37%, and other types of gun deaths accounting for only 3%.

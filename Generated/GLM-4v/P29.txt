@@ -1,0 +1,8 @@
+The chart is a pie graph that represents the opinions of U.S. adults regarding how COVID-19 has impacted journalists' reporting styles. The data is sourced from a survey conducted by the Pew Research Center between April 20-26, 2020.
+The chart shows four categories of responses:
+1. "A great deal" - This category indicates that 28% of respondents believe journalists have had to change their reporting style significantly due to the coronavirus outbreak.
+2. "Somewhat" - A larger group, comprising 43%, thinks journalists have changed somewhat in their reporting because of COVID-19.
+3. "Not much" - 19% of respondents feel that journalists haven't altered their reporting style very much because of the pandemic.
+4. "Not at all" - A smaller percentage, 9%, believes that journalists have not changed their reporting at all due to COVID-19.
+5. Additionally, 1% of respondents did not provide an answer.
+The colors on the chart correspond with each response category, making it visually easy to differentiate between the opinions.

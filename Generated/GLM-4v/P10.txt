@@ -1,0 +1,6 @@
+The image is a pie chart representing the results of a survey conducted by Pew Research Center in collaboration with The Washington Post. It shows the opinions of Democrats and Democratic-leaning independents on whether they would like to see other Democratic candidates challenge Barack Obama for the party's nomination for president in 2012.
+The chart is divided into three segments, each representing the percentage of respondents who answered "Yes," "No," and "Don't know" respectively:
+- **59%** indicated "No, do not challenge," which is represented by the darkest segment of the pie chart.
+- **32%** said "Yes, challenge Obama," shown in the medium-colored section.
+- **9%** were unsure or did not have an opinion, depicted by the lightest colored segment.
+Overall, the majority of respondents did not want to see other candidates challenge President Obama for the nomination.

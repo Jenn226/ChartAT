@@ -1,0 +1,18 @@
+The chart depicts the percentage of U.S. adults who believe that protecting the environment and dealing with global climate change should be a top priority for the president and Congress from the year 2008 to 2020.
+For 'Protecting the environment,' the percentages are as follows:
+- In 2008, it was 41%.
+- It increased in 2010 to 47%.
+- There was a slight decrease in 2012 to 49%.
+- A notable jump occurred in 2014 to 63%.
+- It remained steady at 62% in 2016.
+- There was a drop in 2018 to 56%.
+- And finally, there was an increase again in 2020 to 64%.
+For 'Dealing with global climate change,' the percentages are as follows:
+- In 2008, it started at 30%.
+- It saw a significant rise in 2010 to 37%.
+- It then decreased in 2012 to 29%.
+- A sharp increase occurred in 2014 to 67%, which is likely due to the way the question was asked in that year—half the sample was asked about "global warming," and 67% called it a top priority.
+- It dropped significantly in 2016 to 34%.
+- It rose again in 2018 to 46%.
+- And lastly, it slightly increased in 2020 to 52%.
+The data source is mentioned as a survey conducted by the Pew Research Center between January 8-13, 2020, titled "As Economic Concerns Recede, Environmental Protection Rises on the Public's Policy Agenda."

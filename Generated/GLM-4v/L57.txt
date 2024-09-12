@@ -1,0 +1,7 @@
+The image is a line graph from Pew Research Center depicting the range for the estimated number of unauthorized immigrants in millions living in Europe from 2014 to 2017. There are two lines on the graph: one representing the high estimate and the other the low estimate.
+- In 2014, the estimated number of unauthorized immigrants was between 3.0 million (low estimate) and 3.7 million (high estimate).
+- By 2015, this number increased to approximately 3.9 million (low estimate) to 4.9 million (high estimate).
+- In 2016, the estimate rose further to roughly 4.1 million (low estimate) to 5.3 million (high estimate).
+- Finally, by 2017, the number slightly decreased but remained high, with an estimated 3.9 million (low estimate) to 4.8 million (high estimate) of unauthorized immigrants in Europe.
+The estimates include unauthorized immigrants living in all European Union countries (28, including the UK) and four European Free Trade Association countries (Iceland, Liechtenstein, Norway, and Switzerland) combined. All numbers are rounded; see Methodology for rounding rules. The total number of unauthorized immigrants includes asylum seekers waiting for a decision on their case.
+The source of these estimates is cited as coming from Eurostat and European labor force survey data. The title of the report or article from which this chart is taken is "Europe’s Unauthorized Immigrant Population Peaks in 2016, Then Levels Off".

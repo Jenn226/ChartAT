@@ -1,0 +1,6 @@
+The image is a pie chart that represents the results of a survey conducted by The Pew Research Center's Internet & American Life Project Online Survey of Teachers, from March 7 to April 23, 2012. This chart specifically addresses the impact of today's digital technologies on teachers' ability to shape or improve student writing.
+The data is divided into three categories:
+- **50%** say it is **EASIER** for them to shape or improve student writing with the help of digital technologies.
+- **18%** find it **MORE DIFFICULT** to do so due to these technologies.
+- **31%** believe there is **NO IMPACT** on their ability, neither easier nor more difficult.
+It should be noted that this survey was based on a non-representative sample of 2,067 middle and high school teachers.

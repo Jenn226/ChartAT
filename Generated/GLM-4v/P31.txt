@@ -1,0 +1,5 @@
+The image is a pie chart that represents the percentage of Indian adults who are satisfied, not satisfied, or don't know about the way democracy is working in India. Here are the specifics:
+- **Satisfied**: 54% of respondents are satisfied with the way democracy is working in India. This group is represented by the green color on the pie chart.
+- **Not Satisfied**: 33% of respondents are not satisfied with the way democracy is working in India. This group is shown in blue.
+- **Don't Know**: 13% of respondents indicated they don't know if they are satisfied or not with the way democracy is working in India. This segment is depicted in gray.
+The source of this data is mentioned as the "Spring 2018 Global Attitudes Survey" conducted among Indian adults from May 23 to July 23, 2018. It is labeled as Q4 from the Pew Research Center.

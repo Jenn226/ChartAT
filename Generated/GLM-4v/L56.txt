@@ -1,0 +1,5 @@
+The image is a line graph from the Pew Research Center that depicts British views on the European Union (EU) from the year 2004 to 2020. There are two lines on the graph: one represents the percentage of Britons who have a favorable opinion of the EU, and the other represents the percentage who have an unfavorable opinion.
+The green line indicates the favorable view, which started at 54% in 2004, decreased slightly over the next few years, peaked at 51% in 2010, then fluctuated between 41% to 52% until it reached its highest point at 60% in 2020.
+The blue line indicates the unfavorable view, which began at 36% in 2004, increased steadily over time, reaching 50% in 2008, then decreased to 39% in 2010. It rose again and fell several times, ending at 37% in 2020.
+There's also a dashed vertical line marking "June 2016 EU membership referendum," suggesting that this event may have influenced the changes in public opinion observed after it.
+Additionally, there is a note at the bottom stating that those who did not answer are not shown in the data. The source of the survey is mentioned as the Summer 2020 Global Attitudes Survey conducted by Pew Research Center.

@@ -1,0 +1,7 @@
+The image is a pie chart from the Pew Research Center, based on a survey conducted between October 1-13, 2019, regarding "U.S. Public Views on Climate and Energy." It represents the percentage of U.S. adults who believe that global climate change is affecting their local community.
+The chart shows four categories:
+1. **A great deal** - 22% of U.S. adults say climate change is affecting their local community a great deal.
+2. **Some** - 39% indicate that it is having some impact.
+3. **Not too much/not at all** - 38% believe that climate change is not having a significant effect on their community.
+4. **No answer** - 1% did not provide an answer to this question.
+Overall, **62% of U.S. adults say climate change is affecting their local community at least some**, indicating a majority perception of climate change's influence on their surroundings.

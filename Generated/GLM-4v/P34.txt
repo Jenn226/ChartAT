@@ -1,0 +1,7 @@
+The image is a pie chart from the Pew Research Center, based on a survey of U.S. adults conducted between June 16-22, 2020. It illustrates the percentage of Americans who favor keeping spending on policing at current levels, increasing it, or decreasing it in their area.
+The chart shows four categories:
+1. "Increased" - 31% of respondents believe spending on policing should be increased a lot.
+2. "Decreased" - 25% think it should be decreased a lot.
+3. "Stay about the same" - 42% believe that spending on policing should remain approximately the same as it currently is.
+4. "A little" - 14% think spending on policing should be increased a little, and 11% believe it should be decreased a little.
+Additionally, the chart notes that no answer responses were shown in the data presented.

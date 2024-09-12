@@ -1,0 +1,8 @@
+The chart depicts the opinions of people from 2008 to 2012 on who they consider to be the world's leading economic power between the United States and China. Each year, a survey was conducted across 14 nations to gather this data.
+The horizontal axis represents the years, starting from 2008 at the left and ending in 2012 at the right. The vertical axis shows the percentage of respondents, ranging from 0% at the bottom to 60% at the top, with 20% marked as the midpoint for reference.
+Two lines are plotted on the graph: one in orange representing the United States and the other in blue representing China. These lines show the median percentage of each nation's population naming their respective country as the global economic leader over these years.
+- In 2008, 22% named the U.S. as the leading economic power, while 45% chose China.
+- By 2009, the percentages shifted slightly with 27% for the U.S. and 46% for China.
+- A more notable change occurred between 2010 and 2011 where the perception of the U.S. as the leading power increased to 36%, overtaking China which dropped to 35%.
+- In 2012, both countries were again tied with 36% naming them as the leading economic powers.
+Below the chart, there is a note crediting the source of the research as the Pew Research Center, along with the code "Q29" possibly referring to the question number used in the survey.

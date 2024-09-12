@@ -1,0 +1,6 @@
+The image is a line graph from the Pew Research Center that compares two metrics over time:
+1. **Confidence in U.S. President Obama**: This metric shows a decline over time, starting at 74% in 2016 and dropping to 64% by 2019.
+2. **Favorable views of the U.S.**: This metric fluctuates but generally remains above 50%. It starts at 53% in 2016, decreases to 49% in 2017, then increases to 51% in 2018, and finally rises slightly to 53% in 2019.
+3. **Confidence in U.S. President Trump**: This metric has the most significant drop, starting at 23% in 2017, rising to 28% in 2018, and further increasing to 31% in 2019.
+The horizontal axis represents years, from 2016 to 2019. The vertical axis represents percentages, with values ranging from 0 to 100%. A dashed vertical line is drawn at 50%, which could indicate a neutral or average level of confidence or favorability.
+Below the graph, there's a note stating that the percentages are medians based on surveys conducted in each year among 24 countries. The source mentioned is the "Spring 2019 Global Attitudes Survey" from Pew Research Center, specifically referencing questions Q8a & Q38a. Additionally, there's a brief commentary titled "Trump Ratings Remain Low Around Globe, While Views of U.S. Stay Mostly Favorable".

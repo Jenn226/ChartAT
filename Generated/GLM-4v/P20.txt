@@ -1,0 +1,5 @@
+The image is a pie chart representing data from a survey conducted by the Pew Research Center's Internet Project between July 18 and September 30, 2013. This chart specifically addresses the online habits of seniors, showing the percentage of seniors who:
+- Use online social networks (SNS): 27%
+- Go online but do not use SNS: 32%
+- Do not go online at all: 41%
+The chart visually represents these percentages with segments of a circle, where each segment's size corresponds to the percentage it represents. "Do not go online" takes up the largest portion at 41%, indicating that the majority of seniors surveyed do not use the internet. "Use SNS" is the smallest segment at 27%, suggesting that a quarter of seniors are engaged in online social networking. The middle segment, representing those who go online without using SNS, is 32%.

@@ -1,0 +1,6 @@
+The image is a pie chart from the Pew Research Center that represents Indian Americans' opinions on discrimination against them. It shows the percentage distribution among three categories:
+1. **Minor problem** - 48% of Indian Americans consider it a minor problem.
+2. **Not a problem** - 38% believe it is not a problem at all.
+3. **Major problem** - 10% perceive it as a major problem.
+4. **DK/Ref** - 4% are unsure or refuse to answer.
+The colors used in the chart are light beige for 'Minor problem', dark brown for 'Major problem', and a shade of orange for 'Not a problem'. The data suggests that a significant portion of Indian Americans view discrimination against them as either a minor issue or not a problem, while a smaller group sees it as a major concern.

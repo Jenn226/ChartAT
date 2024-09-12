@@ -1,0 +1,7 @@
+The chart is a line graph titled "Geosocial services over time." It depicts the percentage of smartphone owners and all adults who use their cell phones to use geosocial services such as Foursquare to check in at locations or share their location with friends. The data is presented for three different time periods: May 2011, February 2012, and May 2013.
+For smartphone owners, the usage statistics are as follows:
+- In May 2011, 12% used geosocial services.
+- There was an increase in usage to 18% by February 2012.
+- By May 2013, the usage slightly decreased back to 12%.
+For all adults, the usage started at 4% in May 2011, increased to 10% in February 2012, and then dropped significantly to 7% by May 2013.
+The source of this data is cited as the Pew Research Center's Internet & American Life Project tracking surveys conducted between April 26-May 22, 2011; January 20-February 19, 2012; and April 17-May 19, 2013. For the year 2011, n=2,277 adults ages 18 and older were surveyed. For 2012, n=2,253 adults were surveyed, and for 2013, n=2,252 adults participated in the survey. All surveys were conducted via landline and cell phone, in English and Spanish.

@@ -1,0 +1,6 @@
+The chart is a line graph titled "More Say They Graze for News." It depicts two trends over time, from 2002 to 2010. There are two lines on the graph: one in blue represents the percentage of people who get news at regular times, and the other in red represents the percentage of people who check on news from time to time.
+- In 2002, 49% of individuals got news at regular times, while 57% checked on news occasionally.
+- By 2004, the percentage of those getting news regularly increased to 52%, but there was a slight decrease to 50% by 2006. Meanwhile, the percentage of occasional checkers remained steady at 51%.
+- In 2008, the trend showed a decline in the percentage of regular news consumers to 45%, while the percentage of occasional checkers rose to 57%.
+- The most recent data point from 2010 indicates that only 38% of people get news at regular times, which is a significant drop from previous years. Conversely, the percentage of people checking news occasionally has risen to 57%.
+The source of this data is cited as the Pew Research Center, with the date mentioned being June 8-28, 2010, under Q91.

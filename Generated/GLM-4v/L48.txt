@@ -1,0 +1,12 @@
+The image is a line graph from the Pew Research Center depicting British public opinion on the European Union (EU) from the year 2004 to 2020. There are two lines on the graph: one representing the percentage of Britons who have a favorable view of the EU, and the other representing the percentage who have an unfavorable view.
+The data points for each year are as follows:
+- In 2004, 54% of Britons had a favorable view of the EU, while 36% had an unfavorable view.
+- By 2006, the favorability rate decreased slightly to 52%, and the unfavorability rate remained at 37%.
+- In 2008, both figures changed; the favorability rate dropped to 50%, and the unfavorability rate increased to 41%.
+- From 2010 to 2012, there was a fluctuation in opinions with favorability ranging between 49% and 51%, and unfavorability between 45% and 48%.
+- In 2014, the favorability rate rose to 52%, and the unfavorability rate fell to 41%.
+- The following year saw a decrease in favorability to 48%, while unfavorability increased to 44%.
+- In 2016, just before the June EU membership referendum, the favorability rate was at its highest point, standing at 54%, and the unfavorability rate was at 48%.
+- Post-referendum, there was a notable shift; favorability dropped sharply to 40% in 2018, while unfavorability jumped to 54%.
+- In 2020, there was a slight recovery in favorability to 54%, but unfavorability also rose to 60%.
+The vertical dashed line indicates the time of the June 2016 EU membership referendum. The source of this data is cited as the Summer 2020 Global Attitudes Survey conducted by Pew Research Center.

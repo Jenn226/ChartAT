@@ -1,0 +1,8 @@
+The chart is a bar graph from the Pew Research Center that presents data on the experiences of LGBT individuals when telling their mothers and fathers about their sexual orientation or gender identity.
+For telling their mother, the chart shows:
+- 40% of all LGBT individuals found it not difficult to tell their mother.
+- 59% found it difficult to tell their mother.
+For telling their father, the chart shows:
+- 34% of all LGBT individuals found it not difficult to tell their father.
+- 65% found it difficult to tell their father.
+The chart uses two different shades of green for the bars representing "not difficult" and "difficult," respectively. It also includes a note at the bottom which explains that the results are based on those who have told their mother/father about their sexual orientation or gender identity. The sample sizes mentioned are: for mothers, all LGBT n=648; for fathers, all LGBT n=435. Additionally, the chart notes that the responses from individuals who did not answer the questions are not shown.

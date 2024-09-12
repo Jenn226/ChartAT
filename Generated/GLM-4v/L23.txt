@@ -1,0 +1,7 @@
+The chart depicts the immigrant share of the U.S. population approaching a historic high, specifically focusing on the percentage of the U.S. population that is foreign born over time.
+The x-axis represents years ranging from 1850 to 2017, with each decade marked by a horizontal line. The y-axis shows the percentage of the foreign-born population in the U.S., starting at 0% and going up to 16%.
+The brown line on the chart indicates the trend of the immigrant share of the population. It starts at approximately 9.7% in 1850, peaks around 14.8% in the late 19th century, then experiences fluctuations but generally trends upward until it reaches about 13.6% in 2017.
+Two significant points are highlighted on the chart:
+1. In 1924, the National Origins Quota Act is passed, which is indicated by a vertical line and an annotation pointing upwards, suggesting this act may have had an impact on immigration rates.
+2. In 1965, the Immigration and Nationality Act is passed, also marked with a vertical line and annotation, indicating another pivotal moment for immigration policy changes.
+Below the chart, there's a note stating that the "Share foreign born is for the 50 states and District of Columbia." Additionally, the source of the data is cited as the U.S. Census Bureau's "Historical Census Statistics on the Foreign-Born Population of the United States: 1850-2000" and Pew Research Center. The chart is credited to the Pew Research Center.

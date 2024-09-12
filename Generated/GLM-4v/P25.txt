@@ -1,0 +1,12 @@
+The chart is a pie graph that represents the percentage distribution of employment loss in the U.S. from February to March 2020, categorized by whether the jobs could be done remotely or not.
+Here are the details:
+- **Title**: "First wave of employment loss in COVID-19 crisis was mostly from jobs that may not be done remotely"
+- **Subtitle**: "% of loss in U.S. employment from February to March 2020 from jobs that potentially ..."
+- **Colors Represented**:
+- Light brown/beige color: Jobs that "could be teleworked"
+- Dark brown color: Jobs that "could not be teleworked"
+- **Percentage Distribution**:
+- 10% of the lost jobs were jobs that could be teleworked.
+- 90% of the lost jobs were jobs that could not be teleworked.
+- **Total Employment Loss**: 2.9 million jobs.
+The bottom part of the image includes a note stating that the estimates refer to employed workers ages 16 and older, nonseasonally adjusted. It also credits the source as the Pew Research Center analysis of Current Population Survey data. Lastly, there's a mention of the Pew Research Center at the bottom.

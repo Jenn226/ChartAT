@@ -1,0 +1,25 @@
+The chart depicts the growth in tablet ownership among American adults aged 18 and older from May 2010 to May 2013. It's a line graph that shows the percentage of individuals who own a tablet computer over this period.
+The x-axis represents time, marked by specific dates:
+- May-10
+- Sep-10
+- Nov-10
+- Jan-11
+- May-11
+- Aug-11
+- Feb-12
+- Apr-12
+- Aug-12
+- May-13
+The y-axis indicates the percentage of tablet owners, ranging from 0% at the bottom to 40% at the top.
+The blue line on the graph steadily rises from left to right, indicating an increasing trend in tablet ownership. Specifically, the percentages are as follows:
+- May 2010: 3%
+- September 2010: 4%
+- November 2010: 5%
+- January 2011: 7%
+- May 2011: 8%
+- August 2011: 10%
+- February 2012: 14%
+- April 2012: 18%
+- August 2012: 25%
+- May 2013: 34%
+At the bottom of the image, there is a source citation that reads: "Source: Pew Research Center’s Internet & American Life Project tracking surveys, May 2010 – May 2013. May 2013 data is from the Pew Research Center’s Internet & American Life Project’s April 17-May 19, 2013 Tracking Survey of 2,252 adults ages 18 and older. Interviews were conducted in English and Spanish and on landline and cell phones. The margin of error on the sample is +/- 2.3 percentage points."

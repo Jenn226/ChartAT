@@ -1,0 +1,9 @@
+The image is a pie chart that represents data from a survey conducted by the Pew Research Center between September 4 and October 1, 2018, on Facebook users' ad preferences. It shows the percentage of U.S. adult Facebook users with various numbers of categories listed on their 'ad preferences' page.
+Here are the specifics:
+- **Not assigned to a category**: 11%
+- **Did not give an answer**: 2%
+- **21+ categories**: 33%
+- **10 to 20 categories**: 27%
+- **Fewer than 10 categories**: 27%
+The colors on the chart correspond to these categories, with each color representing a different range of category counts. The largest segment, which has the highest percentage of users, is represented in light blue and indicates those with 21 or more categories listed. The second-largest segment, in dark blue, includes users with 10 to 20 categories. Users with fewer than 10 categories are shown in navy blue, while those not assigned to a category are in gray. Lastly, the smallest segment, also in gray, represents those who did not provide an answer to the question.
+The source of this information is cited as "Survey of Facebook users conducted Sept. 4-Oct. 1, 2018. ‘Facebook Algorithms and Personal Data’" at the bottom of the image.

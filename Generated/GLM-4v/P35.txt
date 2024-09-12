@@ -1,0 +1,8 @@
+The image is a pie chart from the Pew Research Center, based on a survey of U.S. adults conducted between June 16-22, 2020. It represents the percentage of people who believe the 2020 census will be successful in accurately counting the number of people living in the United States.
+The chart is divided into four categories:
+1. "Somewhat successful" - This category comprises 60% of the respondents and is represented by the largest segment of the pie chart, colored in dark green.
+2. "Not too successful" - accounting for 26% of the responses, this section is shown in a light yellow color.
+3. "Very successful" - Only 8% of those surveyed believe the census will be very successful, depicted in a teal shade.
+4. "Not at all successful" - A minority, 5%, think the census will not be successful at all, indicated by a small segment in mustard yellow.
+5. There is also a category labeled "No answer," which includes 1% of the respondents, represented by a tiny sliver of grey in the chart.
+Overall, the majority of the respondents expect the census to be somewhat successful in its population count.

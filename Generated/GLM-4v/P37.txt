@@ -1,0 +1,6 @@
+The image is a pie chart representing the results of a survey conducted by the Pew Research Center from January 7-21, 2019, on the topic "Trust and Mistrust in Americans' Views of Scientific Experts." The chart displays the percentage of U.S. adults who believe scientists should take different actions regarding public policy debates about scientific issues.
+The data is divided into two main categories:
+1. **39%** of respondents believe that scientists should focus on establishing sound scientific facts.
+2. **60%** think that scientists should take an active role in policy debates.
+There is also a small segment labeled "No answer" which accounts for **1%** of the total responses.
+The colors blue and green are used to represent the two main categories, with blue indicating those who believe scientists should be actively involved in policy debates and green representing those who prioritize focusing on factual science.

@@ -1,0 +1,15 @@
+The chart is a line graph from Google Trends depicting the relative U.S. search volume for different generations over time. The generations represented are: iGeneration, Post-Millennials, and Generation Z. The vertical axis represents the search volume with values ranging from 0 to 80, while the horizontal axis represents the years from 2014 to 2018.
+Here's the step by step description of each generation's performance on the chart:
+1. **iGeneration** (shown in yellow):
+- Starting at a very low base around 2014, there is almost no search volume for this term.
+- Throughout the years, the search volume remains consistently low, hovering just above 1 up until 2017.
+- In 2018, there is a slight increase to 3 searches per week on average.
+2. **Post-Millennials** (shown in grey):
+- This term starts with a search volume of 1 in 2014 and maintains that level through to 2016.
+- There is a slight dip to 0 searches in 2017 before rising back to 1 in 2018.
+3. **Generation Z** (shown in green):
+- The term starts with a search volume of 3 in 2014, indicating some initial interest.
+- There is a steady increase each year, reaching 10 searches in 2015, 20 searches in 2016, and then a significant jump to 27 searches in 2017.
+- In 2018, there is an even larger spike, showing the highest search volume among all terms at 63 searches per week on average.
+The chart suggests that Generation Z has a growing interest or relevance as the subject of online searches compared to the other two generations, which have relatively stable and low search volumes.
+Additionally, the note below the chart provides context about how Google Trends data is collected and averaged, clarifying that these values do not reflect absolute numbers of searches but rather a relative measure based on weekly query volume.

@@ -1,0 +1,7 @@
+The image is a line graph that represents the positive views of the U.S. economy among Republicans and Democrats from the year 2007 to 2017. The title indicates that there was a notable increase in positive views among Republicans in 2017.
+The x-axis of the graph shows the years, starting from 2007 on the left and ending at 2017 on the right. Each year is marked with a point on the line corresponding to the percentage of each group who believe the current economic situation in their country is good.
+The y-axis represents the percentage of respondents, ranging from 0% at the bottom to 100% at the top.
+Two lines are plotted on the graph: one in red representing the percentage of Republicans and another in blue representing the percentage of Democrats.
+- For Republicans, the graph starts at 70% in 2007, drops sharply to 43% in 2009, then rises gradually to reach 60% by 2015 before dropping slightly to 57% in 2017.
+- For Democrats, the graph begins at 43% in 2007, falls significantly to 11% in 2009, then increases steadily over the following years, reaching 61% in 2017.
+Below the graph, the source of the data is cited as the "Spring 2017 Global Attitudes Survey" conducted by the Pew Research Center.

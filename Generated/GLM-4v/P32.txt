@@ -1,0 +1,8 @@
+The chart is a pie graph representing the reading habits of U.S. adults over the previous 12 months. It shows the percentage of people who read only print books, those who read both print and digital books, those who read only digital books, and those who did not read any books at all.
+Here are the specifics:
+- 37% of U.S. adults say they have read only print books in the past year. This segment is represented by the dark blue area on the pie chart.
+- 28% have read both print and digital books. This category, shown in the tan section, includes individuals who read e-books and audiobooks along with traditional printed books.
+- 7% have read only digital books. This group, depicted in light gray, consumes their literature exclusively in electronic formats.
+- 27% of U.S. adults reported not reading any books within the last year. This is illustrated by the white portion of the pie chart.
+- Lastly, 1% either don't know or refused to answer this question. This small segment is indicated by the very top slice of the chart that barely touches the circumference.
+The note below the chart clarifies that the "digital books" category encompasses both e-books and audiobooks. The source of the survey is cited as the Pew Research Center, and it was conducted from January 8 to February 7, 2019.

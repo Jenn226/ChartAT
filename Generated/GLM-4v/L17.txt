@@ -1,0 +1,9 @@
+The chart depicts the Latino share of the U.S. electorate from the year 2000 to a projected value in 2020. It is a line graph with the percentage of U.S. eligible voters who are Latino on the y-axis and the years on the x-axis.
+The data points shown on the graph are as follows:
+- In 2000, the Latino share was 7.4%
+- It increased to 9.2% by 2004
+- Then rose to 10.7% by 2008
+- By 2012, it climbed further to 11.9%
+- In 2016, it reached 12.8%
+- And the projection for 2020 indicates it will reach 13.3%.
+The source of this information is cited as the Pew Research Center, which based its analysis on the American Community Survey from 2018, 2012, and 2008, and the Decennial Census from 2000. The projections for 2020 were made using population projections from the U.S. Census Bureau in 2017.

@@ -1,0 +1,6 @@
+The chart is a pie graph from the Pew Research Center, depicting the percentage of Americans who have heard or read different amounts about QAnon. Here's the breakdown:
+- 76% of Americans say they have heard "Nothing at all" about QAnon. This is represented by the largest segment of the pie chart in mustard yellow.
+- 20% of Americans say they have heard "A little" about QAnon. This is shown in a smaller segment of maroon color.
+- 3% of Americans claim to have heard "A lot" about QAnon. This is indicated by a tiny segment in dark purple.
+- 2% of respondents answered with "No answer". This is represented by the smallest segment in gray.
+Note: The totals may not sum to 100% due to rounding. The source of this data is a survey of U.S. adults conducted between February 18 and March 2, 2020.

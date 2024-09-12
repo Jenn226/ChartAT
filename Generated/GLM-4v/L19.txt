@@ -1,0 +1,11 @@
+The chart depicts the total number of unauthorized immigrants in the U.S. from the year 1990 to 2017, measured in millions.
+The data points are as follows:
+- In 1990, there were approximately 3.5 million unauthorized immigrants.
+- By 1995, this number had risen to about 5.7 million.
+- Around the year 2000, the population reached roughly 8.6 million.
+- There was a significant increase between 2000 and 2005, bringing the total to approximately 10.7 million.
+- In 2005, the number peaked at 12.2 million.
+- From 2005 onwards, there was a gradual decline until 2010, where the count stood at about 11.4 million.
+- The numbers then fluctuate slightly over the next few years, with a slight drop to 11.0 million in 2015 and a further decrease to 10.5 million in 2017.
+Additionally, the shading on the chart represents the range of an estimated 90% confidence interval for these figures, indicating variability and uncertainty in the estimates.
+The source of the data is cited as the Pew Research Center, which bases its estimates on augmented U.S. Census Bureau data.

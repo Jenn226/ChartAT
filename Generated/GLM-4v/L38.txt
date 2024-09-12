@@ -1,0 +1,10 @@
+The chart depicts the percentage of eligible voters who say they voted in midterm election years from 1998 to 2018, broken down by gender. It is presented as a line graph with two lines - one representing men and the other women.
+Here are the step-by-step observations:
+1. For each year listed on the x-axis (1998, 2002, 2006, 2010, 2014, 2018), there are two data points showing the percentage for men and women.
+2. The y-axis shows the percentage of eligible voters ranging from 35% at the bottom to 55% at the top.
+3. In 1998, both men and women had similar voting rates, with men at 44.9% and women slightly higher at 45.7%.
+4. Between 2002 and 2006, there was a decrease in the voting rate for men but an increase for women, with men at 44.9% and women rising to 47.9%.
+5. From 2006 to 2010, the trend reversed with men's voting rate increasing to 45.7%, while women's rate decreased slightly to 45.0%.
+6. In 2014, the voting rate for men dropped significantly to 40.8%, while women's rate remained relatively stable at 43.0%.
+7. By 2018, there was a notable surge in women's voting rate to 51.8%, surpassing men's rate which increased to 55.0%.
+The source of this data is cited as the Pew Research Center analysis of the Current Population Survey, November Supplements, from 1998 to 2018. The note below the chart specifies that eligible voters are U.S. citizens ages 18 and older and that the data is not adjusted to administrative voting records.

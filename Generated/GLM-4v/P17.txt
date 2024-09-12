@@ -1,0 +1,10 @@
+The image is a pie chart that represents the results of a survey conducted by the Pew Research Center in collaboration with the Washington Post from April 28 to May 1, 2011. The question posed was "What Is the Main Reason Gas Prices Have Gone Up Recently?"
+The chart is divided into six segments, each representing a different reason given by respondents for the increase in gas prices:
+1. **Greed/Oil companies/Speculation** - 31%
+2. **Wars/Mideast unrest** - 19%
+3. **Politics/Policy** - 14%
+4. **Economic forces** - 12%
+5. **Other reasons** - 10%
+6. **No opinion** - 14%
+The colors of the segments are varied, with each corresponding to a different percentage of responses. The largest segment, representing 'Greed/Oil companies/Speculation,' is colored dark blue, while the smallest segment, 'No opinion,' is in tan. The other segments are in varying shades of light blue and gray.
+At the bottom of the image, there's a note crediting the source of the data and the dates of the survey.

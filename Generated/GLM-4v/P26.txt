@@ -1,0 +1,6 @@
+The image is a pie chart that represents the results of a survey asking the question, "Would you continue to use your favorite site if there was a pay wall?"
+The chart is divided into three segments representing the responses:
+- A grey segment labeled "Would find somewhere else" which constitutes 82% of the respondents.
+- A light blue segment labeled "Do not know" which makes up 3%.
+- A dark blue segment labeled "Would continue to use it" accounting for 15% of the respondents.
+At the bottom right corner of the image, there's a logo for "Pew Internet," followed by "Pew Research Center’s Internet & American Life Project." This indicates that the data comes from a study conducted by Pew Research, a well-known organization known for its public opinion polling and demographic research.

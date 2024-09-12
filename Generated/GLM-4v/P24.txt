@@ -1,0 +1,6 @@
+The image is a pie chart displaying the results of a survey conducted by the Pew Research Center among U.S. adults between February 18 and March 2, 2020. The chart's title reads "Majority of Americans say news organizations don’t understand them." It represents the percentage of U.S. adults who believe news organizations either "Understand people like them" or "Don’t understand people like them."
+The data is segmented into three parts:
+- 59% of respondents feel that news organizations do not understand people like themselves. This portion of the chart is shaded in yellow.
+- 37% believe that news organizations do understand people like themselves. This section is colored in maroon.
+- 4% did not answer or were unsure, depicted in gray within the chart.
+At the bottom of the image, there is a source citation attributing the research to the Pew Research Center.

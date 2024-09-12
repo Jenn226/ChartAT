@@ -1,0 +1,18 @@
+The image is a line graph from the Pew Research Center depicting total deportations by Mexico's immigration authorities through the first seven months (October-April) of fiscal years 2002-2019.
+Here are the specifics:
+- **Y-Axis**: Represents the number of deportations, with values ranging from approximately 30,000 to 150,000.
+- **X-Axis**: Indicates the fiscal years, starting from 2002 on the left and ending with 2019 on the right.
+- **Data Points**: Each point on the line corresponds to a fiscal year and shows the number of deportations for that period.
+- 2002: 50,000 deportations
+- 2004: 135,000 deportations
+- 2006: Approximately 130,000 deportations (exact value not visible on the chart)
+- 2008: 33,000 deportations
+- 2010: Approximately 30,000 deportations (exact value not visible on the chart)
+- 2012: 93,000 deportations
+- 2014: Approximately 75,000 deportations (exact value not visible on the chart)
+- 2016: 60,000 deportations
+- 2018: 67,000 deportations
+- 2019: Less than 67,000 deportations (exact value not visible on the chart)
+- **Note at the Bottom**: States that deportations are rounded to the nearest thousand and data for April 2019 does not include 1,061 cases that are being reviewed.
+- **Source**: The data comes from an analysis of Mexican government data (SEGOB) by the Pew Research Center.
+The trend shown in the graph indicates fluctuations over the years, with the highest numbers observed around 2004 and the lowest around 2008. It also suggests that up until 2019, deportation numbers had not reached the highs seen in previous years.

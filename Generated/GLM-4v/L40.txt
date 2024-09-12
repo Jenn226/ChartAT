@@ -1,0 +1,11 @@
+The chart depicts the growth of the U.S. Hispanic population from 1970 to 2019. It is a line graph with the population figures represented in millions.
+The x-axis shows the years, starting from 1970 on the left and ending at 2019 on the right. The y-axis represents the population size in millions.
+The brown line on the graph indicates the increasing number of Hispanics each decade. Here are the population figures for each decade:
+- In 1970, the Hispanic population was 9.6 million.
+- By 1980, it had grown to 14.5 million.
+- In 1990, the population rose further to 22.6 million.
+- By 2000, it reached 35.7 million.
+- In 2010, the Hispanic population stood at 50.7 million.
+- And by 2019, it had increased to 60.6 million.
+Notably, the chart includes a note stating that the population estimates for 1990-2019 are as of July 1 for each year. Additionally, it clarifies that Hispanics are of any race.
+The source of the data is cited as the Pew Research Center's analysis of various demographic reports, including decennial censuses, intercensal population estimates, and vintage 2019 estimates from the U.S. Census Bureau.

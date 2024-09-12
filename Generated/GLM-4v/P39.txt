@@ -1,0 +1,5 @@
+The chart is a pie graph from the Pew Research Center that depicts the awareness and usage of the term "Latinx" among U.S. Latino adults.
+1. **Percentage of U.S. Latino Adults Who Have Heard of Latinx:** 76% of the respondents have not heard of the term Latinx. This is represented by the largest segment of the pie, covering almost the entire circle.
+2. **Percentage of U.S. Latino Adults Who Use Latinx:** Only 3% of the respondents use the term Latinx. This is shown as a small sliver on the right side of the chart.
+3. **Percentage of U.S. Latino Adults Who Do Not Use Latinx:** 20% of the respondents do not use the term Latinx. This is illustrated by a smaller section towards the left side of the chart.
+The note at the bottom indicates that no answer responses were not shown in the chart. The source of the data is a survey conducted by Pew Research Center from December 3-23, 2019. The title of the report is "About One-in-Four U.S. Hispanics Have Heard of Latinx, but Just 3% Use It."

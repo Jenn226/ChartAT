@@ -1,0 +1,7 @@
+The image is a pie chart representing the views of Palestinians on the best way to achieve statehood. The chart is divided into five different colored sections, each corresponding to a particular view:
+1. **Armed struggle**: This section is brown and represents 45% of the total viewpoints, indicating that a significant portion of Palestinians believe in pursuing statehood through armed means.
+2. **Negotiations**: This section is orange and accounts for 15% of the views, showing that another significant group believes in achieving statehood through diplomatic negotiations.
+3. **Nonviolent resistance**: Also in orange, this segment constitutes 15% of the views and suggests that an equal proportion of Palestinians support non-violent methods to attain statehood.
+4. **A combination (Volunteered)**: This light peach-colored segment comprises 22% of the views, implying that many Palestinians believe in using a combination of both violent and non-violent means.
+5. **Don't Know (DK)**: Represented by white color, this smallest segment indicates that 3% of respondents are unsure or do not have a definite opinion on the matter.
+The source of the data is cited as the Pew Research Center at the bottom left corner of the image.

@@ -1,0 +1,14 @@
+The chart depicts the percentage of the foreign-born population in the U.S., ages 5 and older, who are English proficient from the year 1980 to 2018. It is a line graph with data points at each decade mark. Here's a step-by-step description:
+1. **Title**: "Half of immigrants in U.S. are English proficient as of 2018"
+2. **Y-Axis**: Percentage of the foreign-born population aged 5 and over who are English proficient.
+3. **X-Axis**: Years represented by decades from 1980 to 2018.
+4. **Data Points**:
+- 1980: 57%
+- 1990: 53%
+- 2000: 49%
+- 2010: 48%
+- 2018: 53%
+5. **Trend**: There is a fluctuation in the percentage over time. English proficiency decreases from 1980 to 2000, then increases slightly in 2010 but drops again in 2018 before rising back to 53% in 2018.
+6. **Note**: Below the graph, there is a clarification on what it means to be English proficient. It states that English proficient individuals either speak only English at home or, if they speak a non-English language at home, they indicate they can speak English at least “very well.”
+7. **Source**: The data comes from Pew Research Center tabulations of 1980-2000 decennial censuses and 2010, 2013-2018 American Community Surveys (IPUMS).
+8. **Citation**: At the bottom left corner, it mentions the source as "PEW RESEARCH CENTER."

@@ -1,0 +1,12 @@
+The chart is a pie graph displaying the percentage of immigrants ages 5 and older who speak various languages at home. The data is segmented into different colored areas, each representing a different language or category:
+1. English only - 17% (brown color)
+2. Spanish - 42% (orange color)
+3. Chinese - 6% (light pink color)
+4. Hindi - 5% (dark pink color)
+5. Filipino/Tagalog - 4% (yellow color)
+6. French - 3% (greenish-gray color)
+7. Vietnamese - 3% (yellow-golden color)
+8. Dravidian - 2% (very light green color)
+9. Arabic - 2% (blue-gray color)
+10. All other languages combined - 17% (gray color)
+The largest segment represents those who speak Spanish at home, making it the most common language among the listed options for this demographic.

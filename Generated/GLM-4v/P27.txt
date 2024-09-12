@@ -1,0 +1,6 @@
+The image is a pie chart displaying the results of a survey conducted by the Pew Research Center among Nigerian adults from June 25 to July 30, 2018, in Quarter 4. The question posed was: "How satisfied are you with the way democracy is working in our country?"
+The chart shows three categories of respondents:
+- 60% of respondents indicated they are 'Not satisfied' with how democracy is working in Nigeria. This segment is represented by the dark blue color of the pie chart.
+- 39% said they are 'Satisfied,' depicted in light green.
+- 1% were unsure or did not know their answer, shown in white.
+Overall, the majority of those surveyed expressed dissatisfaction with Nigeria's democratic system as it currently functions.
