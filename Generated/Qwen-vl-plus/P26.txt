@@ -1,0 +1,6 @@
+The pie chart presents data on people's preferences regarding their usage of favorite sites in case they encounter paywalls, which is an obstacle that requires payment for accessing certain online services or resources.
+According to this graph:
+- A majority (82%) would find somewhere else if there was a pay wall.
+- Only about one-fifth (15%) would continue using it despite encountering such barriers.
+- The remaining three percent indicated uncertainty by selecting "Do not know."
+This information suggests that most individuals prefer alternative sources when faced with paywall restrictions and may be less likely to remain loyal users under these circumstances. However, some still choose to stay engaged even though access might become limited due to financial requirements.

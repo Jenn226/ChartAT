@@ -1,0 +1,8 @@
+The pie chart presents data on how often Twitter users check for material posted by others, with each segment representing different frequency ranges:
+- "Several times a day" accounts for 24%.
+- "Once a day" represents another 20%.
+- The next two segments, both labeled as "1-2 days per week," account for 36%, but it's not clear if this is combined or split between them.
+- "Every few weeks" makes up 5%.
+- "Less often" and "Never" together represent an additional 7%.
+These percentages add to more than 100%, which might be due to overlapping categories (e.g., people who check several times daily also checking once a day). However, without further information about these overlaps, we can't accurately determine their exact contribution.
+It should be noted that there seems to be some inconsistency in the labeling of certain sections; specifically, the second section from left appears twice under slightly different labels ("Once a day" vs. "1-2 days per week"). This could lead to confusion when interpreting the results.

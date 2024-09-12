@@ -1,0 +1,5 @@
+The image presents an intriguing line graph titled "More Say They Graze for News". The x-axis, labeled as "Years", spans from 2002 to 2010 in increments of two years. On the y-axis, marked with percentages ranging from zero to seventy, lies the response rate.
+Two distinct lines crisscross this graph, each representing different methods of news consumption.
+Starting on the left side of the graph and moving towards the right, we see one red line that represents people who check their news at random intervals or 'graze' for it. This trend shows a slight increase over time, reaching its peak around 57% by 2010.
+Parallelly, another blue line tracks those individuals who consume news regularly. Interestingly, while both these groups show similar trends initially, they diverge after 2006. While the red line continues to rise gradually, the blue line experiences a sharp decline before stabilizing slightly lower than where it started.
+This data suggests a shift in how people access information - more now prefer grazing for news rather than consuming it consistently. However, further analysis would be required to understand why such changes might have occurred.

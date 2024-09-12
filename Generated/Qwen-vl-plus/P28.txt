@@ -1,0 +1,10 @@
+The image presents a pie graph titled "Most Americans say they've heard nothing at all about QAnon". The graph is divided into five sections, each representing a different percentage of people who have heard or read something about QAnon.
+- A large section in gold represents those who said that they had not heard anything at all (76%).
+- Two smaller sections in gray represent those who answered 'No answer' and did not provide any information.
+- One small section in pink indicates that three respondents replied with 'A lot'.
+- Another small section in purple shows that two individuals responded with 'A little'.
+At the bottom of the graphic, there's additional text providing context to the data:
+"Note: Totals may not sum to 100% due to rounding."
+"Source: Survey of U.S. adults conducted Feb. 18-March 2, 2020."
+"Pew Research Center"
+This summary provides an overview of how many American adults were surveyed regarding their knowledge on QAnon during February and March 2020 by Pew Research Center. It highlights that most participants reported having no awareness of this topic.

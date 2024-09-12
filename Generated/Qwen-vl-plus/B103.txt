@@ -1,0 +1,12 @@
+The image is a bar graph titled "Most Say It Was Hard to Tell Parents". The x-axis represents different categories, while the y-axis shows percentages indicating how difficult it was for individuals from all LGBT groups to tell their parents about their sexual orientation or gender identity.
+There are two sets of bars in this graph:
+- Telling mother:
+- All LGBT group (n=648):
+* Not Difficult = 40%
+* Difficult = 59%
+- Telling father:
+- All LGBT group (n=435):
+* Not Difficult = 34%
+* Difficult = 65%
+
+It's important to note that those who didn't answer these questions were not included in the data presented here. This information comes from PEW Research Center and provides an insight into the challenges faced by members of the LGBTQ+ community when coming out to their family members.
