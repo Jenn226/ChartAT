@@ -1,0 +1,9 @@
+The chart shows the distribution of responses from a survey of U.S. adults regarding their preferences for spending on policing in their area. The survey was conducted by the Pew Research Center from June 16-22, 2020. The chart provides percentages for each category of spending preference:
+- 42% of respondents believe that spending on policing should "stay about the same."
+- 31% of respondents think that spending should be increased, with:
+- 11% saying it should be increased "a lot"
+- 20% saying it should be increased "a little"
+- 25% of respondents feel that spending should be decreased, with:
+- 12% saying it should be decreased "a lot"
+- 14% saying it should be decreased "a little"
+The chart uses different colors to visually differentiate the various categories. Note that responses categorized as "no answer" were not included in the data presented.

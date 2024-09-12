@@ -1,0 +1,10 @@
+The chart illustrates the percentage of loss in U.S. employment from February to March 2020, breaking it down by jobs that could potentially be teleworked versus those that could not during the first wave of the COVID-19 crisis.
+Key content includes:
+- The title stating that most of the employment loss was from jobs that may not be done remotely.
+- A pie chart depicting:
+- 90% of the job losses were from positions that could not be teleworked.
+- 10% of the job losses were from positions that could be teleworked.
+- Total employment loss is noted to be 2.9 million.
+- A note clarifying that the estimates refer to employed workers ages 16 and older and that the data is nonseasonally adjusted.
+- Source information attributing the data to the Pew Research Center’s analysis of Current Population Survey data.
+The chart emphasizes the significant impact of the COVID-19 crisis on jobs that couldn't transition to remote work.

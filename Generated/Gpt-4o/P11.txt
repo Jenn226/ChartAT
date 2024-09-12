@@ -1,0 +1,6 @@
+The chart is a pie chart that shows the percentage of Indian Americans who have different views on the significance of discrimination against Indian Americans. The chart is titled "How big a problem is discrimination against Indian Americans?" and is based on data from the Pew Research Center. The pie chart is divided into four segments:
+1. 48% of respondents believe discrimination against Indian Americans is a "Minor problem."
+2. 38% of respondents believe it is "Not a problem."
+3. 10% of respondents think it is a "Major problem."
+4. 4% of respondents either "Don't Know" or chose not to respond ("DK/Ref").
+The chart visually represents these percentages using different colored slices of a pie.

@@ -1,0 +1,6 @@
+The chart is a pie chart titled "Nigerians unsatisfied with how their democracy works." It displays responses to the question: "How satisfied are you with the way democracy is working in our country?"
+The chart has three segments with the following percentages:
+- "Not satisfied" is represented in blue, occupying 60% of the pie.
+- "Satisfied" is represented in green, occupying 39% of the pie.
+- "Don't know" is represented in a very small light green segment, occupying 1% of the pie.
+The source of this data is a survey of Nigerian adults conducted from June 25 to July 30, 2018, Q4, by PEW Research Center.

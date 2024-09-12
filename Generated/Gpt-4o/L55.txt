@@ -1,0 +1,42 @@
+The chart illustrates the positive views of the U.S. economy among Republicans and Democrats from 2007 to 2017. The chart’s title indicates that positive views nearly doubled among Republicans in 2017.
+The y-axis represents the percentage of people who believe the current economic situation in the country is good, ranging from 0% to 100%. The x-axis represents the years from 2007 to 2017.
+Key points from the chart:
+1. **2007**:
+- Republicans: 70%
+- Democrats: 43%
+2. **2008**:
+- Republicans: 34%
+- Democrats: 11%
+3. **2009**:
+- Republicans: 11%
+- Democrats: 8%
+4. **2010**:
+- Republicans: 14%
+- Democrats: 20%
+5. **2011**:
+- Republicans: 12%
+- Democrats: 33%
+6. **2012**:
+- Republicans: 10%
+- Democrats: 34%
+7. **2013**:
+- Republicans: 16%
+- Democrats: 41%
+8. **2014**:
+- Republicans: 22%
+- Democrats: 44%
+9. **2015**:
+- Republicans: 25%
+- Democrats: 51%
+10. **2016**:
+- Republicans: 31%
+- Democrats: 57%
+11. **2017**:
+- Republicans: 61%
+- Democrats: 60%
+### Trends Observed:
+- From 2007 to 2009, both Republicans' and Democrats' positive views on the economy declined sharply.
+- From 2009 to 2017, Democrats' positive views on the economy steadily increased.
+- Republicans' positive views on the economy remained relatively low from 2009 to 2016 but experienced a significant increase in 2017, nearly doubling from 31% in 2016 to 61% in 2017.
+- By 2017, the positive views of the economy were almost equal between Republicans (61%) and Democrats (60%).
+The data is sourced from the Spring 2017 Global Attitudes Survey by Pew Research Center.

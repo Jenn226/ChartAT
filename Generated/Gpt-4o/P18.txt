@@ -1,0 +1,6 @@
+The chart from Pew Research Center illustrates the percentages of U.S. adults' opinions on how the actions of ordinary Americans affect the spread of COVID-19 within the United States. The findings are based on a survey conducted from June 16-22, 2020. The responses are segmented as follows:
+- 59% of respondents believe that the actions of ordinary Americans affect the spread of COVID-19 "A great deal."
+- 28% feel that these actions impact the spread "A fair amount."
+- 10% think the actions do not impact the spread "Not too much."
+- 2% believe that the actions have no effect "Not at all."
+The chart visually represents these percentages using a pie chart format. The note at the bottom clarifies that responses where people did not answer are not shown.

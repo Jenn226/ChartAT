@@ -1,0 +1,11 @@
+The chart illustrates the percentage of immigrants aged 5 and older who speak various languages at home. Here are the specific percentages for each language:
+- Spanish: 42%
+- English only: 17%
+- Chinese: 6%
+- Hindi: 5%
+- Filipino/Tagalog: 4%
+- French: 3%
+- Vietnamese: 3%
+- Dravidian: 2%
+- Arabic: 2%
+- All other: 17%

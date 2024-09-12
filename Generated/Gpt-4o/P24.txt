@@ -1,0 +1,5 @@
+The chart in the image illustrates the results of a survey conducted by the Pew Research Center from February 18 to March 2, 2020, asking U.S. adults about their perception of news organizations' understanding of people like them.
+The chart is a pie chart divided into three segments:
+1. The largest segment, colored yellow, represents the 59% of respondents who believe that news organizations don't understand people like them.
+2. The second-largest segment, colored maroon, represents the 37% of respondents who feel that news organizations do understand people like them.
+3. A small gray segment represents the 4% of respondents who did not provide an answer.

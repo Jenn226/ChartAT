@@ -1,0 +1,12 @@
+The chart illustrates the percentage of adult unauthorized immigrants in the U.S. based on their duration of residence from 1995 to 2017. It highlights two distinct groups: those who have been in the U.S. for more than 10 years and those who have been in the U.S. for 5 years or less.
+Key points from the chart:
+1. **More than 10 years**:
+- In 1995, 36% of adult unauthorized immigrants had been in the U.S. for more than 10 years.
+- This percentage experienced a general upward trend over time, rising to 41% in 2005.
+- It further increased significantly, reaching 66% in 2017.
+2. **5 years or less**:
+- In 1995, 33% of adult unauthorized immigrants had been in the U.S. for 5 years or less.
+- This percentage remained fairly steady around 36-38% from 1995 to 2000.
+- After 2000, there was a noticeable decline, falling to 30% in 2005 and continued decreasing to 17-18% by 2015.
+- By 2017, the percentage slightly increased to 20%.
+Overall, the chart suggests a decline in the share of short-term residents (5 years or less) and a rise in long-term residents (more than 10 years) among the population of adult unauthorized immigrants in the U.S. over the time period examined. The data is drawn from Pew Research Center estimates based on augmented U.S. Census Bureau data.

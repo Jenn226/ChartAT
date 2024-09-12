@@ -1,0 +1,8 @@
+The chart presents the responses of Hispanic adults regarding whether being Hispanic is part of their racial background. The specific content is as follows:
+- 67% of Hispanic adults said being Hispanic was part of their racial background.
+- The breakdown of responses is displayed in a pie chart with the following categories:
+- 56% said it is both their racial and ethnic background.
+- 19% said it is solely their ethnic background.
+- 13% said they don’t know.
+- 11% said it is solely their racial background.
+There is a note clarifying that Hispanic designation is based on self-identification of race or origin and that the figures may not add up to exactly 100% due to rounding. The data is sourced from a Pew Research Center survey of U.S. multiracial adults conducted between February 6 and April 6, 2015.

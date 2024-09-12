@@ -1,0 +1,14 @@
+The chart titled "Interest rates on U.S. public debt, once at historic low, now heading higher" depicts the average interest rate on U.S. public debt from the fiscal year end (September 30) of 1988 to 2018.
+Here’s a detailed description of the specific content of the chart:
+- **YAxis (Vertical Axis)**: Represents the average interest rate on public debt and ranges from 2% to 10%.
+- **XAxis (Horizontal Axis)**: Represents the fiscal year ends from 1988 to 2018.
+- **Main Line (Blue Line)**: Shows the trend of the average interest rate on public debt across the years.
+### Key Points:
+1. **1988**: The interest rate begins at approximately 8.8%.
+2. **1988 - 2000**: The interest rate shows a generally downward trend, reaching around 6% in 2000.
+3. **2000 - 2012**: The interest rate continues to decrease significantly, dropping below 4% around 2012.
+4. **2012 - 2018**: The interest rate hits a historic low and then increases slightly to reach 2.5% in 2018.
+### Additional Information:
+- **Notes**: The average interest rates are calculated on the total unmatured interest-bearing debt, excluding inflation-protected securities. Total debt figures before 2001 exclude a small amount of non-interest-bearing debt.
+- **Source**: TreasuryDirect (U.S. Department of the Treasury, Bureau of the Fiscal Service).
+- **Publisher**: Pew Research Center.

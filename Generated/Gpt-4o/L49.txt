@@ -1,0 +1,14 @@
+The chart is a line graph that shows the percentage of U.S. adults who believe the worst of the coronavirus outbreak is either still to come or behind us over time. Here are the specific details:
+- The title of the chart is "71% of Americans say the worst of the coronavirus outbreak is 'still to come'."
+- The data shows percentages for U.S. adults in response to the statement: "In thinking about the problems the country is facing from the coronavirus outbreak..."
+- There are two lines on the graph:
+* The olive green line represents the percentage of people who believe "The worst is still to come."
+* The dark blue line represents the percentage of people who believe "The worst is behind us."
+- The data points are as follows:
+* In April, 73% of people believed "The worst is still to come" and 26% believed "The worst is behind us."
+* In June, 59% believed "The worst is still to come" and 40% believed "The worst is behind us."
+* In November, 71% believed "The worst is still to come" and 28% believed "The worst is behind us."
+- The bottom of the chart includes a note stating that respondents who did not give an answer are not shown.
+- The source of the data is a survey conducted from November 18-29, 2020.
+- There is an additional note saying, "Intent to Get a COVID-19 Vaccine Rises to 60% as Confidence in Research and Development Process Increases."
+- The chart is provided by Pew Research Center.

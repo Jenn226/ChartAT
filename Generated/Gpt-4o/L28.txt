@@ -1,0 +1,11 @@
+The chart illustrates the trend in the U.S. imprisonment rate from 1988 to 2018, measured in prisoners per 100,000 adults aged 18 and older.
+Key points of the chart:
+- In 1988, the imprisonment rate was 331 prisoners per 100,000 adults.
+- The rate saw a steady increase, peaking in the late 2000s.
+- The peak rate was 670 prisoners per 100,000 adults in 2008.
+- Post-2008, the imprisonment rate declined.
+- By 2018, the rate had decreased to 555 prisoners per 100,000 adults.
+Additional information provided includes:
+- Sentenced prisoners are defined as those sentenced to more than a year in state or federal prison.
+- The data source is the Bureau of Justice Statistics.
+- The chart is created by the Pew Research Center.

@@ -1,0 +1,17 @@
+The chart from the Pew Research Center depicts the percentage of Britons who have a favorable or unfavorable opinion of the EU from 2004 to 2020.
+Here's a detailed description:
+- **Time Period**: The x-axis shows the years from 2004 to 2020.
+- **Percentage**: The y-axis ranges from 0% to 100%.
+- **Favorable Opinions**: Represented by the green line.
+- In 2004, 54% had a favorable opinion.
+- This percentage fluctuated slightly over the years, dropping to 46% in 2012.
+- Post-2016, the percentage varied around the mid-40s.
+- By 2020, the favorable view reached 60%.
+- **Unfavorable Opinions**: Represented by the blue line.
+- In 2004, 36% had an unfavorable opinion.
+- This percentage gradually increased, reaching 45% by 2012.
+- After the 2016 referendum, unfavorable views fluctuated around the mid-40s as well.
+- By 2020, the percentage dropped to 37%.
+- A notable point is the **June 2016 EU membership referendum**, marked by a vertical dashed line. After this point, the favorable opinions rose significantly, while unfavorable opinions declined.
+- **Survey Details**: The data comes from the Summer 2020 Global Attitudes Survey conducted from June 10 to July 28, 2020 (Q8d).
+**Note**: The chart also mentions that those who did not answer are not shown.

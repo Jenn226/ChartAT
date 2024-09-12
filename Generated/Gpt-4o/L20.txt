@@ -1,0 +1,6 @@
+The chart illustrates the projected growth of the world population over a period extending from 1950 to 2100.
+- In 1950, the world population is marked at 2.5 billion people.
+- By 2020, the world population has increased to 7.8 billion people.
+- The projection for 2100 indicates the world population will reach approximately 10.9 billion people.
+The trend line shows rapid growth from 1950 to 2020, with the pace of growth projected to slow down and eventually flatten as it approaches 2100.
+The chart is labeled "World population growth is projected to flatten in coming decades." It is sourced from the United Nations Department of Economic and Social Affairs, Population Division's "World Population Prospects 2019," and is published by the Pew Research Center. Data labels are shown specifically at the years 1950, 2020, and 2100 to highlight key points in the population changes over time.

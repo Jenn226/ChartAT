@@ -1,0 +1,5 @@
+This chart is a pie chart that presents data from a survey about people's perceptions of how others would react to them wearing a mask in public. The chart is divided into three sections with the following percentages:
+- **Approve:** 55% (represented by a golden-yellow segment)
+- **Not care:** 40% (represented by a light grey segment)
+- **Disapprove:** 4% (represented by a dark grey segment)
+Additional information provided includes that respondents without an answer were not shown. The source of the data is a survey of U.S. adults conducted by the Pew Research Center from June 16-22, 2020.

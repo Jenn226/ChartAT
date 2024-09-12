@@ -1,0 +1,21 @@
+The chart titled "More voters say it 'really matters' who wins the presidency than at any point in the last 20 years" shows the percentage of registered voters who responded to the statement about the importance of presidential election outcomes over time. The data spans from the year 2000 to 2020.
+There are two lines in the chart, each representing different opinions:
+1. **"It really matters who wins the presidential election" (represented by the gold line):**
+- 2000: 50%
+- 2004: 67%
+- 2008: 63%
+- 2012: 63%
+- 2016: 74%
+- 2020: 83%
+2. **"Things will be pretty much the same regardless of who is elected" (represented by the light gold line):**
+- 2000: 44%
+- 2004: 29%
+- 2008: 32%
+- 2012: 34%
+- 2016: 22%
+- 2020: 16%
+The chart illustrates a growing sentiment among registered voters that the outcome of the presidential election 'really matters,' with a notable increase from 50% in 2000 to 83% in 2020. Conversely, the number of voters who think things will be "pretty much the same regardless of who is elected" has decreased over the same period, from 44% in 2000 to 16% in 2020.
+**Notes and source**:
+- The data is based on registered voters and includes volunteered and don't know responses not shown.
+- Data from prior years is sourced from June surveys.
+- The source of this data is a telephone survey of U.S. adults conducted from July 23 to August 4, 2020, by Pew Research Center.

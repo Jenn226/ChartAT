@@ -1,0 +1,25 @@
+This chart from Pew Research Center illustrates the increase in support among U.S. adults for prioritizing policies on the environment and climate change from 2008 to 2020. Here are the key details:
+1. **Chart Title**: "Increased support for prioritizing policies on the environment, climate change since 2011"
+2. **Subheading**: "% U.S. adults who say ___ should be a top priority for the president and Congress"
+Two lines are plotted:
+1. **Protecting the Environment** (Olive Green Line):
+- 2008: 41%
+- 2009-2013: Fluctuates around 41%-44%
+- 2014: Shows an increase to 49%
+- 2015-2017: Continues to rise, peaking at 62% in 2017
+- 2018: Drops to 56%
+- 2020: Increases to 64%
+2. **Dealing with Global Climate Change** (Blue Line):
+- 2008: 30%
+- 2009-2013: Remains relatively steady, staying around 28%-30%
+- 2014: Slight increase to 29%
+- 2015: Noticeable increase to 38%
+- 2016: Small rise to 34%
+- 2017-2019: Shows steady growth, reaching up to 46% in 2019
+- 2020: Increases to 52%
+**Notes**:
+- In 2014 and earlier, respondents were asked about "dealing with global warming."
+- In 2015, half the sample was asked about either "global warming" or "global climate change."
+- The source of the data is a survey of U.S. adults conducted January 8-13, 2020.
+- The context for the increase in concern is provided by the caption: "As Economic Concerns Recede, Environmental Protection Rises on the Public’s Policy Agenda."
+Overall, the chart shows a significant increase in the percentage of U.S. adults who believe that protecting the environment and addressing global climate change should be top priorities for the president and Congress, with more notable growth in concern for climate change from around 2014 onwards.

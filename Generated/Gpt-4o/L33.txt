@@ -1,0 +1,7 @@
+The chart shows the total size of the U.S. active duty force from 1990 to 2017, indicating a considerable downsizing in the post-Cold War era. Key points are:
+1. The total size of the U.S. active duty force was at its highest in 1990 with 2,065,597 personnel.
+2. There is a marked decline from 1990 until around the mid-1990s.
+3. There is a slight increase around 2001, corresponding with the year of the 9/11 terrorist attacks, with the force size noted as 1,404,215.
+4. The force size continues to decrease gradually after that though there is some stabilization until 2010.
+5. By 2017, the size of the active duty force reduces to 1,335,120 personnel.
+The chart includes a note that the data encompasses four military branches of the Department of Defense and the Department of Homeland Security active duty Coast Guard. Data points with labels are specifically provided for the years 1990, 2001, and 2017. The source of the data is the U.S. Department of Defense annual Demographics Report from 1990 to 2017.

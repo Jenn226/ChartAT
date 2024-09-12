@@ -1,0 +1,13 @@
+The chart displays the results of a survey conducted by the Pew Research Center regarding the perceptions of U.S. adults on the impact of global climate change on their local community. The key points highlighted in the chart are:
+- **Title:** "A majority of U.S. adults say climate change is affecting their local community at least some"
+- **Subtitle:** "% of U.S. adults who say global climate change is affecting their local community..."
+- **Chart Breakdown:**
+- 22% say climate change is affecting their local community "a great deal."
+- 39% say climate change is affecting their local community "some."
+- 38% say climate change is affecting their local community "not too much/not at all."
+- 1% did not answer.
+- **Key Statistic Highlighted:**
+- 62% of U.S. adults believe that climate change is affecting their community at least some (combining the 22% and 39% figures).
+- **Survey Details:**
+- The survey was conducted from October 1-13, 2019.
+- It falls under the study "U.S. Public Views on Climate and Energy" by the Pew Research Center.

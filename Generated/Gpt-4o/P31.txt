@@ -1,0 +1,5 @@
+The chart provides data on the satisfaction of Indian adults with the way democracy is working in India. It is sourced from the Spring 2018 Global Attitudes Survey conducted by the Pew Research Center between May 23 and July 23, 2018. The chart is a pie chart with three segments:
+- 54% of respondents are "Satisfied" with the way democracy is working in India, represented by the green segment.
+- 33% of respondents are "Not satisfied" with the way democracy is working in India, represented by the blue segment.
+- 13% of respondents responded with "Don't know," represented by the gray segment.
+The chart indicates that most Indians (54%) are satisfied with the current state of democracy in their country.

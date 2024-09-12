@@ -1,0 +1,20 @@
+The chart displays the percentage of eligible voters who reported voting in midterm elections, broken down by gender (men and women), over various election years. The data points are as follows:
+1. In 1998:
+- Men: 44.9%
+- Women: 45.7%
+2. In 2002:
+- Men: Approximately 46%
+- Women: Approximately 47%
+3. In 2006:
+- Men: Approximately 46.5%
+- Women: Approximately 47.5%
+4. In 2010:
+- Men: Approximately 42.9%
+- Women: Approximately 43%
+5. In 2014:
+- Men: 40.8%
+- Women: 43.0%
+6. In 2018:
+- Men: 51.8%
+- Women: 55.0%
+Overall, the chart illustrates that women have consistently reported higher voter turnout rates than men in midterm elections from 1998 to 2018. The source of the data is the Pew Research Center's analysis of the Current Population Survey, November Supplements, from 1998 to 2018. The note below the chart clarifies that the eligible voters considered are U.S. citizens aged 18 and older and that the data is not adjusted to administrative voting records.

@@ -1,0 +1,7 @@
+The chart provides data on the percentage of Democrat/Lean Democrat voters who rated their impression of the candidates running for the Democratic nomination as excellent or good at different points in time. Specifically:
+- In January 2020, 64% of respondents had a positive impression.
+- In January 2008, 78% of respondents had a positive impression.
+- In January 2004, 46% of respondents had a positive impression.
+- In February 1992, 45% of respondents had a positive impression.
+- In January 1988, 37% of respondents had a positive impression.
+The note at the bottom specifies that the surveys conducted in 2008 and prior were conducted over the phone, and the January 1988 survey included all adult Democrats and Democratic leaners. The source of the data is Pew Research Center, based on a survey of U.S. adults conducted from January 6-19, 2020.

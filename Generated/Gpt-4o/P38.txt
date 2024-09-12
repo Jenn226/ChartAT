@@ -1,0 +1,5 @@
+The chart displays the breakdown of U.S. gun deaths in 2017 by type. It is a pie chart with three categories:
+1. Suicides: Represented in green, making up 60% of the total gun deaths.
+2. Murders: Represented in yellow, accounting for 37% of the total gun deaths.
+3. Other: Represented in gray, constituting 3% of the total gun deaths.
+The note at the bottom explains that the "Other" category includes gun deaths that were unintentional, involved law enforcement, or had undetermined circumstances. This data is sourced from the Centers for Disease Control and Prevention and presented by the Pew Research Center.

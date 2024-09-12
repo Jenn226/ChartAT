@@ -1,0 +1,9 @@
+The chart titled "U.S. Hispanic population reached nearly 61 million in 2019" displays the growth of the Hispanic population in the United States from 1970 to 2019. The data is presented in millions and marked at intervals of roughly ten years. Here are the specific population figures at each interval:
+- 1970: 9.6 million
+- 1980: 14.5 million
+- 1990: 22.6 million
+- 2000: 35.7 million
+- 2010: 50.7 million
+- 2019: 60.6 million
+The chart illustrates a steady increase in the Hispanic population over the 49-year period.
+Additional notes included state that population estimates for 1990-2019 are as of July 1 for each year, and the counts include Hispanics of any race. The source of the data is the Pew Research Center, with estimates based on decennial censuses, U.S. inter-censal population estimates, and U.S. Census Bureau Vintage 2019 estimates for 2010-2019.

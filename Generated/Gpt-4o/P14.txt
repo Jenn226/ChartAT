@@ -1,0 +1,4 @@
+The chart presents data on internet access among adults without health insurance, showing the percentage who do and do not use the internet. The chart is a pie chart divided into two segments:
+- Internet users: 79%
+- Not internet users: 21%
+The data is sourced from the Pew Research Center's Internet & American Life Project Health Survey, conducted from August 07 to September 06, 2012. The survey included 413 adults without health insurance, with interviews conducted in English and Spanish over both landline and cell phones. The margin of error for results based on those without health insurance is +/- 5.6 percentage points.

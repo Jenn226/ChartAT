@@ -1,0 +1,7 @@
+The chart depicts the percentage of the foreign-born population in the U.S., aged 5 and older, who are English proficient, spanning the years 1980 to 2018. The data points are as follows:
+- In 1980, 57% of the foreign-born population were English proficient.
+- By 1990, this percentage had decreased to 53%.
+- In 2000, the percentage further declined to 49%.
+- The lowest point observed is in 2010, with 48% being English proficient.
+- After 2010, there was a gradual increase reaching up to 53% by 2018.
+The note explains that English proficient individuals are those who either speak only English at home or, if they speak a non-English language at home, they report being able to speak English at least "very well." The source of the data is the Pew Research Center's tabulations of census and survey data from 1980 to 2018.

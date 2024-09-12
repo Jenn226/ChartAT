@@ -1,0 +1,12 @@
+The chart shows the percentage of U.S. adults who have either a favorable or unfavorable opinion of China over the years from 2005 to 2020. The data is likely from surveys conducted by the Pew Research Center.
+**Key points from the chart:**
+- The percentage of unfavorable opinions (shown in blue) has generally increased over the years.
+- In 2005, 35% had an unfavorable opinion.
+- By 2020, this had increased sharply to 66%.
+- The percentage of favorable opinions (shown in green) has generally decreased over the years.
+- In 2005, 43% had a favorable opinion.
+- By 2020, this dropped to 26%.
+Notable fluctuations:
+- Unfavorable opinions were around 35-40% from 2005 to 2013, but then began to rise steadily, reaching 66% in 2020.
+- Favorable opinions experienced a decrease, starting from 43% in 2005 and dropping below 30% from around 2018 onwards.
+The chart underscores trends in how American public opinion on China has become increasingly negative over time.

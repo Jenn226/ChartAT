@@ -1,0 +1,6 @@
+The chart illustrates the number of Immigration and Customs Enforcement (ICE) arrests by fiscal year from 2009 to 2019.
+- In 2009, the number of ICE arrests was 297,898.
+- There was a general decline in arrests over the years, hitting the lowest point in 2015 with 110,104 arrests.
+- Post-2016, the number of arrests began to increase each year, reaching 143,099 in 2019.
+The chart's title indicates that ICE arrests increased after Trump took office but remained lower than during much of Obama's tenure. Additional notes clarify that the data includes only administrative arrests by ICE Enforcement and Removal Operations and does not include Customs and Border Protection apprehensions.
+Source: Pew Research Center, based on U.S. Immigration and Customs Enforcement data.

@@ -1,0 +1,13 @@
+The chart illustrates British public opinion of the European Union (EU) over time, from 2004 to 2020. It shows changes in the percentage of Britons with favorable and unfavorable opinions of the EU.
+Here are the key points demonstrated by the chart:
+1. **Favorable Opinions (Green Line):**
+- In 2004, 54% of Britons had a favorable opinion of the EU.
+- The favorable opinion saw fluctuations over the years, generally remaining between 40% and 54%.
+- After the June 2016 EU membership referendum (Brexit), the percentage of favorable opinions initially remained stable but saw a significant increase in the following years, reaching 60% in 2020.
+2. **Unfavorable Opinions (Blue Line):**
+- In 2004, 36% of Britons had an unfavorable opinion of the EU.
+- The unfavorable opinion experienced some variations, usually hovering between 40% and 48%.
+- Post-referendum in 2016, there was a notable peak in unfavorable opinions reaching 48%, but it decreased steadily afterward, dropping to 37% in 2020.
+3. **June 2016 EU Membership Referendum:**
+- This event is marked on the chart with a vertical dotted line, indicating a significant moment that coincides with a shift in public opinion trends.
+Overall, the chart indicates that British views toward the EU saw dynamic changes over the period, notably with an increasing favorable view post the 2016 referendum. The data source is a Summer 2020 Global Attitudes Survey conducted from June 10 to July 28, 2020, by Pew Research Center. It also notes that those who did not answer are not shown in the chart.

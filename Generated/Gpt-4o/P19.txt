@@ -1,0 +1,27 @@
+The chart from the Pew Research Center shows the percentage breakdown of Asian Americans by specific origin groups. Here are the details:
+1. **Chinese**: 23%
+2. **Indian**: 19%
+3. **Filipino**: 18%
+4. **Vietnamese**: 9%
+5. **Korean**: 9%
+6. **Japanese**: 7%
+7. **All Others**: 15%
+The "All Others" category, which makes up 15%, includes the following smaller origin groups, each accounting for less than 2% or 1% of Asian Americans:
+- **Pakistani**: 2%
+- **Cambodian**: 2%
+- **Hmong**: 1%
+- **Thai**: 1%
+- **Laotian**: 1%
+- **Bangladeshi**: <1%
+- **Burmese**: <1%
+- **Nepalese**: <1%
+- **Indonesian**: <1%
+- **Sri Lankan**: <1%
+- **Malaysian**: <1%
+- **Bhutanese**: <1%
+- **Mongolian**: <1%
+**Notes**:
+- The Chinese category includes those identifying as Taiwanese.
+- The category "Other Asian, not specified" is not shown.
+- Figures may not add up to 100% due to rounding.
+The data source is the Pew Research Center's analysis of the 2015 American Community Survey 1-year estimates (American Fact Finder).

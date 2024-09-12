@@ -1,0 +1,8 @@
+The chart is a pie chart displaying the results of a survey question: "What Is the Main Reason Gas Prices Have Gone Up Recently?" The specific breakdown of the responses is as follows:
+- 31% attribute the rise in gas prices to "Greed/Oil companies/Speculation."
+- 19% believe it is due to "Wars/Mideast unrest."
+- 14% think the reason is "Politics/Policy."
+- 12% cite "Economic forces" as the main reason.
+- 10% believe "Other reasons" are responsible.
+- 14% have "No opinion."
+The chart is sourced from the Pew Research Center and Washington Post, dated from a survey conducted between April 28 and May 1, 2011.

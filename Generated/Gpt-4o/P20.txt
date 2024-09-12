@@ -1,0 +1,5 @@
+The chart from the Pew Research Center's Internet Project, dated July 18 to September 30, 2013, illustrates the percentage of seniors who use online social networks (SNS, Social Networking Services) compared to those who go online but do not use social networks and those who do not go online at all.
+- 27% of seniors use social networking services (SNS).
+- 32% of seniors go online but do not use social networks.
+- 41% of seniors do not go online at all.
+The information is presented in a pie chart format with each category allocated a different section and color for visual differentiation.

@@ -1,0 +1,7 @@
+The chart from the Pew Research Center provides information on the number of ad preference categories listed for U.S. adult Facebook users. The percentages are as follows:
+- 27% of users have fewer than 10 categories.
+- 27% of users have between 10 to 20 categories.
+- 33% of users have 21 or more categories.
+- 11% of users are not assigned to a category.
+- 2% of users did not give an answer.
+The data was collected from a survey of Facebook users conducted between September 4 and October 1, 2018, as part of the study "Facebook Algorithms and Personal Data."

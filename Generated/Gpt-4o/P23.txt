@@ -1,0 +1,6 @@
+The chart presents the results of a survey conducted by The Pew Research Center's Internet & American Life Project Online Survey of Teachers regarding the effect of digital technologies on shaping or improving student writing. The chart is a pie chart divided into three sectors, representing the percentage responses to the question: "Do today's digital technologies make it EASIER or MORE DIFFICULT for you as a teacher to shape or improve student writing, or do they have NO IMPACT?"
+Here's the breakdown of the chart’s content:
+1. **Easier**: 50% - This segment, which takes up half of the pie chart, indicates that 50% of respondents believe that today’s digital technologies make it easier for them to shape or improve student writing.
+2. **No impact**: 31% - This segment represents the portion of respondents who believe that modern digital technologies have no significant impact on shaping or improving student writing.
+3. **More difficult**: 18% - This smaller segment shows that 18% of the respondents feel that digital technologies make the process more difficult.
+The survey sampled 2,067 middle and high school teachers between March 7 and April 23, 2012. The results are based on a non-representative sample.

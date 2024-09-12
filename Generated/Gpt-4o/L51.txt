@@ -1,0 +1,15 @@
+The chart titled "Around the world, more have favorable view of the U.S. than express confidence in Trump" depicts the percentage of people who have favorable views of the U.S. and those who have confidence in the U.S. President. The data are median percentages based on a survey conducted in 24 countries, taken from the Spring 2019 Global Attitudes Survey.
+### Key Points:
+1. **Confidence in U.S. President:**
+- For President Obama (2016): Confidence stood at 74%.
+- This figure sharply drops for President Trump, starting at 23% in 2017, and showing a slight increase to 31% by 2019.
+2. **Favorable Views of the U.S.:**
+- In 2016, the favorable views of the U.S. were 64%.
+- This figure decreases to 49% in 2017, then slightly increases to 51% in 2018, and reaches 53% in 2019.
+### Trends:
+- The confidence in the U.S. President shows a pronounced decline from Obama to Trump.
+- Despite the drop in confidence in the U.S. President, the overall favorable views of the U.S. remain relatively higher, although they also see a decline before stabilizing and slightly improving.
+### Source:
+The data come from the Spring 2019 Global Attitudes Survey, as indicated in Q8a & Q38a, labeled "Trump Ratings Remain Low Around Globe, While Views of U.S. Stay Mostly Favorable."
+### Note:
+The percentages represent medians based on the 24 countries surveyed in each year by the Pew Research Center.

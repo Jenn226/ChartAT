@@ -1,0 +1,11 @@
+The chart shows the percentage of the U.S. population that is foreign-born from 1850 to 2017. Key data points and events are highlighted:
+1. The percentage of foreign-born population in 1850 is recorded at 9.7%.
+2. There is a significant rise, with the percentage peaking at 14.8% in 1890.
+3. This percentage fluctuates and starts to decline after 1910.
+4. The 1924 National Origins Quota Act is pointed out, after which the foreign-born population percentage declines.
+5. The lowest point is reached in 1970 at 4.7%.
+6. The 1965 Immigration and Nationality Act is noted, after which the percentage gradually increases.
+7. By 2017, the percentage of the foreign-born population is 13.6%.
+Additional notes:
+- The source of the data is the U.S. Census Bureau’s "Historical Census Statistics on the Foreign-Born Population of the United States: 1850-2000" and the Pew Research Center.
+- The share is calculated for the 50 states and the District of Columbia.

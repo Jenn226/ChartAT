@@ -1,0 +1,6 @@
+The chart displays the number of removals of unauthorized immigrants by fiscal year from 2000 to 2018. The data points and trends are as follows:
+- In 2000, the number of removals was 188,467.
+- The number of removals gradually increased, with some fluctuations, reaching a peak of 432,281 in 2013.
+- Following this peak, there was a noticeable decline in removals, dropping significantly around 2015 and continuing to decrease.
+- In 2017, the number of removals was lower but increased by 17% in 2018, reaching 337,287.
+The chart also includes a note clarifying that the data encompasses removals by Customs and Border Protection and Immigration and Customs Enforcement. Removals are defined as the "compulsory and confirmed movement of an inadmissible or deportable alien out of the United States based on an order of removal." The source of the data is the Department of Homeland Security, Yearbook of Immigration Statistics 2018.

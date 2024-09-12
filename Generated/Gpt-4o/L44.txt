@@ -1,0 +1,7 @@
+The chart presents data from Pew Research Center, detailing how respondents from 14 nations perceived either the U.S. or China as the world's leading economic power from 2008 to 2012.
+- In 2008, 45% named the U.S. as the leading economic power, while 22% named China.
+- In 2009, 46% named the U.S., while China's perception increased to 27%.
+- By 2010, the perception shifted, with 40% indicating the U.S. and 36% indicating China.
+- In 2011, both countries were seen as nearly equal economic powers, with 41% for the U.S. and 40% for China.
+- In 2012, China surpassed the U.S., with 42% naming China compared to 36% naming the U.S.
+In summary, the chart shows a trend where the perception of China as the leading economic power increased over the years, particularly seeing a notable increase, eventually surpassing the United States in 2012.

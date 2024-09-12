@@ -1,0 +1,8 @@
+The chart titled "Share of voters casting ballots by mail has steadily risen since 1996" displays the percentage of U.S. voters who cast their ballots by mail from the year 1996 to 2016. The data points are as follows:
+- **1996**: 7.8%
+- **2000**: 10.1%
+- **2004**: 12.9%
+- **2008**: 16.4%
+- **2012**: 18.5%
+- **2016**: 20.9%
+The data is derived from Pew Research Center's analysis of 1996-2016 Current Population Survey November Supplements (IPUMS and U.S. Census Bureau). The chart shows a steady increase in the share of voters casting ballots by mail over the 20-year period.

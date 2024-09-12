@@ -1,0 +1,15 @@
+The chart illustrates the percentage of American adults aged 18 and older who owned a tablet computer from May 2010 to May 2013.
+Here is a detailed year-by-year breakdown:
+- **May 2010**: 3%
+- **Sept 2010**: 4%
+- **Nov 2010**: 5%
+- **Jan 2011**: 7%
+- **May 2011**: 8%
+- **Aug 2011**: 10%
+- **Dec 2011**: 11%
+- **Jan 2012**: 14%
+- **Aug 2012**: 25%
+- **Nov 2012**: 25%
+- **Apr 2013**: 31%
+- **May 2013**: 34%
+The chart outlines a generally increasing trend in tablet ownership among American adults over this period. The sample data in May 2013 came from a survey by the Pew Research Center’s Internet & American Life Project, involving 2,252 adults and a margin of error of +/- 2.3 percentage points.

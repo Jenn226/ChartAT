@@ -1,0 +1,9 @@
+The chart provided is a pie chart illustrating the percentage of U.S. adults who have read different types of books in the previous 12 months, based on a survey conducted by the Pew Research Center from January 8 to February 7, 2019. Here are the specific details from the chart:
+- 37% of U.S. adults have read only print books.
+- 28% of U.S. adults have read both print and digital books.
+- 27% of U.S. adults have not read any books.
+- 7% of U.S. adults have read only digital books.
+- 1% of U.S. adults don't know or refused to answer.
+The "digital books" category includes both e-books and audiobooks. The chart title and source information are also provided:
+Title: "37% say they only read print books"
+Source: Survey conducted from Jan. 8 to Feb. 7, 2019 by Pew Research Center.

@@ -1,0 +1,13 @@
+The chart titled "More Say They Graze for News" depicts the changing habits of people regarding news consumption from 2002 to 2010. It shows two trends:
+1. **Checks on news from time to time (in red line)**:
+- This trend starts at 48% in 2002.
+- Gradually increases to 52% in 2004.
+- Decreases slightly to 50% in 2006.
+- Rises to 51% in 2008.
+- Sharp increase to 57% in 2010.
+2. **Gets news at regular times (in blue line)**:
+- This trend starts at 49% in 2002.
+- Decreases to 48% in 2004 and 2006.
+- Decreases further to 45% in 2008.
+- Drops significantly to 38% in 2010.
+The point where the two lines intersect is in 2008, where 51% of people check on news from time to time and 45% get news at regular times. This transition showcases a shift in news consumption habits over this 8-year period, with a growing preference for checking news intermittently rather than at regular intervals. The source of the data is the Pew Research Center, collected during June 8-28, 2010 (Q91).

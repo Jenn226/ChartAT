@@ -1,0 +1,6 @@
+The chart is a pie chart depicting the responses from a survey of U.S. adults conducted by Pew Research Center from April 20-26, 2020. The survey asks whether states are still holding primaries for the Democratic presidential nomination. The responses are divided as follows:
+- 43% say "Yes, states are still holding primaries"
+- 41% say "Not sure"
+- 14% say "No"
+- 1% provided no answer
+The chart highlights that a significant portion of Americans at that time were unsure about the status of Democratic primaries.
